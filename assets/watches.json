@@ -1,0 +1,20 @@
+[
+  {
+    "id": "W01",
+    "name": "Casio MTP-RS105M (Analog, Edelstahl)",
+    "type": "klassisch-elegant",
+    "tone": ["neutral", "silber", "schwarz", "grau", "weiss", "blau", "grün"],
+    "file": "assets/watches/W01_casio_mtp_rs105m.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Casio_MTP-RS105M-3B.jpg",
+    "license": "CC BY-SA 4.0 (Wikimedia Commons)"
+  },
+  {
+    "id": "W02",
+    "name": "Casio F-91W (klassisch, schwarz)",
+    "type": "klassisch-schlicht",
+    "tone": ["neutral", "schwarz", "grau", "weiss", "beige"],
+    "file": "assets/watches/W02_casio_f91w.png",
+    "source": "commons:Casio_F-91W_5051.jpg",
+    "license": "Wikimedia Commons"
+  }
+]

@@ -1,0 +1,11 @@
+# Generierte Fits
+fits/
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Laufzeit-State
+history.json
+logs/

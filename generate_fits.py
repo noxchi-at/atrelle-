@@ -26,6 +26,11 @@ NEUTRAL = {"schwarz", "weiss", "grau", "dunkelgrau", "hellgrau", "anthrazit",
 # Kategorien, in denen ein Guertel Sinn ergibt (Hose/Jeans sichtbar)
 BELT_SLOTS = {"bottom"}
 
+# Max. Bilder, die ChatGPT und Gemini gemeinsam pro Nachricht/Prompt zulassen.
+# ChatGPT: 10 pro Nachricht (Web seit 02/2026 bis 20), Gemini: 10 pro Prompt.
+# Ein Fit hat max. 7 Bilder (4 Produkte + Guertel + Uhr + Parfuem) -> immer drunter.
+MAX_UPLOAD = 10
+
 THEMES = {
     "streetwear": {"prefer": ["schwarz", "grau", "weiss"], "outer": True},
     "summer":     {"prefer": ["weiss", "beige", "hellblau", "creme"], "outer": False},
@@ -379,6 +384,48 @@ def fit_signature(fit):
     return "|".join(sorted(p["id"] for p in fit))
 
 
+def write_overview(outdir, overview, tryon_on):
+    """Schreibt fits_uebersicht.md: pro Fit die Bild-Upload-Reihenfolge und
+    den komplett kopierbaren Prompt untereinander - fuers manuelle Hochladen
+    bei ChatGPT und Gemini."""
+    md = []
+    md.append("# Fits-Übersicht — Upload für ChatGPT & Gemini\n")
+    md.append("**So gehst du pro Fit vor:**\n")
+    md.append("1. Fit-Ordner öffnen.")
+    md.append("2. Bilder in der angegebenen Reihenfolge (1, 2, 3, …) hochladen.")
+    md.append("3. Den Prompt-Block darunter komplett kopieren und in dieselbe "
+              "Nachricht einfügen.\n")
+    md.append(f"**Bild-Limit:** ChatGPT und Gemini erlauben je {MAX_UPLOAD} Bilder "
+              "pro Nachricht/Prompt. Jeder Fit hat max. 7 Bilder (4 Produkte + "
+              "Gürtel + Uhr + Parfüm) und passt damit immer in **eine** Nachricht.\n")
+    if tryon_on:
+        md.append("Zu jedem Fit gibt es zusätzlich einen **Try-On-Prompt** "
+                  "(Spiegelselfie). Dafür zusätzlich das Personen-Referenzfoto und "
+                  "das Spiegelfoto-Referenzbild hochladen.\n")
+    md.append(f"_{len(overview)} Fits._\n")
+    md.append("---\n")
+
+    for o in overview:
+        md.append(f"## Fit {o['i']:02d} — {o['theme']}  \n")
+        md.append(f"Ordner: `{o['dir']}`  ·  {len(o['upload'])} Bilder\n")
+        md.append(f"**Bilder in Upload-Reihenfolge:**\n")
+        for n, (fname, label) in enumerate(o["upload"], 1):
+            md.append(f"{n}. `{fname}` — {label}")
+        md.append("")
+        md.append("**Prompt (komplett kopieren):**\n")
+        md.append("```")
+        md.append(o["prompt"])
+        md.append("```\n")
+        if o["tryon"]:
+            md.append("**Try-On-Prompt (komplett kopieren):**\n")
+            md.append("```")
+            md.append(o["tryon"])
+            md.append("```\n")
+        md.append("---\n")
+
+    (outdir / "fits_uebersicht.md").write_text("\n".join(md), encoding="utf-8")
+
+
 def safe_name(name):
     """Dateisystem-sicherer Kurzname aus einem Produktnamen."""
     safe = "".join(c if c.isalnum() or c in "-_ " else "" for c in name).strip()
@@ -432,6 +479,8 @@ def main():
     used_watches = list(history["watches"])
     used_perfumes = list(history["perfumes"])
 
+    overview = []
+
     for i in range(1, args.count + 1):
         theme = args.theme or random.choice(list(THEMES))
 
@@ -460,39 +509,60 @@ def main():
         fitdir.mkdir(parents=True, exist_ok=True)
 
         manifest = {"fit": i, "theme": theme, "products": [], "belt": None,
-                    "watch": None, "perfume": None}
+                    "watch": None, "perfume": None, "upload_order": []}
 
-        for n, p in enumerate(fit, 1):
-            dest = fitdir / f"{n}_{p['slot']}_{safe_name(p['name'])}.png"
-            shutil.copy(BASE / p["image"], dest)
+        # Alle Bilder in EINER lueckenlosen Upload-Reihenfolge nummerieren
+        # (1_, 2_, 3_ ...): erst die Produkte, dann Guertel, Uhr, Parfuem.
+        upload = []  # (filename, label) in Reihenfolge
+        idx = 0
+
+        def add_image(src_rel, slot_tag, name, label):
+            nonlocal idx
+            idx += 1
+            dest = fitdir / f"{idx}_{slot_tag}_{safe_name(name)}.png"
+            shutil.copy(BASE / src_rel, dest)
+            upload.append((dest.name, label))
+            return dest.name
+
+        for p in fit:
+            fname = add_image(p["image"], p["slot"], p["name"], f"{p['name']} ({p['slot']})")
             manifest["products"].append({"id": p["id"], "name": p["name"],
-                                         "slot": p["slot"], "file": dest.name})
+                                         "slot": p["slot"], "file": fname})
 
         if belt:
-            dest = fitdir / f"5_belt_{safe_name(belt['name'])}.png"
-            shutil.copy(BASE / belt["image"], dest)
-            manifest["belt"] = {"id": belt["id"], "name": belt["name"], "file": dest.name}
+            fname = add_image(belt["image"], "belt", belt["name"], f"{belt['name']} (Guertel)")
+            manifest["belt"] = {"id": belt["id"], "name": belt["name"], "file": fname}
 
-        # Uhr- und Parfuembild mit in den Fit-Ordner kopieren
-        w_dest = fitdir / f"6_watch_{safe_name(watch['name'])}.png"
-        shutil.copy(BASE / watch["file"], w_dest)
-        manifest["watch"] = {"id": watch["id"], "name": watch["name"], "file": w_dest.name}
+        fname = add_image(watch["file"], "watch", watch["name"], f"{watch['name']} (Uhr)")
+        manifest["watch"] = {"id": watch["id"], "name": watch["name"], "file": fname}
 
-        p_dest = fitdir / f"7_perfume_{safe_name(perfume['name'])}.png"
-        shutil.copy(BASE / perfume["file"], p_dest)
-        manifest["perfume"] = {"id": perfume["id"], "name": perfume["name"], "file": p_dest.name}
+        fname = add_image(perfume["file"], "perfume", perfume["name"], f"{perfume['name']} (Parfuem)")
+        manifest["perfume"] = {"id": perfume["id"], "name": perfume["name"], "file": fname}
+
+        manifest["upload_order"] = [f for f, _ in upload]
+        if len(upload) > MAX_UPLOAD:
+            print(f"  [warn] Fit {i} hat {len(upload)} Bilder > Limit {MAX_UPLOAD} "
+                  f"(ChatGPT/Gemini) - in zwei Nachrichten hochladen")
 
         (fitdir / "prompt.txt").write_text(prompt, encoding="utf-8")
+        tryon = None
         if args.tryon:
             tryon = make_tryon_prompt(fit, belt, watch, perfume)
             (fitdir / "prompt_tryon.txt").write_text(tryon, encoding="utf-8")
         (fitdir / "manifest.json").write_text(
             json.dumps(manifest, indent=2, ensure_ascii=False), encoding="utf-8")
 
+        overview.append({
+            "dir": fitdir.name, "i": i, "theme": theme,
+            "upload": upload, "prompt": prompt, "tryon": tryon,
+        })
+
         belt_txt = f" + {belt['name']}" if belt else ""
         print(f"[{i}/{args.count}] {fitdir.name}: "
               f"{', '.join(p['name'] for p in fit)}{belt_txt} "
               f"| {watch['name']} | {perfume['name']}")
+
+    write_overview(outdir, overview, args.tryon)
 
     # History persistieren (combos vollstaendig, Accessoire-Verlauf begrenzt)
     history["watches"] = used_watches[-100:]

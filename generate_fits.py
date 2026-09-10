@@ -136,6 +136,22 @@ def build_fit(products, theme):
     return fit, belt
 
 
+def build_fresh_fit(products, theme, seen_combos, tries=400):
+    """Baut einen Fit, dessen Haupt-Kombination noch nicht in `seen_combos`
+    vorkam. Sind alle moeglichen Kombinationen erschoepft, wird nach `tries`
+    Versuchen die letzte zurueckgegeben (mit Warnung)."""
+    last = None
+    for _ in range(tries):
+        fit, belt = build_fit(products, theme)
+        sig = fit_signature(fit)
+        last = (fit, belt, sig)
+        if sig not in seen_combos:
+            return fit, belt, sig
+    print(f"  [warn] keine neue Kombination nach {tries} Versuchen gefunden "
+          f"(Pool erschoepft) - erlaube Wiederholung")
+    return last
+
+
 def make_prompt(fit, belt, watch, perfume):
     names = [p["name"] for p in fit]
     items = ", ".join(names)
@@ -193,6 +209,29 @@ def load_assets(kind):
     return present
 
 
+HISTORY = BASE / "history.json"
+
+
+def load_history():
+    if HISTORY.exists():
+        h = json.loads(HISTORY.read_text(encoding="utf-8"))
+    else:
+        h = {}
+    h.setdefault("combos", [])      # Liste sortierter Haupt-ID-Signaturen
+    h.setdefault("watches", [])     # Uhr-IDs in Reihenfolge
+    h.setdefault("perfumes", [])    # Parfuem-IDs in Reihenfolge
+    return h
+
+
+def save_history(h):
+    HISTORY.write_text(json.dumps(h, indent=2, ensure_ascii=False), encoding="utf-8")
+
+
+def fit_signature(fit):
+    """Eindeutige Signatur einer Produkt-Kombination (die 4 Hauptprodukte)."""
+    return "|".join(sorted(p["id"] for p in fit))
+
+
 def safe_name(name):
     """Dateisystem-sicherer Kurzname aus einem Produktnamen."""
     safe = "".join(c if c.isalnum() or c in "-_ " else "" for c in name).strip()
@@ -217,6 +256,8 @@ def main():
     ap.add_argument("--theme", default=None, help=f"eins von: {', '.join(THEMES)}")
     ap.add_argument("--out", default="fits", help="Ausgabeordner")
     ap.add_argument("--seed", type=int, default=None)
+    ap.add_argument("--reset-history", action="store_true",
+                    help="history.json vor dem Lauf leeren")
     args = ap.parse_args()
 
     if args.seed is not None:
@@ -233,11 +274,18 @@ def main():
     if not perfumes:
         raise SystemExit("Keine Parfuem-Assets vorhanden. Erst 'python fetch_assets.py' laufen lassen.")
 
-    used_watches, used_perfumes = [], []
+    history = load_history()
+    if args.reset_history:
+        history = {"combos": [], "watches": [], "perfumes": []}
+    seen_combos = set(history["combos"])
+    used_watches = list(history["watches"])
+    used_perfumes = list(history["perfumes"])
 
     for i in range(1, args.count + 1):
         theme = args.theme or random.choice(list(THEMES))
-        fit, belt = build_fit(products, theme)
+        fit, belt, sig = build_fresh_fit(products, theme, seen_combos)
+        seen_combos.add(sig)
+        history["combos"].append(sig)
 
         # Uhr und Parfuem pro Fit unterschiedlich (Wiederholung meiden)
         watch = pick_accessory(watches, used_watches)
@@ -281,7 +329,13 @@ def main():
               f"{', '.join(p['name'] for p in fit)}{belt_txt} "
               f"| {watch['name']} | {perfume['name']}")
 
+    # History persistieren (combos vollstaendig, Accessoire-Verlauf begrenzt)
+    history["watches"] = used_watches[-100:]
+    history["perfumes"] = used_perfumes[-100:]
+    save_history(history)
+
     print(f"\nFertig. {args.count} Fits in: {outdir.resolve()}")
+    print(f"History: {len(history['combos'])} Kombinationen gesamt in {HISTORY.name}")
 
 
 if __name__ == "__main__":

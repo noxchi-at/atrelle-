@@ -58,6 +58,22 @@ Pro Fit-Ordner: 4 Produktbilder, optional Gürtelbild, 1 Uhr- und 1 Parfümbild,
 vor dem Schreiben einen Pflicht-Check (4 Hauptprodukte, Sneaker, genau 1 Uhr +
 1 Parfüm, Gürtel-Regeln, alle Namen im Prompt); fällt er durch, wird neu gewürfelt.
 
+## Manuelles Hochladen (ChatGPT / Gemini)
+
+Alle Bilder sind lückenlos in Upload-Reihenfolge benannt (`1_`, `2_`, `3_`, …):
+erst die Produkte, dann Gürtel, Uhr, Parfüm. Pro Fit:
+
+1. Bilder in dieser Reihenfolge hochladen.
+2. `prompt.txt` komplett kopieren und in dieselbe Nachricht einfügen.
+
+Im Ausgabeordner liegt zusätzlich **`fits_uebersicht.md`** — pro Fit die
+Bildliste und der komplett kopierbare Prompt untereinander, zum schnellen
+Durcharbeiten.
+
+**Bild-Limit:** ChatGPT und Gemini erlauben je **10 Bilder** pro Nachricht/Prompt.
+Ein Fit hat max. 7 Bilder (4 Produkte + Gürtel + Uhr + Parfüm) und passt damit
+immer in eine einzige Nachricht — kein Aufteilen nötig.
+
 ## Täglich automatisch
 
 Der Tageslauf steckt in `run_daily.sh` (Mac/Linux) bzw. `run_daily.bat` (Windows).

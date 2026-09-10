@@ -152,7 +152,8 @@ def make_prompt(fit, belt, watch, perfume):
     lines.append(f"Enthaltene Artikel: {items}.")
     if belt:
         lines.append(f"Zusaetzlich im Flatlay sichtbar: {belt['name']} (Guertel).")
-    lines.append(f"Ausserdem im Flatlay sichtbar: {watch} (Uhr) und {perfume} (Parfuem).")
+    lines.append(f"Ausserdem im Flatlay sichtbar: {watch['name']} (Uhr) "
+                 f"und {perfume['name']} (Parfuem).")
     lines.append("")
     lines.append(
         "Nutze AUSSCHLIESSLICH die exakten Artikel aus den angehaengten Fotos als Vorlage "
@@ -174,26 +175,40 @@ def make_prompt(fit, belt, watch, perfume):
     return "\n".join(lines)
 
 
-WATCHES = [
-    "Casio Vintage A158WA (silber)",
-    "Casio Vintage A168WA (silber)",
-    "Casio MTP-1302 (schwarzes Lederarmband)",
-    "Casio MTP-V004 (silber, weisses Zifferblatt)",
-    "schlichte Lederarmbanduhr (braun, weisses Zifferblatt)",
-    "schlichte Lederarmbanduhr (schwarz, schwarzes Zifferblatt)",
-    "Casio Vintage A700 (gold)",
-]
+ASSETS = BASE / "assets"
 
-PERFUMES = [
-    "Dior Sauvage EDT",
-    "Bleu de Chanel EDP",
-    "Versace Eros EDT",
-    "Paco Rabanne 1 Million",
-    "YSL La Nuit de l'Homme",
-    "Armani Acqua di Gio Profumo",
-    "Jean Paul Gaultier Le Male",
-    "Prada L'Homme",
-]
+
+def load_assets(kind):
+    """Laedt assets/<kind>.json und behaelt nur Eintraege, deren Bilddatei
+    tatsaechlich vorhanden ist (fetch_assets.py fuellt fehlende nach)."""
+    path = ASSETS / f"{kind}.json"
+    if not path.exists():
+        return []
+    items = json.loads(path.read_text(encoding="utf-8"))
+    present = [it for it in items if (BASE / it["file"]).exists()]
+    missing = [it["id"] for it in items if not (BASE / it["file"]).exists()]
+    if missing:
+        print(f"  Hinweis: {kind}-Assets ohne Bild (uebersprungen, "
+              f"'python fetch_assets.py' holt sie nach): {', '.join(missing)}")
+    return present
+
+
+def safe_name(name):
+    """Dateisystem-sicherer Kurzname aus einem Produktnamen."""
+    safe = "".join(c if c.isalnum() or c in "-_ " else "" for c in name).strip()
+    return safe.replace(" ", "_")[:50] or "item"
+
+
+def pick_accessory(pool, used_ids, window=10):
+    """Waehlt eine Uhr/ein Parfuem, das sich ueber die letzten `window` Fits
+    nicht wiederholt. Ist der Pool kleiner als das Fenster, wird das aelteste
+    wieder freigegeben (sonst gaebe es keine gueltige Wahl)."""
+    recent = set(used_ids[-window:])
+    candidates = [a for a in pool if a["id"] not in recent]
+    if not candidates:  # Pool kleiner als Fenster -> nur direkt letzte meiden
+        last = used_ids[-1] if used_ids else None
+        candidates = [a for a in pool if a["id"] != last] or list(pool)
+    return random.choice(candidates)
 
 
 def main():
@@ -211,37 +226,50 @@ def main():
     outdir = Path(args.out)
     outdir.mkdir(parents=True, exist_ok=True)
 
+    watches = load_assets("watches")
+    perfumes = load_assets("perfumes")
+    if not watches:
+        raise SystemExit("Keine Uhren-Assets vorhanden. Erst 'python fetch_assets.py' laufen lassen.")
+    if not perfumes:
+        raise SystemExit("Keine Parfuem-Assets vorhanden. Erst 'python fetch_assets.py' laufen lassen.")
+
     used_watches, used_perfumes = [], []
 
     for i in range(1, args.count + 1):
         theme = args.theme or random.choice(list(THEMES))
         fit, belt = build_fit(products, theme)
 
-        # Uhr und Parfuem pro Fit unterschiedlich
-        watch = random.choice([w for w in WATCHES if w not in used_watches] or WATCHES)
-        perfume = random.choice([p for p in PERFUMES if p not in used_perfumes] or PERFUMES)
-        used_watches.append(watch)
-        used_perfumes.append(perfume)
+        # Uhr und Parfuem pro Fit unterschiedlich (Wiederholung meiden)
+        watch = pick_accessory(watches, used_watches)
+        perfume = pick_accessory(perfumes, used_perfumes)
+        used_watches.append(watch["id"])
+        used_perfumes.append(perfume["id"])
 
         fitdir = outdir / f"fit_{i:02d}_{theme}"
         fitdir.mkdir(parents=True, exist_ok=True)
 
         manifest = {"fit": i, "theme": theme, "products": [], "belt": None,
-                    "watch": watch, "perfume": perfume}
+                    "watch": None, "perfume": None}
 
         for n, p in enumerate(fit, 1):
-            safe = "".join(c if c.isalnum() or c in "-_ " else "" for c in p["name"]).strip()
-            safe = safe.replace(" ", "_")[:50]
-            dest = fitdir / f"{n}_{p['slot']}_{safe}.png"
+            dest = fitdir / f"{n}_{p['slot']}_{safe_name(p['name'])}.png"
             shutil.copy(BASE / p["image"], dest)
             manifest["products"].append({"id": p["id"], "name": p["name"],
                                          "slot": p["slot"], "file": dest.name})
 
         if belt:
-            safe = belt["name"].replace(" ", "_").replace("(", "").replace(")", "")
-            dest = fitdir / f"5_belt_{safe}.png"
+            dest = fitdir / f"5_belt_{safe_name(belt['name'])}.png"
             shutil.copy(BASE / belt["image"], dest)
             manifest["belt"] = {"id": belt["id"], "name": belt["name"], "file": dest.name}
+
+        # Uhr- und Parfuembild mit in den Fit-Ordner kopieren
+        w_dest = fitdir / f"6_watch_{safe_name(watch['name'])}.png"
+        shutil.copy(BASE / watch["file"], w_dest)
+        manifest["watch"] = {"id": watch["id"], "name": watch["name"], "file": w_dest.name}
+
+        p_dest = fitdir / f"7_perfume_{safe_name(perfume['name'])}.png"
+        shutil.copy(BASE / perfume["file"], p_dest)
+        manifest["perfume"] = {"id": perfume["id"], "name": perfume["name"], "file": p_dest.name}
 
         prompt = make_prompt(fit, belt, watch, perfume)
         (fitdir / "prompt.txt").write_text(prompt, encoding="utf-8")
@@ -250,7 +278,8 @@ def main():
 
         belt_txt = f" + {belt['name']}" if belt else ""
         print(f"[{i}/{args.count}] {fitdir.name}: "
-              f"{', '.join(p['name'] for p in fit)}{belt_txt}")
+              f"{', '.join(p['name'] for p in fit)}{belt_txt} "
+              f"| {watch['name']} | {perfume['name']}")
 
     print(f"\nFertig. {args.count} Fits in: {outdir.resolve()}")
 

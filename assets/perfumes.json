@@ -1,0 +1,34 @@
+[
+  {
+    "id": "P01",
+    "name": "Bleu de Chanel EDP",
+    "tone": ["neutral", "blau", "dunkelblau", "schwarz", "grau"],
+    "file": "assets/perfumes/P01_bleu_de_chanel.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/4/4f/Bleu_de_Chanel%2C_eau_de_toilette.jpg",
+    "license": "Wikipedia (fair use, low-res)"
+  },
+  {
+    "id": "P02",
+    "name": "Jean Paul Gaultier Le Male",
+    "tone": ["neutral", "blau", "hellblau", "silber", "weiss"],
+    "file": "assets/perfumes/P02_le_male.png",
+    "source": "https://upload.wikimedia.org/wikipedia/en/8/8b/Le_Male%2C_Jean_Paul_Gaultier.jpg",
+    "license": "Wikipedia (fair use, low-res)"
+  },
+  {
+    "id": "P03",
+    "name": "Armani Acqua di Gio",
+    "tone": ["neutral", "blau", "hellblau", "weiss", "silber"],
+    "file": "assets/perfumes/P03_acqua_di_gio.png",
+    "source": "commons:Acqua_di_gio.jpg",
+    "license": "CC BY-SA 3.0 / GFDL (Wikimedia Commons)"
+  },
+  {
+    "id": "P04",
+    "name": "Paco Rabanne 1 Million",
+    "tone": ["gold", "gelb", "beige", "braun", "orange", "rot"],
+    "file": "assets/perfumes/P04_1_million.png",
+    "source": "commons:1_Million_PL.JPG",
+    "license": "Wikimedia Commons"
+  }
+]

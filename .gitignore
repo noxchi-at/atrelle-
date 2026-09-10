@@ -1,0 +1,7 @@
+# Generierte Fits
+fits/
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/

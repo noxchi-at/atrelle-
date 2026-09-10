@@ -13,14 +13,15 @@ Nutzung:
     python generate_fits.py --count 3 --theme streetwear --out ./output
 """
 
-import argparse, json, random, shutil, os
+import argparse, colorsys, json, random, shutil, os
 from pathlib import Path
 
 BASE = Path(__file__).parent
 DB = BASE / "atrelle_products.json"
 
 # Farben, die als "neutral" gelten und zu allem passen
-NEUTRAL = {"schwarz", "weiss", "grau", "dunkelgrau", "beige", "creme"}
+NEUTRAL = {"schwarz", "weiss", "grau", "dunkelgrau", "hellgrau", "anthrazit",
+           "silber", "beige", "creme", "sand", "khaki"}
 
 # Kategorien, in denen ein Guertel Sinn ergibt (Hose/Jeans sichtbar)
 BELT_SLOTS = {"bottom"}
@@ -44,25 +45,57 @@ def by_slot(products, slot):
     return [p for p in products if p["slot"] == slot]
 
 
+def product_color_names(product):
+    """Farbnamen aus manuellem Token-Feld + Bildanalyse (dominant_colors)."""
+    names = set(product.get("colors") or [])
+    for c in product.get("dominant_colors", []):
+        if c.get("weight", 0) >= 0.15:
+            names.add(c["name"])
+    return names
+
+
+def accent_hsv(product):
+    """Kraeftigste Akzentfarbe des Produkts als (h,s,v) aus der Bildanalyse.
+    None, wenn das Produkt praktisch neutral ist (nur schwarz/weiss/grau/...)."""
+    best = None
+    for c in product.get("dominant_colors", []):
+        r, g, b = [v / 255.0 for v in c["rgb"]]
+        h, s, v = colorsys.rgb_to_hsv(r, g, b)
+        if s >= 0.22 and v >= 0.15 and c.get("weight", 0) >= 0.12:
+            if best is None or s > best[1]:
+                best = (h, s, v)
+    return best
+
+
+def is_neutral(product):
+    return accent_hsv(product) is None
+
+
+def _hue_diff(h1, h2):
+    d = abs(h1 - h2) % 1.0
+    return min(d, 1.0 - d)   # 0..0.5
+
+
 def color_match(product, prefer):
-    """Score: wie gut passt das Produkt zum Theme."""
+    """Score: wie gut passt das Produkt zum Theme (Namen aus Feld + Analyse)."""
     if not prefer:
         return 1
-    cols = product["colors"]
+    cols = product_color_names(product)
     if not cols:
         return 1
     score = sum(2 for c in cols if c in prefer)
     score += sum(1 for c in cols if c in NEUTRAL)
-    return score
+    return max(score, 1)
 
 
 def colors_clash(a, b):
-    """Zwei kraeftige, unterschiedliche Farben gleichzeitig vermeiden."""
-    ca = [c for c in a["colors"] if c not in NEUTRAL]
-    cb = [c for c in b["colors"] if c not in NEUTRAL]
-    if not ca or not cb:
+    """Zwei kraeftige, unterschiedlich-farbige Teile vermeiden.
+    Neutral vs. alles = kein Clash; zwei Akzentfarben clashen, wenn ihr
+    Farbton (Hue) zu weit auseinanderliegt (nicht mehr analog)."""
+    aa, ba = accent_hsv(a), accent_hsv(b)
+    if aa is None or ba is None:
         return False
-    return set(ca) != set(cb)
+    return _hue_diff(aa[0], ba[0]) > 0.12   # ~43 Grad
 
 
 def pick(pool, prefer, exclude_ids, avoid_clash_with=None, tries=40):
@@ -70,9 +103,15 @@ def pick(pool, prefer, exclude_ids, avoid_clash_with=None, tries=40):
     if not candidates:
         return None
     weights = [color_match(p, prefer) for p in candidates]
+    if isinstance(avoid_clash_with, list):
+        avoid = [o for o in avoid_clash_with if o]
+    elif avoid_clash_with:
+        avoid = [avoid_clash_with]
+    else:
+        avoid = []
     for _ in range(tries):
         choice = random.choices(candidates, weights=weights, k=1)[0]
-        if avoid_clash_with and colors_clash(choice, avoid_clash_with):
+        if any(colors_clash(choice, o) for o in avoid):
             continue
         return choice
     return random.choices(candidates, weights=weights, k=1)[0]
@@ -103,24 +142,24 @@ def build_fit(products, theme):
         top = pick(by_slot(products, "top"), prefer, used)
         fit.append(top); used.add(top["id"])
 
-        bottom = pick(by_slot(products, "bottom"), prefer, used, avoid_clash_with=top)
+        bottom = pick(by_slot(products, "bottom"), prefer, used, avoid_clash_with=fit)
         fit.append(bottom); used.add(bottom["id"])
 
         if want_outer:
-            outer = pick(by_slot(products, "outer"), prefer, used, avoid_clash_with=top)
+            outer = pick(by_slot(products, "outer"), prefer, used, avoid_clash_with=fit)
             if outer:
                 fit.append(outer); used.add(outer["id"])
 
     # Sneaker sind Pflicht
     shoes = pick([p for p in by_slot(products, "shoes") if "Sneaker" in p["name"]],
-                 prefer, used, avoid_clash_with=fit[0])
+                 prefer, used, avoid_clash_with=fit)
     fit.append(shoes); used.add(shoes["id"])
 
     # auf genau 4 Hauptprodukte auffuellen
     filler_slots = ["cap", "eyewear", "bag"]
     while len(fit) < 4:
         slot = filler_slots.pop(0) if filler_slots else "top"
-        extra = pick(by_slot(products, slot), prefer, used, avoid_clash_with=fit[0])
+        extra = pick(by_slot(products, slot), prefer, used, avoid_clash_with=fit)
         if not extra:
             continue
         fit.append(extra); used.add(extra["id"])

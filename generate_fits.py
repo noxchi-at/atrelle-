@@ -191,6 +191,68 @@ def build_fresh_fit(products, theme, seen_combos, tries=400):
     return last
 
 
+def check_fit(fit, belt, watch, perfume, prompt, valid_ids):
+    """Pflicht-Check vor jedem Fit. Gibt (ok, [Probleme]) zurueck.
+    Ein Fit gilt als NICHT FERTIG, sobald ein Punkt fehlschlaegt."""
+    p = []
+
+    # genau 4 Hauptprodukte
+    if len(fit) != 4:
+        p.append(f"nicht genau 4 Hauptprodukte ({len(fit)})")
+    # alle existieren im Katalog
+    for it in fit:
+        if it["id"] not in valid_ids:
+            p.append(f"Produkt {it['id']} nicht im Katalog")
+    # nur male_safe
+    for it in fit:
+        if not it.get("male_safe"):
+            p.append(f"Produkt {it['id']} ist nicht male_safe")
+    # immer inkl. Sneaker
+    sneakers = [it for it in fit if it["slot"] == "shoes" and "Sneaker" in it["name"]]
+    if len(sneakers) < 1:
+        p.append("kein Sneaker im Fit")
+    # genau 1 klassische Uhr
+    if not watch:
+        p.append("keine Uhr")
+    elif "klassisch" not in watch.get("type", ""):
+        p.append(f"Uhr nicht als klassisch/elegant markiert: {watch.get('name')}")
+    # genau 1 Parfuem
+    if not perfume:
+        p.append("kein Parfuem")
+    # Guertel-Eignung
+    if wants_belt(fit):
+        if belt is not None:
+            if belt["slot"] != "belt" or belt["id"] not in valid_ids:
+                p.append("Guertel nicht aus dem Atrelle-Katalog (slot 'belt')")
+    else:
+        if belt is not None:
+            p.append("Guertel gesetzt, obwohl keine Hose/Shorts im Fit (Set/Tracksuit)")
+    # jede Referenzdatei = genau EIN Produkt: Bildquelle aus products/, IDs eindeutig
+    ids = [it["id"] for it in fit]
+    if len(set(ids)) != len(ids):
+        p.append("doppelte Produkte im Fit (Mischung/Duplikat)")
+    for it in fit:
+        if not str(it["image"]).startswith("products/"):
+            p.append(f"Produktbild nicht aus products/: {it['id']}")
+    # keine Produkte verschiedener Fits vermischt: Accessoires nicht aus Produktliste
+    if watch and watch["id"] in ids:
+        p.append("Uhr-ID kollidiert mit Produkt")
+    if perfume and perfume["id"] in ids:
+        p.append("Parfuem-ID kollidiert mit Produkt")
+    # alle Namen im Prompt genannt
+    for it in fit:
+        if it["name"] not in prompt:
+            p.append(f"Produkt nicht im Prompt genannt: {it['name']}")
+    if watch and watch["name"] not in prompt:
+        p.append(f"Uhr nicht im Prompt genannt: {watch['name']}")
+    if perfume and perfume["name"] not in prompt:
+        p.append(f"Parfuem nicht im Prompt genannt: {perfume['name']}")
+    if belt and belt["name"] not in prompt:
+        p.append(f"Guertel nicht im Prompt genannt: {belt['name']}")
+
+    return (len(p) == 0), p
+
+
 def make_prompt(fit, belt, watch, perfume):
     names = [p["name"] for p in fit]
     items = ", ".join(names)
@@ -361,6 +423,8 @@ def main():
     if not perfumes:
         raise SystemExit("Keine Parfuem-Assets vorhanden. Erst 'python fetch_assets.py' laufen lassen.")
 
+    all_ids = {p["id"] for p in json.loads(DB.read_text(encoding="utf-8"))}
+
     history = load_history()
     if args.reset_history:
         history = {"combos": [], "watches": [], "perfumes": []}
@@ -370,13 +434,25 @@ def main():
 
     for i in range(1, args.count + 1):
         theme = args.theme or random.choice(list(THEMES))
-        fit, belt, sig = build_fresh_fit(products, theme, seen_combos)
+
+        # Fit bauen + Pflicht-Check; bei Fehlschlag verwerfen und neu wuerfeln
+        chosen = None
+        for attempt in range(1, 51):
+            fit, belt, sig = build_fresh_fit(products, theme, seen_combos)
+            watch = pick_accessory(watches, used_watches)
+            perfume = pick_accessory(perfumes, used_perfumes)
+            prompt = make_prompt(fit, belt, watch, perfume)
+            ok, problems = check_fit(fit, belt, watch, perfume, prompt, all_ids)
+            if ok:
+                chosen = (fit, belt, sig, watch, perfume, prompt)
+                break
+            print(f"  [Fit {i} verworfen, Versuch {attempt}] " + "; ".join(problems))
+        if chosen is None:
+            raise SystemExit(f"Fit {i}: kein gueltiger Fit nach 50 Versuchen")
+
+        fit, belt, sig, watch, perfume, prompt = chosen
         seen_combos.add(sig)
         history["combos"].append(sig)
-
-        # Uhr und Parfuem pro Fit unterschiedlich (Wiederholung meiden)
-        watch = pick_accessory(watches, used_watches)
-        perfume = pick_accessory(perfumes, used_perfumes)
         used_watches.append(watch["id"])
         used_perfumes.append(perfume["id"])
 
@@ -406,7 +482,6 @@ def main():
         shutil.copy(BASE / perfume["file"], p_dest)
         manifest["perfume"] = {"id": perfume["id"], "name": perfume["name"], "file": p_dest.name}
 
-        prompt = make_prompt(fit, belt, watch, perfume)
         (fitdir / "prompt.txt").write_text(prompt, encoding="utf-8")
         if args.tryon:
             tryon = make_tryon_prompt(fit, belt, watch, perfume)

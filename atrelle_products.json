@@ -1,0 +1,8072 @@
+[
+  {
+    "id": "ATR001",
+    "name": "Casa Summer Set",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [],
+    "price_eur": 59.99,
+    "image": "products/p02_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 2,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR002",
+    "name": "Essentials Summer Set (light-grey)",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p02_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 2,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR003",
+    "name": "Essentials Summer Set (dark-grey)",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p02_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 2,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR004",
+    "name": "Essentials Summer Set (schwarz)",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p02_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 2,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR005",
+    "name": "Essentials Tracksuit (light-grey)",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 69.99,
+    "image": "products/p02_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 2,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR006",
+    "name": "Essentials Tracksuit (dark-grey)",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 69.99,
+    "image": "products/p02_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 2,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR007",
+    "name": "Essentials Tracksuit (schwarz)",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 69.99,
+    "image": "products/p02_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 2,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR008",
+    "name": "Flower Short Set (schwarz)",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p02_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 2,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR009",
+    "name": "Flower Short Set (grau)",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p02_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 2,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR010",
+    "name": "Alcatraz Tracksuit Black/White",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "schwarz",
+      "weiss"
+    ],
+    "price_eur": 89.99,
+    "image": "products/p03_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 3,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR011",
+    "name": "Alcatraz Tracksuit Grey",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 89.99,
+    "image": "products/p03_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 3,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR012",
+    "name": "Alcatraz Tracksuit Babyblue",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [],
+    "price_eur": 89.99,
+    "image": "products/p03_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 3,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR013",
+    "name": "Nocta - Tracksuit (schwarz)",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p03_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 3,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR014",
+    "name": "Nocta - Tracksuit (blau)",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "blau"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p03_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 3,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR015",
+    "name": "Nocta - Tracksuit (gruen)",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "gruen"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p03_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 3,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR016",
+    "name": "N-Miler Short Set (many different colors) (Mint Green)",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "gruen",
+      "mint"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p03_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 3,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR017",
+    "name": "N-Miler Short Set (many different colors) (Black)",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p03_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 3,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR018",
+    "name": "N-Miler Short Set (many different colors) (White and Black(shorts))",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "schwarz",
+      "weiss"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p03_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 3,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR019",
+    "name": "N-Miler Short Set (many different colors) (Pink)",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "rosa"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p04_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 4,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR020",
+    "name": "N-Miler Short Set (many different colors) (Black and Mint Green(shorts))",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "schwarz",
+      "gruen",
+      "mint"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p04_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 4,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR021",
+    "name": "N-Miler Short Set (many different colors) (White and Mint Green(shorts))",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "weiss",
+      "gruen",
+      "mint"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p04_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 4,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR022",
+    "name": "N-Miler Short Set (many different colors) (Pink and Mint Green(shorts)",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "gruen",
+      "rosa",
+      "mint"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p04_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 4,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR023",
+    "name": "N-Miler Short Set (many different ) colors) (Mint Green and Black(shorts))",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "schwarz",
+      "gruen",
+      "mint"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p04_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 4,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR024",
+    "name": "N-Miler Short Set (many different colors) (Pink and Black(shorts))",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "schwarz",
+      "rosa"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p04_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 4,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR025",
+    "name": "N-Miler Short Set (many different colors) (Mint Green and Pink(shorts)",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "gruen",
+      "rosa",
+      "mint"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p04_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 4,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR026",
+    "name": "N-Miler Short Set (many different ) colors) (Black and Pink(shorts))",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "schwarz",
+      "rosa"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p04_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 4,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR027",
+    "name": "N-Miler Short Set (many different colors) (White and Pink(shorts))",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "weiss",
+      "rosa"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p04_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 4,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR028",
+    "name": "N-Miler Short Set (many different colors) (Orange and Pink(shorts))",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "rosa",
+      "orange"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p05_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 5,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR029",
+    "name": "N-Miler Short Set (many different colors) (Orange and Black(shorts))",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "schwarz",
+      "orange"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p05_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 5,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR030",
+    "name": "N-Miler Short Set (many different colors) (Orange and Mint Green(shorts))",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "gruen",
+      "orange",
+      "mint"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p05_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 5,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR031",
+    "name": "UA Short Set (White and Black(shorts",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "schwarz",
+      "weiss"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p05_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 5,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR032",
+    "name": "UA Short Set (Black and Grey(shorts))",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "schwarz",
+      "grau"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p05_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 5,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR033",
+    "name": "UA Short Set (Blue and Black(shorts))",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "schwarz",
+      "blau"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p05_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 5,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR034",
+    "name": "UA Short Set (White and Blue(shorts",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "weiss",
+      "blau"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p05_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 5,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR035",
+    "name": "UA Short Set (Black and Black(shorts))",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p05_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 5,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR036",
+    "name": "Flower - Tracksuit (grau)",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p05_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 5,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR037",
+    "name": "Flower - Tracksuit (schwarz)",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p06_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 6,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR038",
+    "name": "Flower - Tracksuit (blau)",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "blau"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p06_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 6,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR039",
+    "name": "Flower - Tracksuit (gruen)",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "gruen"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p06_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 6,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR040",
+    "name": "Flower - Tracksuit (rosa)",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "rosa"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p06_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 6,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR041",
+    "name": "Flower - Tracksuit (rot)",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "rot"
+    ],
+    "price_eur": 9.99,
+    "image": "products/p06_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 6,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR042",
+    "name": "6pm Basic Tracksuit (hellblau)",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [],
+    "price_eur": 79.99,
+    "image": "products/p06_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 6,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR043",
+    "name": "6pm Basic Tracksuit (dunkelblau)",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "dunkelblau"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p06_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 6,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR044",
+    "name": "6pm Basic Tracksuit (beige-1)",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "beige"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p06_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 6,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR045",
+    "name": "6pm Basic Tracksuit (weiss)",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p06_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 6,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR046",
+    "name": "TS Short Set Blue",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "blau"
+    ],
+    "price_eur": 34.99,
+    "image": "products/p07_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 7,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR047",
+    "name": "TS Short Set Blue",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "blau"
+    ],
+    "price_eur": 34.99,
+    "image": "products/p07_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 7,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR048",
+    "name": "TS Short Set Blue",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "blau"
+    ],
+    "price_eur": 34.99,
+    "image": "products/p07_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 7,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR049",
+    "name": "BAPE Miami Summer Set",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [],
+    "price_eur": 39.99,
+    "image": "products/p07_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 7,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR050",
+    "name": "BAPE Miami Summer Set Pink",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "rosa"
+    ],
+    "price_eur": 39.99,
+    "image": "products/p07_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 7,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR051",
+    "name": "AMIR Summer Set V1",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [],
+    "price_eur": 39.99,
+    "image": "products/p07_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 7,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR052",
+    "name": "AMIR Summer Set V2",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [],
+    "price_eur": 39.99,
+    "image": "products/p07_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 7,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR053",
+    "name": "197 Summer Set (Schwarz)",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 39.99,
+    "image": "products/p07_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 7,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR054",
+    "name": "197 Summer Set (Hellgrau)",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [],
+    "price_eur": 39.99,
+    "image": "products/p07_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 7,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR055",
+    "name": "197 Summer Set (Dunkelgrau)",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "dunkelgrau"
+    ],
+    "price_eur": 39.99,
+    "image": "products/p08_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 8,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR056",
+    "name": "RL Tracksuit (Schwarz-Weiss)",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "schwarz",
+      "weiss"
+    ],
+    "price_eur": 89.99,
+    "image": "products/p08_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 8,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR057",
+    "name": "RL Tracksuit (Schwarz-Rot)",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "schwarz",
+      "rot"
+    ],
+    "price_eur": 89.99,
+    "image": "products/p08_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 8,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR058",
+    "name": "RL Tracksuit (Blau-Weiss)",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "weiss",
+      "blau"
+    ],
+    "price_eur": 89.99,
+    "image": "products/p08_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 8,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR059",
+    "name": "RL Tracksuit (Blau-Rot)",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "blau",
+      "rot"
+    ],
+    "price_eur": 89.99,
+    "image": "products/p08_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 8,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR060",
+    "name": "RL Tracksuit (Grau)",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 89.99,
+    "image": "products/p08_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 8,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR061",
+    "name": "RL Tracksuit (Weiss)",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 89.99,
+    "image": "products/p08_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 8,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR062",
+    "name": "Palm Tracksuit (schwarz)",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p08_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 8,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR063",
+    "name": "Palm Tracksuit (rot)",
+    "category": "Sets & Tracksuits",
+    "slot": "set",
+    "colors": [
+      "rot"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p08_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 8,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR064",
+    "name": "Casa Shorts (weiss)",
+    "category": "Shorts",
+    "slot": "bottom",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 34.99,
+    "image": "products/p10_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 10,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR065",
+    "name": "Casa Shorts (schwarz)",
+    "category": "Shorts",
+    "slot": "bottom",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 34.99,
+    "image": "products/p10_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 10,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR066",
+    "name": "LV Shorts",
+    "category": "Shorts",
+    "slot": "bottom",
+    "colors": [],
+    "price_eur": 39.99,
+    "image": "products/p10_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 10,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR067",
+    "name": "Heart Shorts (schwarz)",
+    "category": "Shorts",
+    "slot": "bottom",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 39.99,
+    "image": "products/p10_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 10,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR068",
+    "name": "Heart Shorts (weiss)",
+    "category": "Shorts",
+    "slot": "bottom",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 39.99,
+    "image": "products/p10_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 10,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR069",
+    "name": "Heart Shorts (grau)",
+    "category": "Shorts",
+    "slot": "bottom",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 39.99,
+    "image": "products/p10_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 10,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR070",
+    "name": "Heart Shorts (schwarz-rot)",
+    "category": "Shorts",
+    "slot": "bottom",
+    "colors": [
+      "schwarz",
+      "rot"
+    ],
+    "price_eur": 39.99,
+    "image": "products/p10_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 10,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR071",
+    "name": "Heart Shorts (weiss-rot)",
+    "category": "Shorts",
+    "slot": "bottom",
+    "colors": [
+      "weiss",
+      "rot"
+    ],
+    "price_eur": 39.99,
+    "image": "products/p10_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 10,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR072",
+    "name": "Berry Shorts",
+    "category": "Shorts",
+    "slot": "bottom",
+    "colors": [],
+    "price_eur": 39.99,
+    "image": "products/p10_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 10,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR073",
+    "name": "CRTZ Shorts Black Pink",
+    "category": "Shorts",
+    "slot": "bottom",
+    "colors": [
+      "schwarz",
+      "rosa"
+    ],
+    "price_eur": 39.99,
+    "image": "products/p11_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 11,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR074",
+    "name": "CRTZ Shorts Black",
+    "category": "Shorts",
+    "slot": "bottom",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 39.99,
+    "image": "products/p11_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 11,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR075",
+    "name": "CRTZ Shorts White Pink",
+    "category": "Shorts",
+    "slot": "bottom",
+    "colors": [
+      "weiss",
+      "rosa"
+    ],
+    "price_eur": 39.99,
+    "image": "products/p11_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 11,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR076",
+    "name": "CRTZ Shorts White",
+    "category": "Shorts",
+    "slot": "bottom",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 39.99,
+    "image": "products/p11_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 11,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR077",
+    "name": "GG Summer Shorts",
+    "category": "Shorts",
+    "slot": "bottom",
+    "colors": [],
+    "price_eur": 9.99,
+    "image": "products/p11_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 11,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR078",
+    "name": "Alcatraz Shorts Black",
+    "category": "Shorts",
+    "slot": "bottom",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 39.99,
+    "image": "products/p11_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 11,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR079",
+    "name": "Vig: Alcatraz Shorts Babyblue",
+    "category": "Shorts",
+    "slot": "bottom",
+    "colors": [],
+    "price_eur": 39.99,
+    "image": "products/p11_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 11,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR080",
+    "name": "Alcatraz Shorts Pink",
+    "category": "Shorts",
+    "slot": "bottom",
+    "colors": [
+      "rosa"
+    ],
+    "price_eur": 39.99,
+    "image": "products/p11_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 11,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR081",
+    "name": "CB Shorts Grey",
+    "category": "Shorts",
+    "slot": "bottom",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 42.99,
+    "image": "products/p11_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 11,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR082",
+    "name": "CB Shorts Black",
+    "category": "Shorts",
+    "slot": "bottom",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 42.99,
+    "image": "products/p12_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 12,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR083",
+    "name": "CB Shorts Beige",
+    "category": "Shorts",
+    "slot": "bottom",
+    "colors": [
+      "beige"
+    ],
+    "price_eur": 42.99,
+    "image": "products/p12_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 12,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR084",
+    "name": "Berry Shorts V2",
+    "category": "Shorts",
+    "slot": "bottom",
+    "colors": [],
+    "price_eur": 39.99,
+    "image": "products/p12_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 12,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR085",
+    "name": "Berry Shorts V3",
+    "category": "Shorts",
+    "slot": "bottom",
+    "colors": [],
+    "price_eur": 39.99,
+    "image": "products/p12_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 12,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR086",
+    "name": "Flower Shorts Black",
+    "category": "Shorts",
+    "slot": "bottom",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 39.99,
+    "image": "products/p12_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 12,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR087",
+    "name": "Flower Shorts Grey",
+    "category": "Shorts",
+    "slot": "bottom",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 39.99,
+    "image": "products/p12_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 12,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR088",
+    "name": "Flower Shorts Pink",
+    "category": "Shorts",
+    "slot": "bottom",
+    "colors": [
+      "rosa"
+    ],
+    "price_eur": 39.99,
+    "image": "products/p12_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 12,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR089",
+    "name": "Essence Shorts Black",
+    "category": "Shorts",
+    "slot": "bottom",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 39.99,
+    "image": "products/p12_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 12,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR090",
+    "name": "Essence Shorts Grey",
+    "category": "Shorts",
+    "slot": "bottom",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 39.99,
+    "image": "products/p12_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 12,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR091",
+    "name": "Dept Flared Jogger (schwarz)",
+    "category": "Hosen & Jeans",
+    "slot": "bottom",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p13_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 13,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR092",
+    "name": "Dept Flared Jogger (grau)",
+    "category": "Hosen & Jeans",
+    "slot": "bottom",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p13_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 13,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR093",
+    "name": "Dept Flared Jogger (lila)",
+    "category": "Hosen & Jeans",
+    "slot": "bottom",
+    "colors": [
+      "lila"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p13_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 13,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR094",
+    "name": "Dept Flared Jogger (rot)",
+    "category": "Hosen & Jeans",
+    "slot": "bottom",
+    "colors": [
+      "rot"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p13_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 13,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR095",
+    "name": "Dept Flared Jogger (orange)",
+    "category": "Hosen & Jeans",
+    "slot": "bottom",
+    "colors": [
+      "orange"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p13_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 13,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR096",
+    "name": "Downtown Flared Denim (grau)",
+    "category": "Hosen & Jeans",
+    "slot": "bottom",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p13_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 13,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR097",
+    "name": "Downtown Flared Denim (blau)",
+    "category": "Hosen & Jeans",
+    "slot": "bottom",
+    "colors": [
+      "blau"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p13_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 13,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR098",
+    "name": "Downtown Flared Denim (schwarz)",
+    "category": "Hosen & Jeans",
+    "slot": "bottom",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p13_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 13,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR099",
+    "name": "Malo Flared Denim",
+    "category": "Hosen & Jeans",
+    "slot": "bottom",
+    "colors": [],
+    "price_eur": 49.99,
+    "image": "products/p13_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 13,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR100",
+    "name": "Wavy Flared Denim",
+    "category": "Hosen & Jeans",
+    "slot": "bottom",
+    "colors": [],
+    "price_eur": 53.99,
+    "image": "products/p14_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 14,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR101",
+    "name": "Maestro Flared Carpenter (schwarz)",
+    "category": "Hosen & Jeans",
+    "slot": "bottom",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 53.99,
+    "image": "products/p14_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 14,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR102",
+    "name": "Maestro Flared Carpenter (blau)",
+    "category": "Hosen & Jeans",
+    "slot": "bottom",
+    "colors": [
+      "blau"
+    ],
+    "price_eur": 53.99,
+    "image": "products/p14_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 14,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR103",
+    "name": "RL Sweater (schwarz-weiss)",
+    "category": "Sweater & Strick",
+    "slot": "top",
+    "colors": [
+      "schwarz",
+      "weiss"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p15_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 15,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR104",
+    "name": "RL Sweater (schwarz-rot)",
+    "category": "Sweater & Strick",
+    "slot": "top",
+    "colors": [
+      "schwarz",
+      "rot"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p15_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 15,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR105",
+    "name": "RL Sweater (blau-weiss)",
+    "category": "Sweater & Strick",
+    "slot": "top",
+    "colors": [
+      "weiss",
+      "blau"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p15_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 15,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR106",
+    "name": "RL Sweater (blau-rot)",
+    "category": "Sweater & Strick",
+    "slot": "top",
+    "colors": [
+      "blau",
+      "rot"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p15_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 15,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR107",
+    "name": "RL Sweater (grau)",
+    "category": "Sweater & Strick",
+    "slot": "top",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p15_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 15,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR108",
+    "name": "RL Sweater (weiss)",
+    "category": "Sweater & Strick",
+    "slot": "top",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p15_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 15,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR109",
+    "name": "RL Knit (schwarz)",
+    "category": "Sweater & Strick",
+    "slot": "top",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p15_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 15,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR110",
+    "name": "RL Knit (weiss)",
+    "category": "Sweater & Strick",
+    "slot": "top",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p15_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 15,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR111",
+    "name": "RL Knit (beige)",
+    "category": "Sweater & Strick",
+    "slot": "top",
+    "colors": [
+      "beige"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p15_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 15,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR112",
+    "name": "RL Knit (blau)",
+    "category": "Sweater & Strick",
+    "slot": "top",
+    "colors": [
+      "blau"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p16_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 16,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR113",
+    "name": "RL Knit (babyblau)",
+    "category": "Sweater & Strick",
+    "slot": "top",
+    "colors": [
+      "babyblau"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p16_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 16,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR114",
+    "name": "RL Knit (dunkelblau)",
+    "category": "Sweater & Strick",
+    "slot": "top",
+    "colors": [
+      "dunkelblau"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p16_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 16,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR115",
+    "name": "RL Knit (rosa)",
+    "category": "Sweater & Strick",
+    "slot": "top",
+    "colors": [
+      "rosa"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p16_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 16,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR116",
+    "name": "RL Knit (grau)",
+    "category": "Sweater & Strick",
+    "slot": "top",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p16_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 16,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR117",
+    "name": "Heart - Sweater Black",
+    "category": "Sweater & Strick",
+    "slot": "top",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p16_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 16,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR118",
+    "name": "CB Sweater (schwarz)",
+    "category": "Sweater & Strick",
+    "slot": "top",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p16_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 16,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR119",
+    "name": "CB Sweater (beige)",
+    "category": "Sweater & Strick",
+    "slot": "top",
+    "colors": [
+      "beige"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p16_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 16,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR120",
+    "name": "CB Sweater (blau)",
+    "category": "Sweater & Strick",
+    "slot": "top",
+    "colors": [
+      "blau"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p16_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 16,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR121",
+    "name": "CB Sweater (grau)",
+    "category": "Sweater & Strick",
+    "slot": "top",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p17_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 17,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR122",
+    "name": "Heart - Sweater Rose",
+    "category": "Sweater & Strick",
+    "slot": "top",
+    "colors": [],
+    "price_eur": 49.99,
+    "image": "products/p17_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 17,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR123",
+    "name": "GG Sweater (blau)",
+    "category": "Sweater & Strick",
+    "slot": "top",
+    "colors": [
+      "blau"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p17_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 17,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR124",
+    "name": "GG Sweater (schwarz)",
+    "category": "Sweater & Strick",
+    "slot": "top",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p17_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 17,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR125",
+    "name": "CP Cardigan",
+    "category": "Sweater & Strick",
+    "slot": "top",
+    "colors": [],
+    "price_eur": 139.99,
+    "image": "products/p17_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 17,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR126",
+    "name": "LV Sweater (grau)",
+    "category": "Sweater & Strick",
+    "slot": "top",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p17_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 17,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR127",
+    "name": "LV Sweater (schwarz)",
+    "category": "Sweater & Strick",
+    "slot": "top",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p17_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 17,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR128",
+    "name": "Heart - Sweater (weiss)",
+    "category": "Sweater & Strick",
+    "slot": "top",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p17_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 17,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR129",
+    "name": "Heart - Sweater (schwarz)",
+    "category": "Sweater & Strick",
+    "slot": "top",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p17_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 17,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR130",
+    "name": "Heart - Sweater (babyblau)",
+    "category": "Sweater & Strick",
+    "slot": "top",
+    "colors": [
+      "babyblau"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p18_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 18,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR131",
+    "name": "Heart - Sweater (rosa)",
+    "category": "Sweater & Strick",
+    "slot": "top",
+    "colors": [
+      "rosa"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p18_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 18,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR132",
+    "name": "Heart - Sweater (gruen)",
+    "category": "Sweater & Strick",
+    "slot": "top",
+    "colors": [
+      "gruen"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p18_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 18,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR133",
+    "name": "Island Zipper (schwarz)",
+    "category": "Hoodies, Zipper & Jacken",
+    "slot": "outer",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p19_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 19,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR134",
+    "name": "Island Zipper (dunkelbiau)",
+    "category": "Hoodies, Zipper & Jacken",
+    "slot": "outer",
+    "colors": [],
+    "price_eur": 59.99,
+    "image": "products/p19_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 19,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR135",
+    "name": "Island Zipper (grau)",
+    "category": "Hoodies, Zipper & Jacken",
+    "slot": "outer",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p19_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 19,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR136",
+    "name": "Island Zipper (militargrun)",
+    "category": "Hoodies, Zipper & Jacken",
+    "slot": "outer",
+    "colors": [],
+    "price_eur": 59.99,
+    "image": "products/p19_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 19,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR137",
+    "name": "Island Zipper (sand)",
+    "category": "Hoodies, Zipper & Jacken",
+    "slot": "outer",
+    "colors": [],
+    "price_eur": 59.99,
+    "image": "products/p19_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 19,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR138",
+    "name": "Island Zipper (khaki)",
+    "category": "Hoodies, Zipper & Jacken",
+    "slot": "outer",
+    "colors": [],
+    "price_eur": 59.99,
+    "image": "products/p19_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 19,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR139",
+    "name": "Island Zipper (braun)",
+    "category": "Hoodies, Zipper & Jacken",
+    "slot": "outer",
+    "colors": [
+      "braun"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p19_r3_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 19,
+      "row": 3,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR140",
+    "name": "Island Zipper (rosa-1)",
+    "category": "Hoodies, Zipper & Jacken",
+    "slot": "outer",
+    "colors": [
+      "rosa"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p19_r3_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 19,
+      "row": 3,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR141",
+    "name": "Island Zipper (blau)",
+    "category": "Hoodies, Zipper & Jacken",
+    "slot": "outer",
+    "colors": [
+      "blau"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p19_r3_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 19,
+      "row": 3,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR142",
+    "name": "Island Zipper (weiss)",
+    "category": "Hoodies, Zipper & Jacken",
+    "slot": "outer",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p20_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 20,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR143",
+    "name": "Chrome Zip Hoodie",
+    "category": "Hoodies, Zipper & Jacken",
+    "slot": "outer",
+    "colors": [],
+    "price_eur": 59.99,
+    "image": "products/p20_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 20,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR144",
+    "name": "RL Zipper (schwarz)",
+    "category": "Hoodies, Zipper & Jacken",
+    "slot": "outer",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p20_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 20,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR145",
+    "name": "RL Zipper (grau)",
+    "category": "Hoodies, Zipper & Jacken",
+    "slot": "outer",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p20_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 20,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR146",
+    "name": "RL Zipper (weiss)",
+    "category": "Hoodies, Zipper & Jacken",
+    "slot": "outer",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p20_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 20,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR147",
+    "name": "RL Zipper (lightblue)",
+    "category": "Hoodies, Zipper & Jacken",
+    "slot": "outer",
+    "colors": [
+      "hellblau"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p20_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 20,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR148",
+    "name": "RL Zipper (babyblau)",
+    "category": "Hoodies, Zipper & Jacken",
+    "slot": "outer",
+    "colors": [
+      "babyblau"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p20_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 20,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR149",
+    "name": "RL Zipper (blau)",
+    "category": "Hoodies, Zipper & Jacken",
+    "slot": "outer",
+    "colors": [
+      "blau"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p20_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 20,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR150",
+    "name": "Berry - Zipper (schwarz)",
+    "category": "Hoodies, Zipper & Jacken",
+    "slot": "outer",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 59.99,
+    "image": "products/p20_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 20,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR151",
+    "name": "GG Zipjacke",
+    "category": "Hoodies, Zipper & Jacken",
+    "slot": "outer",
+    "colors": [],
+    "price_eur": 99.99,
+    "image": "products/p21_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 21,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR152",
+    "name": "PRDA Elegant Jacket (Schwarz)",
+    "category": "Hoodies, Zipper & Jacken",
+    "slot": "outer",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 109.99,
+    "image": "products/p21_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 21,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR153",
+    "name": "PRDA Elegant Jacket (Weiss)",
+    "category": "Hoodies, Zipper & Jacken",
+    "slot": "outer",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 109.99,
+    "image": "products/p21_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 21,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR154",
+    "name": "PRDA Weste",
+    "category": "Hoodies, Zipper & Jacken",
+    "slot": "outer",
+    "colors": [],
+    "price_eur": 74.99,
+    "image": "products/p21_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 21,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR155",
+    "name": "CG Weste (schwarz)",
+    "category": "Hoodies, Zipper & Jacken",
+    "slot": "outer",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 74.99,
+    "image": "products/p21_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 21,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR156",
+    "name": "CG Weste (weiss)",
+    "category": "Hoodies, Zipper & Jacken",
+    "slot": "outer",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 74.99,
+    "image": "products/p21_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 21,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR157",
+    "name": "CG Weste (grau)",
+    "category": "Hoodies, Zipper & Jacken",
+    "slot": "outer",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 74.99,
+    "image": "products/p21_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 21,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR158",
+    "name": "CASA Zipper",
+    "category": "Hoodies, Zipper & Jacken",
+    "slot": "outer",
+    "colors": [],
+    "price_eur": 119.99,
+    "image": "products/p21_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 21,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR159",
+    "name": "LV College Jacke",
+    "category": "Hoodies, Zipper & Jacken",
+    "slot": "outer",
+    "colors": [],
+    "price_eur": 79.99,
+    "image": "products/p21_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 21,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR160",
+    "name": "CP Zipper (Grau)",
+    "category": "Hoodies, Zipper & Jacken",
+    "slot": "outer",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p22_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 22,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR161",
+    "name": "CP Zipper (Schwarz)",
+    "category": "Hoodies, Zipper & Jacken",
+    "slot": "outer",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p22_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 22,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR162",
+    "name": "CP Zipper (Griin)",
+    "category": "Hoodies, Zipper & Jacken",
+    "slot": "outer",
+    "colors": [],
+    "price_eur": 49.99,
+    "image": "products/p22_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 22,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR163",
+    "name": "Chrome x Ape Tee (schwarz)",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 32.99,
+    "image": "products/p23_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 23,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR164",
+    "name": "Chrome x Ape Tee (weiss)",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 32.99,
+    "image": "products/p23_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 23,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR165",
+    "name": "Ape Check Tee (schwarz)",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 32.99,
+    "image": "products/p23_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 23,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR166",
+    "name": "Ape Check Tee (weiss)",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 32.99,
+    "image": "products/p23_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 23,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR167",
+    "name": "Chrome Tee “",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [],
+    "price_eur": 2.99,
+    "image": "products/p23_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 23,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR168",
+    "name": "GG Balenci Fusion Tee",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [],
+    "price_eur": 39.99,
+    "image": "products/p23_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 23,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR169",
+    "name": "Chrome Longsleeve (schwarz)",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 39.99,
+    "image": "products/p23_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 23,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR170",
+    "name": "SDYEDE Chrome Longsleeve (blau)",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [
+      "blau"
+    ],
+    "price_eur": 39.99,
+    "image": "products/p23_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 23,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR171",
+    "name": "Island Sweatshirt (schwarz)",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p23_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 23,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR172",
+    "name": "Island Sweatshirt (weiss)",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p24_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 24,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR173",
+    "name": "Island Sweatshirt (grau)",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p24_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 24,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR174",
+    "name": "Island Sweatshirt (beige)",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [
+      "beige"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p24_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 24,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR175",
+    "name": "Island Sweatshirt (dunkelblau)",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [
+      "dunkelblau"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p24_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 24,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR176",
+    "name": "Island Sweatshirt (dunkelturkis)",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [],
+    "price_eur": 49.99,
+    "image": "products/p24_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 24,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR177",
+    "name": "Island Sweatshirt (braun)",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [
+      "braun"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p24_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 24,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR178",
+    "name": "Island Sweatshirt (sand)",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [],
+    "price_eur": 49.99,
+    "image": "products/p24_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 24,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR179",
+    "name": "Island Sweatshirt (rosa-1)",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [
+      "rosa"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p24_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 24,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR180",
+    "name": "Island Sweatshirt (grun-braun)",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [
+      "braun"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p24_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 24,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR181",
+    "name": "T-Star Tee",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [],
+    "price_eur": 29.99,
+    "image": "products/p25_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 25,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR182",
+    "name": "Staggered Logo Amir Tee",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [],
+    "price_eur": 29.99,
+    "image": "products/p25_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 25,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR183",
+    "name": "Casa Shirts (viele)",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [],
+    "price_eur": 29.99,
+    "image": "products/p25_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 25,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR184",
+    "name": "Casa Shirts (viele)",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [],
+    "price_eur": 29.99,
+    "image": "products/p25_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 25,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR185",
+    "name": "Casa Shirts (viele)",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [],
+    "price_eur": 29.99,
+    "image": "products/p25_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 25,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR186",
+    "name": "Casa Shirts (viele)",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [],
+    "price_eur": 29.99,
+    "image": "products/p25_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 25,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR187",
+    "name": "Casa Shirts (viele)",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [],
+    "price_eur": 29.99,
+    "image": "products/p25_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 25,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR188",
+    "name": "Casa Shirts (viele)",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [],
+    "price_eur": 29.99,
+    "image": "products/p25_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 25,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR189",
+    "name": "Casa Shirts (viele)",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [],
+    "price_eur": 29.99,
+    "image": "products/p25_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 25,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR190",
+    "name": "Casa Shirts (viele)",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [],
+    "price_eur": 29.99,
+    "image": "products/p26_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 26,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR191",
+    "name": "Heart -Shirts (viele) (schwarz-weiss)",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [
+      "schwarz",
+      "weiss"
+    ],
+    "price_eur": 32.99,
+    "image": "products/p26_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 26,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR192",
+    "name": "Heart -Shirts (viele) (weiss-schwarz)",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [
+      "schwarz",
+      "weiss"
+    ],
+    "price_eur": 32.99,
+    "image": "products/p26_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 26,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR193",
+    "name": "Heart -Shirts (viele) (light-blue)",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [
+      "blau"
+    ],
+    "price_eur": 32.99,
+    "image": "products/p26_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 26,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR194",
+    "name": "Heart -Shirts (viele) (blau)",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [
+      "blau"
+    ],
+    "price_eur": 32.99,
+    "image": "products/p26_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 26,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR195",
+    "name": "Heart -Shirts (viele) (grau)",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 32.99,
+    "image": "products/p26_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 26,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR196",
+    "name": "Heart -Shirts (viele) (schwarz-rot)",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [
+      "schwarz",
+      "rot"
+    ],
+    "price_eur": 32.99,
+    "image": "products/p26_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 26,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR197",
+    "name": "Heart -Shirts (viele) (weiss-rot)",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [
+      "weiss",
+      "rot"
+    ],
+    "price_eur": 32.99,
+    "image": "products/p26_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 26,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR198",
+    "name": "Heart -Shirts (viele) (mintgrun)",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [
+      "mint"
+    ],
+    "price_eur": 32.99,
+    "image": "products/p26_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 26,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR199",
+    "name": "Heart -Shirts (viele) (gruen)",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [
+      "gruen"
+    ],
+    "price_eur": 32.99,
+    "image": "products/p27_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 27,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR200",
+    "name": "Heart -Shirts (viele) (rosa)",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [
+      "rosa"
+    ],
+    "price_eur": 32.99,
+    "image": "products/p27_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 27,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR201",
+    "name": "GG T-Shirt (schwarz)",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 39.99,
+    "image": "products/p27_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 27,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR202",
+    "name": "GG T-Shirt (beige)",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [
+      "beige"
+    ],
+    "price_eur": 39.99,
+    "image": "products/p27_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 27,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR203",
+    "name": "GG Summer Shirt",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [],
+    "price_eur": 69.99,
+    "image": "products/p27_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 27,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR204",
+    "name": "Dept Tee Pink",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [
+      "rosa"
+    ],
+    "price_eur": 29.99,
+    "image": "products/p27_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 27,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR205",
+    "name": "Dept Tee Black",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 29.99,
+    "image": "products/p27_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 27,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR206",
+    "name": "Countdown Tee",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [],
+    "price_eur": 29.99,
+    "image": "products/p27_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 27,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR207",
+    "name": "Favela Tee (schwarz)",
+    "category": "T-Shirts & Shirts",
+    "slot": "top",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 29.99,
+    "image": "products/p27_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 27,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR208",
+    "name": "Track Sneaker Grey",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 119.99,
+    "image": "products/p29_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 29,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR209",
+    "name": "Gel Runner Sneaker (grau-beige)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "grau",
+      "beige"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p29_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 29,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR210",
+    "name": "Gel Runner Sneaker (pink)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "rosa"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p29_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 29,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR211",
+    "name": "Gel Runner Sneaker (all-black)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p29_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 29,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR212",
+    "name": "Gel Runner Sneaker (fjord-grey)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p29_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 29,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR213",
+    "name": "Gel Runner Sneaker (orange)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "orange"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p29_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 29,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR214",
+    "name": "Gel Runner Sneaker (schwarz-silber",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "schwarz",
+      "silber"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p29_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 29,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR215",
+    "name": "Gel Runner Sneaker (silber)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "silber"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p29_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 29,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR216",
+    "name": "Gel Runner Sneaker (blue-silver)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "blau"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p29_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 29,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR217",
+    "name": "Gel Runner Sneaker (silber-grun)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "silber"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p30_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 30,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR218",
+    "name": "Socks Sneaker (schwarz)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 99.99,
+    "image": "products/p30_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 30,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR219",
+    "name": "Socks Sneaker (weiss)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 99.99,
+    "image": "products/p30_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 30,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR220",
+    "name": "Socks Sneaker (beige)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "beige"
+    ],
+    "price_eur": 99.99,
+    "image": "products/p30_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 30,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR221",
+    "name": "Socks Sneaker (schwarz-weiss)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "schwarz",
+      "weiss"
+    ],
+    "price_eur": 99.99,
+    "image": "products/p30_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 30,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR222",
+    "name": "CPFM-AIR Sneaker (schwarz)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 99.99,
+    "image": "products/p30_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 30,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR223",
+    "name": "CPFM-AIR Sneaker (weiss)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 99.99,
+    "image": "products/p30_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 30,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR224",
+    "name": "DRK-AF1 Sneaker (weif)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [],
+    "price_eur": 85.99,
+    "image": "products/p30_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 30,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR225",
+    "name": "DRK-AF1 Sneaker (rosa)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "rosa"
+    ],
+    "price_eur": 85.99,
+    "image": "products/p30_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 30,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR226",
+    "name": "DRK-AF1 Sneaker (neongelb)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [],
+    "price_eur": 85.99,
+    "image": "products/p31_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 31,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR227",
+    "name": "Leder Cups Sneaker (grau)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 109.99,
+    "image": "products/p31_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 31,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR228",
+    "name": "Leder Cups Sneaker (schwarz)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 109.99,
+    "image": "products/p31_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 31,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR229",
+    "name": "Leder Cups Sneaker (rot)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "rot"
+    ],
+    "price_eur": 109.99,
+    "image": "products/p31_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 31,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR230",
+    "name": "Leder Cups Sneaker (gruen)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "gruen"
+    ],
+    "price_eur": 109.99,
+    "image": "products/p31_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 31,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR231",
+    "name": "Leder Cups Sneaker (marineblau)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "marineblau"
+    ],
+    "price_eur": 109.99,
+    "image": "products/p31_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 31,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR232",
+    "name": "LV All Black Trainer",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 99.95,
+    "image": "products/p31_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 31,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR233",
+    "name": "Curb Sneaker (weiss-bunte-laces)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 109.99,
+    "image": "products/p31_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 31,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR234",
+    "name": "Curb Sneaker (all-black)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 109.99,
+    "image": "products/p31_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 31,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR235",
+    "name": "Curb Sneaker (all-white)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 109.99,
+    "image": "products/p32_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 32,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR236",
+    "name": "Curb Sneaker (schwarz-grau)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "schwarz",
+      "grau"
+    ],
+    "price_eur": 109.99,
+    "image": "products/p32_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 32,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR237",
+    "name": "Curb Sneaker (weiss-schwarz-weiss)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "schwarz",
+      "weiss"
+    ],
+    "price_eur": 109.99,
+    "image": "products/p32_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 32,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR238",
+    "name": "Curb Sneaker (rosa)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "rosa"
+    ],
+    "price_eur": 109.99,
+    "image": "products/p32_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 32,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR239",
+    "name": "Curb Sneaker (hellblau)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [],
+    "price_eur": 109.99,
+    "image": "products/p32_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 32,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR240",
+    "name": "Curb Sneaker (weiss-blaue-laces)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "weiss",
+      "blau"
+    ],
+    "price_eur": 109.99,
+    "image": "products/p32_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 32,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR241",
+    "name": "CC Runner V2 (schwarz)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 119.99,
+    "image": "products/p32_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 32,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR242",
+    "name": "CC Runner V2 (weiss)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 119.99,
+    "image": "products/p32_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 32,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR243",
+    "name": "CRTZ-95 Sneaker (honey-black)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p32_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 32,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR244",
+    "name": "CRTZ-95 Sneaker (gruen)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "gruen"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p33_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 33,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR245",
+    "name": "CRTZ-95 Sneaker (aegean-storm)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [],
+    "price_eur": 79.99,
+    "image": "products/p33_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 33,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR246",
+    "name": "CRTZ-95 Sneaker (pink-beam)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "rosa"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p33_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 33,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR247",
+    "name": "CRTZ-95 Sneaker (weiss)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p33_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 33,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR248",
+    "name": "Star Sneaker Blue",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "blau"
+    ],
+    "price_eur": 84.99,
+    "image": "products/p33_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 33,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR249",
+    "name": "CC Runner Sneaker (gold)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "gold"
+    ],
+    "price_eur": 119.99,
+    "image": "products/p33_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 33,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR250",
+    "name": "CC Runner Sneaker (silber)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "silber"
+    ],
+    "price_eur": 119.99,
+    "image": "products/p33_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 33,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR251",
+    "name": "CC Runner Sneaker (weiss)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 119.99,
+    "image": "products/p33_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 33,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR252",
+    "name": "CC Runner Sneaker (schwarz)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 119.99,
+    "image": "products/p33_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 33,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR253",
+    "name": "B22 Sneaker (schwarz)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p33_r3_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 33,
+      "row": 3,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR254",
+    "name": "B22 Sneaker (weiss-grau)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "weiss",
+      "grau"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p33_r3_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 33,
+      "row": 3,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR255",
+    "name": "B22 Sneaker (weiss)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p33_r3_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 33,
+      "row": 3,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR256",
+    "name": "B22 Sneaker (rosa)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "rosa"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p34_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 34,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR257",
+    "name": "B22 Sneaker (schwarz-weiss)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "schwarz",
+      "weiss"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p34_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 34,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR258",
+    "name": "B22 Sneaker (triple-grey)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p34_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 34,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR259",
+    "name": "Off Sneaker Black/White",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "schwarz",
+      "weiss"
+    ],
+    "price_eur": 84.99,
+    "image": "products/p34_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 34,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR260",
+    "name": "Off Sneaker Babyblue/White",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 84.99,
+    "image": "products/p34_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 34,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR261",
+    "name": "Track Sneaker Cream",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [],
+    "price_eur": 119.99,
+    "image": "products/p34_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 34,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR262",
+    "name": "Skate LV Sneaker 2.0 (schwarz)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 119.99,
+    "image": "products/p34_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 34,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR263",
+    "name": "Skate LV Sneaker 2.0 (grau)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 119.99,
+    "image": "products/p34_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 34,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR264",
+    "name": "Skate LV Sneaker 2.0 (blau)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "blau"
+    ],
+    "price_eur": 119.99,
+    "image": "products/p34_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 34,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR265",
+    "name": "Skate LV Sneaker 2.0 (lila)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "lila"
+    ],
+    "price_eur": 119.99,
+    "image": "products/p35_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 35,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR266",
+    "name": "Track Sneaker",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [],
+    "price_eur": 89.99,
+    "image": "products/p35_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 35,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR267",
+    "name": "B25 Sneaker (schwarz-weiss)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "schwarz",
+      "weiss"
+    ],
+    "price_eur": 99.99,
+    "image": "products/p35_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 35,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR268",
+    "name": "B25 Sneaker (schwarz)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 99.99,
+    "image": "products/p35_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 35,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR269",
+    "name": "GG Trainer (blau-beige)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "blau",
+      "beige"
+    ],
+    "price_eur": 99.99,
+    "image": "products/p35_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 35,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR270",
+    "name": "GG Trainer (pink)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "rosa"
+    ],
+    "price_eur": 99.99,
+    "image": "products/p35_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 35,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR271",
+    "name": "B27 Low Sneaker (grau)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 99.99,
+    "image": "products/p35_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 35,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR272",
+    "name": "B27 Low Sneaker (schwarz)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 99.99,
+    "image": "products/p35_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 35,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR273",
+    "name": "Aeson Low Top Sneaker (schwarz)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 109.99,
+    "image": "products/p36_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 36,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR274",
+    "name": "Aeson Low Top Sneaker (weiss)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 109.99,
+    "image": "products/p36_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 36,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR275",
+    "name": "CD Sneaker (schwarz)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 99.99,
+    "image": "products/p36_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 36,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR276",
+    "name": "CD Sneaker (grau)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 99.99,
+    "image": "products/p36_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 36,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR277",
+    "name": "CD Sneaker (blau)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "blau"
+    ],
+    "price_eur": 99.99,
+    "image": "products/p36_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 36,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR278",
+    "name": "CD Sneaker (gelb)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "gelb"
+    ],
+    "price_eur": 99.99,
+    "image": "products/p36_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 36,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR279",
+    "name": "LV Skate Sneaker (grau)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 119.99,
+    "image": "products/p36_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 36,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR280",
+    "name": "LV Skate Sneaker (blau)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "blau"
+    ],
+    "price_eur": 119.99,
+    "image": "products/p36_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 36,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR281",
+    "name": "LV Skate Sneaker (beige)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "beige"
+    ],
+    "price_eur": 119.99,
+    "image": "products/p36_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 36,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR282",
+    "name": "LV Skate Sneaker (gruen)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "gruen"
+    ],
+    "price_eur": 119.99,
+    "image": "products/p37_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 37,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR283",
+    "name": "LV Skate Sneaker (rot)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "rot"
+    ],
+    "price_eur": 119.99,
+    "image": "products/p37_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 37,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR284",
+    "name": "LV Skate Sneaker (schwarz)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 119.99,
+    "image": "products/p37_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 37,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR285",
+    "name": "LV Skate Sneaker (schwarzweiss)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 119.99,
+    "image": "products/p37_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 37,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR286",
+    "name": "LV Skate Sneaker (anthrazit)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [],
+    "price_eur": 119.99,
+    "image": "products/p37_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 37,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR287",
+    "name": "LV Skate Sneaker (mint)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "mint"
+    ],
+    "price_eur": 119.99,
+    "image": "products/p37_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 37,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR288",
+    "name": "Cups Sneaker (schwarz)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 109.99,
+    "image": "products/p37_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 37,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR289",
+    "name": "Cups Sneaker (weiss)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 109.99,
+    "image": "products/p37_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 37,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR290",
+    "name": "Cups Sneaker (marineblau)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "marineblau"
+    ],
+    "price_eur": 109.99,
+    "image": "products/p37_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 37,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR291",
+    "name": "Cups Sneaker (blau)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "blau"
+    ],
+    "price_eur": 109.99,
+    "image": "products/p38_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 38,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR292",
+    "name": "Cups Sneaker (babyblau)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "babyblau"
+    ],
+    "price_eur": 109.99,
+    "image": "products/p38_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 38,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR293",
+    "name": "Cups Sneaker (silber)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "silber"
+    ],
+    "price_eur": 109.99,
+    "image": "products/p38_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 38,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR294",
+    "name": "Cups Sneaker (Grau)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 109.99,
+    "image": "products/p38_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 38,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR295",
+    "name": "Cups Sneaker (rot-)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "rot"
+    ],
+    "price_eur": 109.99,
+    "image": "products/p38_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 38,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR296",
+    "name": "Cups Sneaker (gruen)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "gruen"
+    ],
+    "price_eur": 109.99,
+    "image": "products/p38_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 38,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR297",
+    "name": "Herm Sneaker (schwarz)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 109.99,
+    "image": "products/p38_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 38,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR298",
+    "name": "Herm Sneaker (beige)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "beige"
+    ],
+    "price_eur": 109.99,
+    "image": "products/p38_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 38,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR299",
+    "name": "Herm Sneaker (turkis)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [],
+    "price_eur": 109.99,
+    "image": "products/p38_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 38,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR300",
+    "name": "Herm Sneaker (grau)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 109.99,
+    "image": "products/p39_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 39,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR301",
+    "name": "Herm Sneaker (braun)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "braun"
+    ],
+    "price_eur": 109.99,
+    "image": "products/p39_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 39,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR302",
+    "name": "Herm Sneaker (schwarz-orange)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "schwarz",
+      "orange"
+    ],
+    "price_eur": 109.99,
+    "image": "products/p39_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 39,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR303",
+    "name": "Herm Sneaker (weiss)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 109.99,
+    "image": "products/p39_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 39,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR304",
+    "name": "GG Sneaker Damen",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [],
+    "price_eur": 94.99,
+    "image": "products/p39_r1_c1.png",
+    "male_safe": false,
+    "is_main_product": true,
+    "source": {
+      "page": 39,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR305",
+    "name": "B23 Sneaker",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [],
+    "price_eur": 119.0,
+    "image": "products/p39_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 39,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR306",
+    "name": "Loubs Spike Sneaker (schwarz)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 119.99,
+    "image": "products/p39_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 39,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR307",
+    "name": "Loubs Spike Sneaker (marineblau)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "marineblau"
+    ],
+    "price_eur": 119.98,
+    "image": "products/p39_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 39,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR308",
+    "name": "Loubs Spike Sneaker (grau)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 119.99,
+    "image": "products/p39_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 39,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR309",
+    "name": "Triple S Sneaker",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [],
+    "price_eur": 99.99,
+    "image": "products/p40_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 40,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR310",
+    "name": "Shox Sneaker (schwarz)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 109.99,
+    "image": "products/p40_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 40,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR311",
+    "name": "Shox Sneaker (weiss)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 109.99,
+    "image": "products/p40_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 40,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR312",
+    "name": "Shox Sneaker (grau)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 109.99,
+    "image": "products/p40_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 40,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR313",
+    "name": "Shox Sneaker (braun)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "braun"
+    ],
+    "price_eur": 109.99,
+    "image": "products/p40_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 40,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR314",
+    "name": "Hot Step Sneaker (weiss)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 99.99,
+    "image": "products/p40_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 40,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR315",
+    "name": "Hot Step Sneaker (schwarz)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 99.99,
+    "image": "products/p40_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 40,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR316",
+    "name": "Hot Step Sneaker (lila)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "lila"
+    ],
+    "price_eur": 99.99,
+    "image": "products/p40_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 40,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR317",
+    "name": "Hot Step Sneaker (mintgrun)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "mint"
+    ],
+    "price_eur": 99.99,
+    "image": "products/p40_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 40,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR318",
+    "name": "Hot Step Sneaker (grau)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 99.99,
+    "image": "products/p40_r3_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 40,
+      "row": 3,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR319",
+    "name": "Hot Step Sneaker (schwarz-grau)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "schwarz",
+      "grau"
+    ],
+    "price_eur": 99.99,
+    "image": "products/p40_r3_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 40,
+      "row": 3,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR320",
+    "name": "Hot Step Sneaker (grau-weiss)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "weiss",
+      "grau"
+    ],
+    "price_eur": 99.99,
+    "image": "products/p41_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 41,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR321",
+    "name": "B30 Sneaker (schwarz)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 99.99,
+    "image": "products/p41_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 41,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR322",
+    "name": "B30 Sneaker (weiss)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 99.99,
+    "image": "products/p41_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 41,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR323",
+    "name": "B30 Sneaker (blau)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "blau"
+    ],
+    "price_eur": 99.99,
+    "image": "products/p41_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 41,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR324",
+    "name": "B30 Sneaker (beige)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "beige"
+    ],
+    "price_eur": 99.99,
+    "image": "products/p41_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 41,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR325",
+    "name": "Lou V Trainer Sneaker (schwarz)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 99.95,
+    "image": "products/p41_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 41,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR326",
+    "name": "Lou V Trainer Sneaker (weiss)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 99.95,
+    "image": "products/p41_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 41,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR327",
+    "name": "Lou V Trainer Sneaker (blau)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "blau"
+    ],
+    "price_eur": 99.95,
+    "image": "products/p41_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 41,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR328",
+    "name": "Lou V Trainer Sneaker (rosa)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "rosa"
+    ],
+    "price_eur": 99.95,
+    "image": "products/p41_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 41,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR329",
+    "name": "Gel - Runner Sneaker V2 (rosa)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "rosa"
+    ],
+    "price_eur": 89.99,
+    "image": "products/p42_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 42,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR330",
+    "name": "Gel - Runner Sneaker V2 (weiss)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 89.99,
+    "image": "products/p42_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 42,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR331",
+    "name": "Gel - Runner Sneaker V2 (beige)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "beige"
+    ],
+    "price_eur": 89.99,
+    "image": "products/p42_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 42,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR332",
+    "name": "Gel - Runner Sneaker V2 (schwarz)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 89.99,
+    "image": "products/p42_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 42,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR333",
+    "name": "Gel - Runner Sneaker V2 (grau blau)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "grau",
+      "blau"
+    ],
+    "price_eur": 89.99,
+    "image": "products/p42_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 42,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR334",
+    "name": "Gel - Runner Sneaker V2 (babybiau)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [],
+    "price_eur": 89.99,
+    "image": "products/p42_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 42,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR335",
+    "name": "Gel - Runner Sneaker V2 (schwarz-grau)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "schwarz",
+      "grau"
+    ],
+    "price_eur": 89.99,
+    "image": "products/p42_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 42,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR336",
+    "name": "Gel - Runner Sneaker V2 (pink)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "rosa"
+    ],
+    "price_eur": 89.99,
+    "image": "products/p42_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 42,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR337",
+    "name": "Gel - Runner Sneaker V2 (beige braun)",
+    "category": "Sneaker",
+    "slot": "shoes",
+    "colors": [
+      "beige",
+      "braun"
+    ],
+    "price_eur": 89.99,
+    "image": "products/p42_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": true,
+    "source": {
+      "page": 42,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR338",
+    "name": "Opium SL Heels",
+    "category": "Sandalen, Heels & Slides",
+    "slot": "shoes",
+    "colors": [],
+    "price_eur": 69.99,
+    "image": "products/p43_r0_c0.png",
+    "male_safe": false,
+    "is_main_product": false,
+    "source": {
+      "page": 43,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR339",
+    "name": "HRMS Sandalen (schwarz)",
+    "category": "Sandalen, Heels & Slides",
+    "slot": "shoes",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 69.99,
+    "image": "products/p43_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 43,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR340",
+    "name": "HRMS Sandalen (weiss)",
+    "category": "Sandalen, Heels & Slides",
+    "slot": "shoes",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 69.99,
+    "image": "products/p43_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 43,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR341",
+    "name": "HRMS Sandalen (braun)",
+    "category": "Sandalen, Heels & Slides",
+    "slot": "shoes",
+    "colors": [
+      "braun"
+    ],
+    "price_eur": 69.99,
+    "image": "products/p43_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 43,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR342",
+    "name": "HRMS Sandalen (rosa)",
+    "category": "Sandalen, Heels & Slides",
+    "slot": "shoes",
+    "colors": [
+      "rosa"
+    ],
+    "price_eur": 69.99,
+    "image": "products/p43_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 43,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR343",
+    "name": "HRMS Sandalen (rot)",
+    "category": "Sandalen, Heels & Slides",
+    "slot": "shoes",
+    "colors": [
+      "rot"
+    ],
+    "price_eur": 69.99,
+    "image": "products/p43_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 43,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR344",
+    "name": "HRMS Sandalen (lila)",
+    "category": "Sandalen, Heels & Slides",
+    "slot": "shoes",
+    "colors": [
+      "lila"
+    ],
+    "price_eur": 69.99,
+    "image": "products/p43_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 43,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR345",
+    "name": "HRMS Sandalen (babyblau)",
+    "category": "Sandalen, Heels & Slides",
+    "slot": "shoes",
+    "colors": [
+      "babyblau"
+    ],
+    "price_eur": 69.99,
+    "image": "products/p43_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 43,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR346",
+    "name": "HRMS Sandalen (gruen)",
+    "category": "Sandalen, Heels & Slides",
+    "slot": "shoes",
+    "colors": [
+      "gruen"
+    ],
+    "price_eur": 69.99,
+    "image": "products/p43_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 43,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR347",
+    "name": "HRMS Sandalen (beige)",
+    "category": "Sandalen, Heels & Slides",
+    "slot": "shoes",
+    "colors": [
+      "beige"
+    ],
+    "price_eur": 69.99,
+    "image": "products/p44_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 44,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR348",
+    "name": "HRMS Sandalen (blau)",
+    "category": "Sandalen, Heels & Slides",
+    "slot": "shoes",
+    "colors": [
+      "blau"
+    ],
+    "price_eur": 69.99,
+    "image": "products/p44_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 44,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR349",
+    "name": "CC Mules (weiss)",
+    "category": "Sandalen, Heels & Slides",
+    "slot": "shoes",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 119.99,
+    "image": "products/p44_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 44,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR350",
+    "name": "CC Mules (schwarz)",
+    "category": "Sandalen, Heels & Slides",
+    "slot": "shoes",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 119.99,
+    "image": "products/p44_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 44,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR351",
+    "name": "PILLOW MULES BLACK",
+    "category": "Sandalen, Heels & Slides",
+    "slot": "shoes",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 64.99,
+    "image": "products/p44_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 44,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR352",
+    "name": "LV Sandalen",
+    "category": "Sandalen, Heels & Slides",
+    "slot": "shoes",
+    "colors": [],
+    "price_eur": 59.99,
+    "image": "products/p44_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 44,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR353",
+    "name": "Berry Slides",
+    "category": "Sandalen, Heels & Slides",
+    "slot": "shoes",
+    "colors": [],
+    "price_eur": 39.99,
+    "image": "products/p44_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 44,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR354",
+    "name": "GG Slides",
+    "category": "Sandalen, Heels & Slides",
+    "slot": "shoes",
+    "colors": [],
+    "price_eur": 64.99,
+    "image": "products/p44_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 44,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR355",
+    "name": "CC Ballerinas (Schwarz)",
+    "category": "Sandalen, Heels & Slides",
+    "slot": "shoes",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 89.99,
+    "image": "products/p44_r2_c2.png",
+    "male_safe": false,
+    "is_main_product": false,
+    "source": {
+      "page": 44,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR356",
+    "name": "CC Ballerinas (Schwarz-Beige)",
+    "category": "Sandalen, Heels & Slides",
+    "slot": "shoes",
+    "colors": [
+      "schwarz",
+      "beige"
+    ],
+    "price_eur": 89.99,
+    "image": "products/p45_r0_c0.png",
+    "male_safe": false,
+    "is_main_product": false,
+    "source": {
+      "page": 45,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR357",
+    "name": "CD Pumps",
+    "category": "Sandalen, Heels & Slides",
+    "slot": "shoes",
+    "colors": [],
+    "price_eur": 84.95,
+    "image": "products/p45_r0_c1.png",
+    "male_safe": false,
+    "is_main_product": false,
+    "source": {
+      "page": 45,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR358",
+    "name": "Loub Heels",
+    "category": "Sandalen, Heels & Slides",
+    "slot": "shoes",
+    "colors": [],
+    "price_eur": 84.99,
+    "image": "products/p45_r0_c2.png",
+    "male_safe": false,
+    "is_main_product": false,
+    "source": {
+      "page": 45,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR359",
+    "name": "Ophelia GG Bag",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [],
+    "price_eur": 79.99,
+    "image": "products/p46_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 46,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR360",
+    "name": "Loop LV Bag",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [],
+    "price_eur": 109.99,
+    "image": "products/p46_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 46,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR361",
+    "name": "Cassandra SL Bag (schwarz)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p46_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 46,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR362",
+    "name": "Cassandra SL Bag (rot)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "rot"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p46_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 46,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR363",
+    "name": "Marmont GG Bag",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [],
+    "price_eur": 79.99,
+    "image": "products/p46_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 46,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR364",
+    "name": "GG Cardholder",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [],
+    "price_eur": 24.99,
+    "image": "products/p46_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 46,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR365",
+    "name": "GYD Travel Bag (schwarz)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p46_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 46,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR366",
+    "name": "GYD Travel Bag (grau)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p46_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 46,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR367",
+    "name": "GYD Travel Bag (blau)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "blau"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p46_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 46,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR368",
+    "name": "GYD Travel Bag (gruen)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "gruen"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p47_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 47,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR369",
+    "name": "GYD Travel Bag (schwarz-braun)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "schwarz",
+      "braun"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p47_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 47,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR370",
+    "name": "PRDA Cardholder (schwarz)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 24.99,
+    "image": "products/p47_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 47,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR371",
+    "name": "PRDA Cardholder (weiss)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 24.99,
+    "image": "products/p47_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 47,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR372",
+    "name": "GYD Cardholder (weiss)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 19.99,
+    "image": "products/p47_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 47,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR373",
+    "name": "GYD Cardholder (blau)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "blau"
+    ],
+    "price_eur": 19.99,
+    "image": "products/p47_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 47,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR374",
+    "name": "GYD Cardholder (gruen)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "gruen"
+    ],
+    "price_eur": 19.99,
+    "image": "products/p47_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 47,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR375",
+    "name": "GYD Cardholder (grau)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 19.99,
+    "image": "products/p47_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 47,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR376",
+    "name": "GYD Cardholder (schwarz)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 19.99,
+    "image": "products/p47_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 47,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR377",
+    "name": "GYD Cardholder (dunkelblau)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "dunkelblau"
+    ],
+    "price_eur": 19.99,
+    "image": "products/p48_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 48,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR378",
+    "name": "RH ads DRO GG Guertel und Portmonee (gold-silber)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "silber",
+      "gold"
+    ],
+    "price_eur": 34.99,
+    "image": "products/p48_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 48,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR379",
+    "name": "GG Guertel und Portmonee (gold-schwarz)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "schwarz",
+      "gold"
+    ],
+    "price_eur": 34.99,
+    "image": "products/p48_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 48,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR380",
+    "name": "GG Guertel und Portmonee (schwarz-gold)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "schwarz",
+      "gold"
+    ],
+    "price_eur": 34.99,
+    "image": "products/p48_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 48,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR381",
+    "name": "BE GG Guertel und Portmonee (schwarz-silber)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "schwarz",
+      "silber"
+    ],
+    "price_eur": 34.99,
+    "image": "products/p48_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 48,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR382",
+    "name": "GYD Bag (weiss)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p48_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 48,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR383",
+    "name": "GYD Bag (schwarz)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p48_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 48,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR384",
+    "name": "GYD Bag (grau)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p48_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 48,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR385",
+    "name": "GYD Bag (rot)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "rot"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p49_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 49,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR386",
+    "name": "GYD Bag (gruen)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "gruen"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p49_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 49,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR387",
+    "name": "GYD Bag (blau)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "blau"
+    ],
+    "price_eur": 49.99,
+    "image": "products/p49_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 49,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR388",
+    "name": "LV Tasche (weiss)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p49_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 49,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR389",
+    "name": "LV Tasche (schwarz)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p49_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 49,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR390",
+    "name": "LV Tasche (grau)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p49_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 49,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR391",
+    "name": "LV Tasche (blau)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "blau"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p49_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 49,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR392",
+    "name": "Nano Speedy Handtasche (braun)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "braun"
+    ],
+    "price_eur": 69.95,
+    "image": "products/p49_r2_c2.png",
+    "male_safe": false,
+    "is_main_product": false,
+    "source": {
+      "page": 49,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR393",
+    "name": "Nano Speedy Handtasche (himmelbla",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [],
+    "price_eur": 69.95,
+    "image": "products/p49_r3_c0.png",
+    "male_safe": false,
+    "is_main_product": false,
+    "source": {
+      "page": 49,
+      "row": 3,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR394",
+    "name": "Nano Speedy Handtasche (schwarz)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 69.95,
+    "image": "products/p49_r3_c1.png",
+    "male_safe": false,
+    "is_main_product": false,
+    "source": {
+      "page": 49,
+      "row": 3,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR395",
+    "name": "Nano Speedy Handtasche (pink)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "rosa"
+    ],
+    "price_eur": 69.95,
+    "image": "products/p49_r3_c2.png",
+    "male_safe": false,
+    "is_main_product": false,
+    "source": {
+      "page": 49,
+      "row": 3,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR396",
+    "name": "CC Tote Bag",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [],
+    "price_eur": 114.99,
+    "image": "products/p50_r0_c0.png",
+    "male_safe": false,
+    "is_main_product": false,
+    "source": {
+      "page": 50,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR397",
+    "name": "SL Beach Bag",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [],
+    "price_eur": 124.99,
+    "image": "products/p50_r0_c1.png",
+    "male_safe": false,
+    "is_main_product": false,
+    "source": {
+      "page": 50,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR398",
+    "name": "GG Shopper Bag (braun)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "braun"
+    ],
+    "price_eur": 99.99,
+    "image": "products/p50_r0_c2.png",
+    "male_safe": false,
+    "is_main_product": false,
+    "source": {
+      "page": 50,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR399",
+    "name": "GG Shopper Bag (beige)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "beige"
+    ],
+    "price_eur": 99.99,
+    "image": "products/p50_r1_c0.png",
+    "male_safe": false,
+    "is_main_product": false,
+    "source": {
+      "page": 50,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR400",
+    "name": "GG Shopper Bag (rosa)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "rosa"
+    ],
+    "price_eur": 99.99,
+    "image": "products/p50_r1_c1.png",
+    "male_safe": false,
+    "is_main_product": false,
+    "source": {
+      "page": 50,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR401",
+    "name": "CC Vanity Bag (schwarz)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p50_r1_c2.png",
+    "male_safe": false,
+    "is_main_product": false,
+    "source": {
+      "page": 50,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR402",
+    "name": "CC Vanity Bag (weiss)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p50_r2_c0.png",
+    "male_safe": false,
+    "is_main_product": false,
+    "source": {
+      "page": 50,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR403",
+    "name": "MM Shopper",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [],
+    "price_eur": 119.99,
+    "image": "products/p50_r2_c1.png",
+    "male_safe": false,
+    "is_main_product": false,
+    "source": {
+      "page": 50,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR404",
+    "name": "CC Timeless Tasche (Schwarz-Gold)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "schwarz",
+      "gold"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p50_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 50,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR405",
+    "name": "CC Timeless Tasche (Schwarz-Silber",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "schwarz",
+      "silber"
+    ],
+    "price_eur": 79.99,
+    "image": "products/p51_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 51,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR406",
+    "name": "Felicie Bag (Fuchsia/Pink)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "rosa"
+    ],
+    "price_eur": 69.99,
+    "image": "products/p51_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 51,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR407",
+    "name": "Felicie Bag (Weiss)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 69.99,
+    "image": "products/p51_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 51,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR408",
+    "name": "Felicie Bag (Cerise/Rot)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "rot"
+    ],
+    "price_eur": 69.99,
+    "image": "products/p51_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 51,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR409",
+    "name": "Felicie V2 Bag (Schwarz)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 69.99,
+    "image": "products/p51_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 51,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR410",
+    "name": "Felicie V2 Bag (Rose poudre)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [],
+    "price_eur": 69.99,
+    "image": "products/p51_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 51,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR411",
+    "name": "Felicie V2 Bag (Tourtelle)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [],
+    "price_eur": 69.99,
+    "image": "products/p51_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 51,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR412",
+    "name": "Felicie V2 Bag (Creme)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "creme"
+    ],
+    "price_eur": 69.99,
+    "image": "products/p51_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 51,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR413",
+    "name": "Felicie V2 Bag (Navy)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "marineblau"
+    ],
+    "price_eur": 69.99,
+    "image": "products/p51_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 51,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR414",
+    "name": "Felicie V2 Bag (Shimmery Ink)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [],
+    "price_eur": 69.99,
+    "image": "products/p52_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 52,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR415",
+    "name": "CC Small Size Bag (Schwarz)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 89.99,
+    "image": "products/p52_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 52,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR416",
+    "name": "CC Small Size Bag (Braun (Wildleder))",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "braun"
+    ],
+    "price_eur": 89.99,
+    "image": "products/p52_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 52,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR417",
+    "name": "CC Small Size Bag (Grau (Wildleder)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 89.99,
+    "image": "products/p52_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 52,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR418",
+    "name": "CC Small Size Bag (Pink)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "rosa"
+    ],
+    "price_eur": 89.99,
+    "image": "products/p52_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 52,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR419",
+    "name": "LV Tasche (Monogram Canvas)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [],
+    "price_eur": 89.99,
+    "image": "products/p52_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 52,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR420",
+    "name": "LV Alma Bag (Monogram Canvas)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [],
+    "price_eur": 89.99,
+    "image": "products/p52_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 52,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR421",
+    "name": "LV Alma Bag (Damier Ebene Canvas)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [],
+    "price_eur": 89.99,
+    "image": "products/p52_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 52,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR422",
+    "name": "CD Saddle Bag (Rosa)",
+    "category": "Taschen & Wallets",
+    "slot": "bag",
+    "colors": [
+      "rosa"
+    ],
+    "price_eur": 99.99,
+    "image": "products/p52_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 52,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR423",
+    "name": "Amir Guertel (schwarz-silber)",
+    "category": "Guertel",
+    "slot": "belt",
+    "colors": [
+      "schwarz",
+      "silber"
+    ],
+    "price_eur": 29.99,
+    "image": "products/p54_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 54,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR424",
+    "name": "Amir Guertel (schwarz-gold)",
+    "category": "Guertel",
+    "slot": "belt",
+    "colors": [
+      "schwarz",
+      "gold"
+    ],
+    "price_eur": 29.99,
+    "image": "products/p54_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 54,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR425",
+    "name": "Ferra Guertel",
+    "category": "Guertel",
+    "slot": "belt",
+    "colors": [],
+    "price_eur": 29.99,
+    "image": "products/p54_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 54,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR426",
+    "name": "Vanguard Sonnenbrille (schwarz)",
+    "category": "Sonnenbrillen",
+    "slot": "eyewear",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 19.99,
+    "image": "products/p55_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 55,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR427",
+    "name": "Re: Vanguard Sonnenbrille (weiss)",
+    "category": "Sonnenbrillen",
+    "slot": "eyewear",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 19.99,
+    "image": "products/p55_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 55,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR428",
+    "name": "C-ier Sonnenbrille (schwarz)",
+    "category": "Sonnenbrillen",
+    "slot": "eyewear",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 24.99,
+    "image": "products/p55_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 55,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR429",
+    "name": "C-ier Sonnenbrille (blau)",
+    "category": "Sonnenbrillen",
+    "slot": "eyewear",
+    "colors": [
+      "blau"
+    ],
+    "price_eur": 24.99,
+    "image": "products/p55_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 55,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR430",
+    "name": "C-ier Sonnenbrille (braun)",
+    "category": "Sonnenbrillen",
+    "slot": "eyewear",
+    "colors": [
+      "braun"
+    ],
+    "price_eur": 24.99,
+    "image": "products/p55_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 55,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR431",
+    "name": "C-ier Sonnenbrille (gruen)",
+    "category": "Sonnenbrillen",
+    "slot": "eyewear",
+    "colors": [
+      "gruen"
+    ],
+    "price_eur": 24.99,
+    "image": "products/p55_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 55,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR432",
+    "name": "C-ier Sonnenbrille (lila-)",
+    "category": "Sonnenbrillen",
+    "slot": "eyewear",
+    "colors": [
+      "lila"
+    ],
+    "price_eur": 24.99,
+    "image": "products/p55_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 55,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR433",
+    "name": "C-ier Sonnenbrille (weiss)",
+    "category": "Sonnenbrillen",
+    "slot": "eyewear",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 24.99,
+    "image": "products/p55_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 55,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR434",
+    "name": "Vespera Sonnenbrille (schwarz-gold",
+    "category": "Sonnenbrillen",
+    "slot": "eyewear",
+    "colors": [
+      "schwarz",
+      "gold"
+    ],
+    "price_eur": 24.99,
+    "image": "products/p56_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 56,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR435",
+    "name": "Vespera Sonnenbrille (schwarz-silber)",
+    "category": "Sonnenbrillen",
+    "slot": "eyewear",
+    "colors": [
+      "schwarz",
+      "silber"
+    ],
+    "price_eur": 24.99,
+    "image": "products/p56_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 56,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR436",
+    "name": "Vespera Sonnenbrille (schwarz-schwarz)",
+    "category": "Sonnenbrillen",
+    "slot": "eyewear",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 24.99,
+    "image": "products/p56_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 56,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR437",
+    "name": "Vespera Sonnenbrille (weiss-schwar:",
+    "category": "Sonnenbrillen",
+    "slot": "eyewear",
+    "colors": [
+      "weiss"
+    ],
+    "price_eur": 24.99,
+    "image": "products/p56_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 56,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR438",
+    "name": "Vespera Sonnenbrille (feuer-gold)",
+    "category": "Sonnenbrillen",
+    "slot": "eyewear",
+    "colors": [
+      "gold"
+    ],
+    "price_eur": 24.99,
+    "image": "products/p56_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 56,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR439",
+    "name": "Vespera Sonnenbrille (lila-weiss)",
+    "category": "Sonnenbrillen",
+    "slot": "eyewear",
+    "colors": [
+      "weiss",
+      "lila"
+    ],
+    "price_eur": 24.99,
+    "image": "products/p56_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 56,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR440",
+    "name": "Vespera Sonnenbrille (rose)",
+    "category": "Sonnenbrillen",
+    "slot": "eyewear",
+    "colors": [],
+    "price_eur": 24.99,
+    "image": "products/p56_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 56,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR441",
+    "name": "Vespera Sonnenbrille (sand-schwarz)",
+    "category": "Sonnenbrillen",
+    "slot": "eyewear",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 24.99,
+    "image": "products/p56_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 56,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR442",
+    "name": "Alcatraz Cap (blau)",
+    "category": "Caps",
+    "slot": "cap",
+    "colors": [
+      "blau"
+    ],
+    "price_eur": 24.99,
+    "image": "products/p57_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 57,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR443",
+    "name": "Alcatraz Cap (schwarz-weiss)",
+    "category": "Caps",
+    "slot": "cap",
+    "colors": [
+      "schwarz",
+      "weiss"
+    ],
+    "price_eur": 24.99,
+    "image": "products/p57_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 57,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR444",
+    "name": "Alcatraz Cap (weiss-schwarz)",
+    "category": "Caps",
+    "slot": "cap",
+    "colors": [
+      "schwarz",
+      "weiss"
+    ],
+    "price_eur": 24.99,
+    "image": "products/p57_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 57,
+      "row": 0,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR445",
+    "name": "Alcatraz Cap (schwarz-schwarz)",
+    "category": "Caps",
+    "slot": "cap",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 24.99,
+    "image": "products/p57_r1_c0.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 57,
+      "row": 1,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR446",
+    "name": "Alcatraz Cap (camouflage-schwarz)",
+    "category": "Caps",
+    "slot": "cap",
+    "colors": [
+      "schwarz"
+    ],
+    "price_eur": 24.99,
+    "image": "products/p57_r1_c1.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 57,
+      "row": 1,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR447",
+    "name": "Alcatraz Cap (camouflage-grau)",
+    "category": "Caps",
+    "slot": "cap",
+    "colors": [
+      "grau"
+    ],
+    "price_eur": 24.99,
+    "image": "products/p57_r1_c2.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 57,
+      "row": 1,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR448",
+    "name": "Alcatraz Cap (gruen)",
+    "category": "Caps",
+    "slot": "cap",
+    "colors": [
+      "gruen"
+    ],
+    "price_eur": 24.99,
+    "image": "products/p57_r2_c0.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 57,
+      "row": 2,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR449",
+    "name": "Alcatraz Cap (rosa)",
+    "category": "Caps",
+    "slot": "cap",
+    "colors": [
+      "rosa"
+    ],
+    "price_eur": 24.99,
+    "image": "products/p57_r2_c1.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 57,
+      "row": 2,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR450",
+    "name": "Alcatraz Cap (rot)",
+    "category": "Caps",
+    "slot": "cap",
+    "colors": [
+      "rot"
+    ],
+    "price_eur": 24.99,
+    "image": "products/p57_r2_c2.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 57,
+      "row": 2,
+      "col": 2
+    }
+  },
+  {
+    "id": "ATR451",
+    "name": "Berry Cap",
+    "category": "Caps",
+    "slot": "cap",
+    "colors": [],
+    "price_eur": 29.99,
+    "image": "products/p58_r0_c0.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 58,
+      "row": 0,
+      "col": 0
+    }
+  },
+  {
+    "id": "ATR452",
+    "name": "GG Cap (rosa)",
+    "category": "Caps",
+    "slot": "cap",
+    "colors": [
+      "rosa"
+    ],
+    "price_eur": 29.95,
+    "image": "products/p58_r0_c1.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 58,
+      "row": 0,
+      "col": 1
+    }
+  },
+  {
+    "id": "ATR453",
+    "name": "GG Cap (blau)",
+    "category": "Caps",
+    "slot": "cap",
+    "colors": [
+      "blau"
+    ],
+    "price_eur": 29.95,
+    "image": "products/p58_r0_c2.png",
+    "male_safe": true,
+    "is_main_product": false,
+    "source": {
+      "page": 58,
+      "row": 0,
+      "col": 2
+    }
+  }
+]

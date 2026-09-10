@@ -8,3 +8,4 @@ venv/
 
 # Laufzeit-State
 history.json
+logs/

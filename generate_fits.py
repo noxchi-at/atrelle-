@@ -230,6 +230,52 @@ def make_prompt(fit, belt, watch, perfume):
     return "\n".join(lines)
 
 
+def make_tryon_prompt(fit, belt, watch, perfume):
+    """Try-On-Prompt: Ganzkoerper-Spiegelselfie im 9:16-Format.
+    Person aus einem Referenzfoto, Szene/Perspektive aus einem Spiegelfoto,
+    nur Person und Outfit werden getauscht - Outfit exakt aus den Produktfotos."""
+    items = ", ".join(p["name"] for p in fit)
+    has_sneaker = any(p["slot"] == "shoes" for p in fit)
+
+    lines = []
+    lines.append(
+        "Erstelle ein fotorealistisches Ganzkoerper-Spiegelselfie im 9:16-Hochformat. "
+        "Eine Person haelt ein Smartphone und fotografiert sich im Spiegel, traegt das "
+        "unten genannte Outfit komplett am Koerper."
+    )
+    lines.append("")
+    lines.append(
+        "PERSON: uebernimm Gesicht, Statur, Hautfarbe und Haare 1:1 aus dem angehaengten "
+        "Personen-Referenzfoto. Aendere Identitaet, Koerperbau und Gesichtszuege nicht."
+    )
+    lines.append(
+        "SZENE: uebernimm Hintergrund, Raum, Licht, Spiegel und Kameraperspektive 1:1 aus "
+        "dem angehaengten Spiegelfoto-Referenzbild. Nur Person und Outfit werden ausgetauscht."
+    )
+    lines.append("")
+    lines.append(f"OUTFIT (am Koerper getragen): {items}.")
+    if belt:
+        lines.append(f"Dazu getragen: {belt['name']} (Guertel).")
+    lines.append(f"Accessoires: {watch['name']} (Uhr am Handgelenk); "
+                 f"{perfume['name']} (Parfuem) dezent im Bild, z.B. in der freien Hand oder Tasche.")
+    lines.append("")
+    lines.append(
+        "Nutze fuer JEDES Kleidungsstueck AUSSCHLIESSLICH das jeweils angehaengte Produktfoto "
+        "als Vorlage fuer Schnitt, Form, Silhouette, Proportionen, Farbe, Material, Muster, "
+        "Naehte, Applikationen, Logos, Sohlenform, Schnuerung, Verschluesse, Taschen und "
+        "Reissverschluesse. Kombiniere die Teile realistisch am Koerper (Oberteil, Hose/Shorts, "
+        "ggf. Jacke/Weste, Sneaker). Erfinde keine abweichenden Kleidungsstuecke, Logos oder "
+        "Marken, interpretiere nichts kreativ, modernisiere und vereinfache nichts. Fuege "
+        "keinen Text und keine Wasserzeichen ein."
+    )
+    if has_sneaker:
+        lines.append(
+            "Die Sneaker exakt wie im Referenzfoto (Form, Sohle, Schnuerung, Farbe), "
+            "korrekt an den Fuessen getragen."
+        )
+    return "\n".join(lines)
+
+
 ASSETS = BASE / "assets"
 
 
@@ -297,6 +343,8 @@ def main():
     ap.add_argument("--seed", type=int, default=None)
     ap.add_argument("--reset-history", action="store_true",
                     help="history.json vor dem Lauf leeren")
+    ap.add_argument("--tryon", action="store_true",
+                    help="zusaetzlich prompt_tryon.txt (Spiegelselfie) pro Fit erzeugen")
     args = ap.parse_args()
 
     if args.seed is not None:
@@ -360,6 +408,9 @@ def main():
 
         prompt = make_prompt(fit, belt, watch, perfume)
         (fitdir / "prompt.txt").write_text(prompt, encoding="utf-8")
+        if args.tryon:
+            tryon = make_tryon_prompt(fit, belt, watch, perfume)
+            (fitdir / "prompt_tryon.txt").write_text(tryon, encoding="utf-8")
         (fitdir / "manifest.json").write_text(
             json.dumps(manifest, indent=2, ensure_ascii=False), encoding="utf-8")
 

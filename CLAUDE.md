@@ -30,7 +30,7 @@ sind veraltet und verstoßen gegen die Referenz-Regel (gerenderte Seite gecroppt
 ## Harte Regeln
 
 **Produktbilder**
-- Nur Bilder aus `products/` oder frisch aus dem Katalog gecroppt
+- Nur Bilder aus `katalog_bilder/` (echte eingebettete PDF-Bildobjekte), nie gerenderte/gecroppte Seiten
 - Eine Datei = genau EIN Produkt
 - Produkt nie anschneiden, voller Produktkörper bleibt erhalten
 - Keine Produktnamen, Preise, Nachbarprodukte oder Katalogränder im Bild

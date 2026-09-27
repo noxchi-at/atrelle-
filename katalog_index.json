@@ -1,0 +1,5738 @@
+[
+ {
+  "name": "Essentials Tracksuit (dark-grey)",
+  "preis": "69.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 2,
+  "xref": 10,
+  "datei": "katalog_bilder/essentials_tracksuit_dark_grey.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Casa Summer Set",
+  "preis": "59.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 2,
+  "xref": 5,
+  "datei": "katalog_bilder/casa_summer_set.jpeg",
+  "px": [
+   700,
+   700
+  ]
+ },
+ {
+  "name": "Flower Short Set (grau)",
+  "preis": "59.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 2,
+  "xref": 13,
+  "datei": "katalog_bilder/flower_short_set_grau.jpeg",
+  "px": [
+   533,
+   800
+  ]
+ },
+ {
+  "name": "Essentials Tracksuit (schwarz)",
+  "preis": "69.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 2,
+  "xref": 11,
+  "datei": "katalog_bilder/essentials_tracksuit_schwarz.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Essentials Summer Set (light-grey)",
+  "preis": "59.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 2,
+  "xref": 6,
+  "datei": "katalog_bilder/essentials_summer_set_light_grey.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Essentials Summer Set (schwarz)",
+  "preis": "59.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 2,
+  "xref": 8,
+  "datei": "katalog_bilder/essentials_summer_set_schwarz.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Flower Short Set (schwarz)",
+  "preis": "59.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 2,
+  "xref": 12,
+  "datei": "katalog_bilder/flower_short_set_schwarz.jpeg",
+  "px": [
+   533,
+   800
+  ]
+ },
+ {
+  "name": "Essentials Summer Set (dark-grey)",
+  "preis": "59.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 2,
+  "xref": 7,
+  "datei": "katalog_bilder/essentials_summer_set_dark_grey.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Essentials Tracksuit (light-grey)",
+  "preis": "69.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 2,
+  "xref": 9,
+  "datei": "katalog_bilder/essentials_tracksuit_light_grey.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Alcatraz Tracksuit Black/White",
+  "preis": "89.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 3,
+  "xref": 15,
+  "datei": "katalog_bilder/alcatraz_tracksuit_black_white.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Nocta - Tracksuit (gruen)",
+  "preis": "79.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 3,
+  "xref": 20,
+  "datei": "katalog_bilder/nocta_tracksuit_gruen.jpeg",
+  "px": [
+   750,
+   750
+  ]
+ },
+ {
+  "name": "Nocta - Tracksuit (schwarz)",
+  "preis": "79.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 3,
+  "xref": 18,
+  "datei": "katalog_bilder/nocta_tracksuit_schwarz.jpeg",
+  "px": [
+   750,
+   750
+  ]
+ },
+ {
+  "name": "Alcatraz Tracksuit Babyblue",
+  "preis": "89.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 3,
+  "xref": 17,
+  "datei": "katalog_bilder/alcatraz_tracksuit_babyblue.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Nocta - Tracksuit (blau)",
+  "preis": "79.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 3,
+  "xref": 19,
+  "datei": "katalog_bilder/nocta_tracksuit_blau.jpeg",
+  "px": [
+   750,
+   750
+  ]
+ },
+ {
+  "name": "N-Miler Short Set (many different\ncolors) (White and Black(shorts))",
+  "preis": "59.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 3,
+  "xref": 23,
+  "datei": "katalog_bilder/n_miler_short_set_many_different_colors_white_and_black_shorts.jpeg",
+  "px": [
+   533,
+   800
+  ]
+ },
+ {
+  "name": "Alcatraz Tracksuit Grey",
+  "preis": "89.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 3,
+  "xref": 16,
+  "datei": "katalog_bilder/alcatraz_tracksuit_grey.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "N-Miler Short Set (many different",
+  "preis": "59.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 3,
+  "xref": 22,
+  "datei": "katalog_bilder/n_miler_short_set_many_different.jpeg",
+  "px": [
+   533,
+   800
+  ]
+ },
+ {
+  "name": "N-Miler Short Set (many different",
+  "preis": "59.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 3,
+  "xref": 21,
+  "datei": "katalog_bilder/n_miler_short_set_many_different_2.jpeg",
+  "px": [
+   533,
+   800
+  ]
+ },
+ {
+  "name": "N-Miler Short Set (many different\ncolors) (Pink and Mint Green(shorts))",
+  "preis": "59.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 4,
+  "xref": 28,
+  "datei": "katalog_bilder/n_miler_short_set_many_different_colors_pink_and_mint_green_shorts.jpeg",
+  "px": [
+   532,
+   800
+  ]
+ },
+ {
+  "name": "N-Miler Short Set (many different\ncolors) (Mint Green and Black(shorts))",
+  "preis": "59.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 4,
+  "xref": 29,
+  "datei": "katalog_bilder/n_miler_short_set_many_different_colors_mint_green_and_black_shorts.jpeg",
+  "px": [
+   533,
+   800
+  ]
+ },
+ {
+  "name": "N-Miler Short Set (many different",
+  "preis": "59.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 4,
+  "xref": 32,
+  "datei": "katalog_bilder/n_miler_short_set_many_different_3.jpeg",
+  "px": [
+   532,
+   800
+  ]
+ },
+ {
+  "name": "N-Miler Short Set (many different",
+  "preis": "59.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 4,
+  "xref": 25,
+  "datei": "katalog_bilder/n_miler_short_set_many_different_4.jpeg",
+  "px": [
+   533,
+   800
+  ]
+ },
+ {
+  "name": "N-Miler Short Set (many different\ncolors) (Black and Mint Green(shorts))",
+  "preis": "59.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 4,
+  "xref": 26,
+  "datei": "katalog_bilder/n_miler_short_set_many_different_colors_black_and_mint_green_shorts.jpeg",
+  "px": [
+   532,
+   800
+  ]
+ },
+ {
+  "name": "N-Miler Short Set (many different\ncolors) (White and Mint Green(shorts))",
+  "preis": "59.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 4,
+  "xref": 27,
+  "datei": "katalog_bilder/n_miler_short_set_many_different_colors_white_and_mint_green_shorts.jpeg",
+  "px": [
+   532,
+   800
+  ]
+ },
+ {
+  "name": "N-Miler Short Set (many different",
+  "preis": "59.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 4,
+  "xref": 33,
+  "datei": "katalog_bilder/n_miler_short_set_many_different_5.jpeg",
+  "px": [
+   533,
+   800
+  ]
+ },
+ {
+  "name": "N-Miler Short Set (many different\ncolors) (Mint Green and Pink(shorts))",
+  "preis": "59.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 4,
+  "xref": 31,
+  "datei": "katalog_bilder/n_miler_short_set_many_different_colors_mint_green_and_pink_shorts.jpeg",
+  "px": [
+   532,
+   800
+  ]
+ },
+ {
+  "name": "N-Miler Short Set (many different",
+  "preis": "59.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 4,
+  "xref": 30,
+  "datei": "katalog_bilder/n_miler_short_set_many_different_6.jpeg",
+  "px": [
+   532,
+   800
+  ]
+ },
+ {
+  "name": "UA Short Set (Black and Grey(shorts))",
+  "preis": "59.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 5,
+  "xref": 39,
+  "datei": "katalog_bilder/ua_short_set_black_and_grey_shorts.jpeg",
+  "px": [
+   533,
+   800
+  ]
+ },
+ {
+  "name": "UA Short Set (White and Black(shorts))",
+  "preis": "59.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 5,
+  "xref": 38,
+  "datei": "katalog_bilder/ua_short_set_white_and_black_shorts.jpeg",
+  "px": [
+   533,
+   800
+  ]
+ },
+ {
+  "name": "UA Short Set (Black and Black(shorts))",
+  "preis": "59.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 5,
+  "xref": 42,
+  "datei": "katalog_bilder/ua_short_set_black_and_black_shorts.jpeg",
+  "px": [
+   533,
+   800
+  ]
+ },
+ {
+  "name": "N-Miler Short Set (many different\ncolors) (Orange and Black(shorts))",
+  "preis": "59.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 5,
+  "xref": 36,
+  "datei": "katalog_bilder/n_miler_short_set_many_different_colors_orange_and_black_shorts.jpeg",
+  "px": [
+   532,
+   800
+  ]
+ },
+ {
+  "name": "UA Short Set (White and Blue(shorts))",
+  "preis": "59.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 5,
+  "xref": 41,
+  "datei": "katalog_bilder/ua_short_set_white_and_blue_shorts.jpeg",
+  "px": [
+   533,
+   800
+  ]
+ },
+ {
+  "name": "N-Miler Short Set (many different",
+  "preis": "",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 5,
+  "xref": 37,
+  "datei": "katalog_bilder/n_miler_short_set_many_different_7.jpeg",
+  "px": [
+   532,
+   800
+  ]
+ },
+ {
+  "name": "UA Short Set (Blue and Black(shorts))",
+  "preis": "59.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 5,
+  "xref": 40,
+  "datei": "katalog_bilder/ua_short_set_blue_and_black_shorts.jpeg",
+  "px": [
+   533,
+   800
+  ]
+ },
+ {
+  "name": "Flower - Tracksuit (grau)",
+  "preis": "59.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 5,
+  "xref": 43,
+  "datei": "katalog_bilder/flower_tracksuit_grau.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "N-Miler Short Set (many different\ncolors) (Orange and Pink(shorts))",
+  "preis": "59.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 5,
+  "xref": 35,
+  "datei": "katalog_bilder/n_miler_short_set_many_different_colors_orange_and_pink_shorts.jpeg",
+  "px": [
+   532,
+   800
+  ]
+ },
+ {
+  "name": "Flower - Tracksuit (gruen)",
+  "preis": "59.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 6,
+  "xref": 47,
+  "datei": "katalog_bilder/flower_tracksuit_gruen.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Flower - Tracksuit (schwarz)",
+  "preis": "59.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 6,
+  "xref": 45,
+  "datei": "katalog_bilder/flower_tracksuit_schwarz.jpeg",
+  "px": [
+   500,
+   500
+  ]
+ },
+ {
+  "name": "Flower - Tracksuit (rosa)",
+  "preis": "59.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 6,
+  "xref": 48,
+  "datei": "katalog_bilder/flower_tracksuit_rosa.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Flower - Tracksuit (blau)",
+  "preis": "59.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 6,
+  "xref": 46,
+  "datei": "katalog_bilder/flower_tracksuit_blau.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "6pm Basic Tracksuit (weiss)",
+  "preis": "79.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 6,
+  "xref": 53,
+  "datei": "katalog_bilder/6pm_basic_tracksuit_weiss.jpeg",
+  "px": [
+   800,
+   787
+  ]
+ },
+ {
+  "name": "6pm Basic Tracksuit (hellblau)",
+  "preis": "79.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 6,
+  "xref": 50,
+  "datei": "katalog_bilder/6pm_basic_tracksuit_hellblau.jpeg",
+  "px": [
+   800,
+   786
+  ]
+ },
+ {
+  "name": "6pm Basic Tracksuit (beige-1)",
+  "preis": "79.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 6,
+  "xref": 52,
+  "datei": "katalog_bilder/6pm_basic_tracksuit_beige_1.jpeg",
+  "px": [
+   800,
+   786
+  ]
+ },
+ {
+  "name": "6pm Basic Tracksuit (dunkelblau)",
+  "preis": "79.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 6,
+  "xref": 51,
+  "datei": "katalog_bilder/6pm_basic_tracksuit_dunkelblau.jpeg",
+  "px": [
+   800,
+   786
+  ]
+ },
+ {
+  "name": "Flower - Tracksuit (rot)",
+  "preis": "59.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 6,
+  "xref": 49,
+  "datei": "katalog_bilder/flower_tracksuit_rot.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "BAPE Miami Summer Set",
+  "preis": "39.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 7,
+  "xref": 58,
+  "datei": "katalog_bilder/bape_miami_summer_set.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "TS Short Set Blue",
+  "preis": "34.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 7,
+  "xref": 57,
+  "datei": "katalog_bilder/ts_short_set_blue.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "197 Summer Set (Schwarz)",
+  "preis": "39.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 7,
+  "xref": 62,
+  "datei": "katalog_bilder/197_summer_set_schwarz.jpeg",
+  "px": [
+   533,
+   800
+  ]
+ },
+ {
+  "name": "TS Short Set Blue",
+  "preis": "34.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 7,
+  "xref": 56,
+  "datei": "katalog_bilder/ts_short_set_blue_2.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "TS Short Set Blue",
+  "preis": "34.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 7,
+  "xref": 55,
+  "datei": "katalog_bilder/ts_short_set_blue_3.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "197 Summer Set (Hellgrau)",
+  "preis": "39.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 7,
+  "xref": 63,
+  "datei": "katalog_bilder/197_summer_set_hellgrau.jpeg",
+  "px": [
+   533,
+   800
+  ]
+ },
+ {
+  "name": "BAPE Miami Summer Set Pink",
+  "preis": "39.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 7,
+  "xref": 59,
+  "datei": "katalog_bilder/bape_miami_summer_set_pink.jpeg",
+  "px": [
+   360,
+   360
+  ]
+ },
+ {
+  "name": "AMIR Summer Set V1",
+  "preis": "39.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 7,
+  "xref": 60,
+  "datei": "katalog_bilder/amir_summer_set_v1.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "AMIR Summer Set V2",
+  "preis": "39.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 7,
+  "xref": 61,
+  "datei": "katalog_bilder/amir_summer_set_v2.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Palm Tracksuit (rot)",
+  "preis": "79.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 8,
+  "xref": 73,
+  "datei": "katalog_bilder/palm_tracksuit_rot.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "RL Tracksuit (Blau-Rot)",
+  "preis": "89.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 8,
+  "xref": 69,
+  "datei": "katalog_bilder/rl_tracksuit_blau_rot.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "RL Tracksuit (Grau)",
+  "preis": "89.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 8,
+  "xref": 70,
+  "datei": "katalog_bilder/rl_tracksuit_grau.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "197 Summer Set (Dunkelgrau)",
+  "preis": "39.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 8,
+  "xref": 65,
+  "datei": "katalog_bilder/197_summer_set_dunkelgrau.jpeg",
+  "px": [
+   533,
+   800
+  ]
+ },
+ {
+  "name": "RL Tracksuit (Blau-Weiß)",
+  "preis": "89.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 8,
+  "xref": 68,
+  "datei": "katalog_bilder/rl_tracksuit_blau_weiss.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "RL Tracksuit (Schwarz-Rot)",
+  "preis": "89.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 8,
+  "xref": 67,
+  "datei": "katalog_bilder/rl_tracksuit_schwarz_rot.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "RL Tracksuit (Weiß)",
+  "preis": "89.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 8,
+  "xref": 71,
+  "datei": "katalog_bilder/rl_tracksuit_weiss.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "RL Tracksuit (Schwarz-Weiß)",
+  "preis": "89.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 8,
+  "xref": 66,
+  "datei": "katalog_bilder/rl_tracksuit_schwarz_weiss.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Palm Tracksuit (schwarz)",
+  "preis": "79.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 8,
+  "xref": 72,
+  "datei": "katalog_bilder/palm_tracksuit_schwarz.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Palm Tracksuit (lila)",
+  "preis": "79.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 9,
+  "xref": 76,
+  "datei": "katalog_bilder/palm_tracksuit_lila.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Palm Tracksuit (gruen)",
+  "preis": "79.99 EUR",
+  "kategorie": "Sets & Tracksuits",
+  "seite": 9,
+  "xref": 75,
+  "datei": "katalog_bilder/palm_tracksuit_gruen.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Casa Shorts (schwarz)",
+  "preis": "34.99 EUR",
+  "kategorie": "Shorts",
+  "seite": 10,
+  "xref": 79,
+  "datei": "katalog_bilder/casa_shorts_schwarz.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Heart Shorts (schwarz)",
+  "preis": "39.99 EUR",
+  "kategorie": "Shorts",
+  "seite": 10,
+  "xref": 81,
+  "datei": "katalog_bilder/heart_shorts_schwarz.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Berry Shorts",
+  "preis": "39.99 EUR",
+  "kategorie": "Shorts",
+  "seite": 10,
+  "xref": 86,
+  "datei": "katalog_bilder/berry_shorts.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Heart Shorts (weiss)",
+  "preis": "39.99 EUR",
+  "kategorie": "Shorts",
+  "seite": 10,
+  "xref": 82,
+  "datei": "katalog_bilder/heart_shorts_weiss.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Casa Shorts (weiss)",
+  "preis": "34.99 EUR",
+  "kategorie": "Shorts",
+  "seite": 10,
+  "xref": 78,
+  "datei": "katalog_bilder/casa_shorts_weiss.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Heart Shorts (weiss-rot)",
+  "preis": "39.99 EUR",
+  "kategorie": "Shorts",
+  "seite": 10,
+  "xref": 85,
+  "datei": "katalog_bilder/heart_shorts_weiss_rot.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Heart Shorts (grau)",
+  "preis": "39.99 EUR",
+  "kategorie": "Shorts",
+  "seite": 10,
+  "xref": 83,
+  "datei": "katalog_bilder/heart_shorts_grau.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Heart Shorts (schwarz-rot)",
+  "preis": "39.99 EUR",
+  "kategorie": "Shorts",
+  "seite": 10,
+  "xref": 84,
+  "datei": "katalog_bilder/heart_shorts_schwarz_rot.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "LV Shorts",
+  "preis": "39.99 EUR",
+  "kategorie": "Shorts",
+  "seite": 10,
+  "xref": 80,
+  "datei": "katalog_bilder/lv_shorts.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "CRTZ Shorts White",
+  "preis": "39.99 EUR",
+  "kategorie": "Shorts",
+  "seite": 11,
+  "xref": 91,
+  "datei": "katalog_bilder/crtz_shorts_white.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "GG Summer Shorts",
+  "preis": "59.99 EUR",
+  "kategorie": "Shorts",
+  "seite": 11,
+  "xref": 92,
+  "datei": "katalog_bilder/gg_summer_shorts.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Alcatraz Shorts Pink",
+  "preis": "39.99 EUR",
+  "kategorie": "Shorts",
+  "seite": 11,
+  "xref": 95,
+  "datei": "katalog_bilder/alcatraz_shorts_pink.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "CB Shorts Grey",
+  "preis": "42.99 EUR",
+  "kategorie": "Shorts",
+  "seite": 11,
+  "xref": 96,
+  "datei": "katalog_bilder/cb_shorts_grey.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "CRTZ Shorts Black",
+  "preis": "39.99 EUR",
+  "kategorie": "Shorts",
+  "seite": 11,
+  "xref": 89,
+  "datei": "katalog_bilder/crtz_shorts_black.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "CRTZ Shorts White Pink",
+  "preis": "39.99 EUR",
+  "kategorie": "Shorts",
+  "seite": 11,
+  "xref": 90,
+  "datei": "katalog_bilder/crtz_shorts_white_pink.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "CRTZ Shorts Black Pink",
+  "preis": "39.99 EUR",
+  "kategorie": "Shorts",
+  "seite": 11,
+  "xref": 88,
+  "datei": "katalog_bilder/crtz_shorts_black_pink.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Alcatraz Shorts Black",
+  "preis": "39.99 EUR",
+  "kategorie": "Shorts",
+  "seite": 11,
+  "xref": 93,
+  "datei": "katalog_bilder/alcatraz_shorts_black.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Alcatraz Shorts Babyblue",
+  "preis": "39.99 EUR",
+  "kategorie": "Shorts",
+  "seite": 11,
+  "xref": 94,
+  "datei": "katalog_bilder/alcatraz_shorts_babyblue.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "CB Shorts Black",
+  "preis": "42.99 EUR",
+  "kategorie": "Shorts",
+  "seite": 12,
+  "xref": 98,
+  "datei": "katalog_bilder/cb_shorts_black.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Flower Shorts Black",
+  "preis": "39.99 EUR",
+  "kategorie": "Shorts",
+  "seite": 12,
+  "xref": 102,
+  "datei": "katalog_bilder/flower_shorts_black.jpeg",
+  "px": [
+   689,
+   800
+  ]
+ },
+ {
+  "name": "CB Shorts Beige",
+  "preis": "42.99 EUR",
+  "kategorie": "Shorts",
+  "seite": 12,
+  "xref": 99,
+  "datei": "katalog_bilder/cb_shorts_beige.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Berry Shorts V3",
+  "preis": "39.99 EUR",
+  "kategorie": "Shorts",
+  "seite": 12,
+  "xref": 101,
+  "datei": "katalog_bilder/berry_shorts_v3.jpeg",
+  "px": [
+   599,
+   800
+  ]
+ },
+ {
+  "name": "Essence Shorts Grey",
+  "preis": "39.99 EUR",
+  "kategorie": "Shorts",
+  "seite": 12,
+  "xref": 106,
+  "datei": "katalog_bilder/essence_shorts_grey.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Flower Shorts Pink",
+  "preis": "39.99 EUR",
+  "kategorie": "Shorts",
+  "seite": 12,
+  "xref": 104,
+  "datei": "katalog_bilder/flower_shorts_pink.jpeg",
+  "px": [
+   728,
+   800
+  ]
+ },
+ {
+  "name": "Essence Shorts Black",
+  "preis": "39.99 EUR",
+  "kategorie": "Shorts",
+  "seite": 12,
+  "xref": 105,
+  "datei": "katalog_bilder/essence_shorts_black.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Berry Shorts V2",
+  "preis": "39.99 EUR",
+  "kategorie": "Shorts",
+  "seite": 12,
+  "xref": 100,
+  "datei": "katalog_bilder/berry_shorts_v2.jpeg",
+  "px": [
+   583,
+   800
+  ]
+ },
+ {
+  "name": "Flower Shorts Grey",
+  "preis": "39.99 EUR",
+  "kategorie": "Shorts",
+  "seite": 12,
+  "xref": 103,
+  "datei": "katalog_bilder/flower_shorts_grey.jpeg",
+  "px": [
+   704,
+   800
+  ]
+ },
+ {
+  "name": "Dept Flared Jogger (grau)",
+  "preis": "49.99 EUR",
+  "kategorie": "Hosen & Jeans",
+  "seite": 13,
+  "xref": 109,
+  "datei": "katalog_bilder/dept_flared_jogger_grau.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Downtown Flared Denim (grau)",
+  "preis": "49.99 EUR",
+  "kategorie": "Hosen & Jeans",
+  "seite": 13,
+  "xref": 113,
+  "datei": "katalog_bilder/downtown_flared_denim_grau.jpeg",
+  "px": [
+   778,
+   800
+  ]
+ },
+ {
+  "name": "Dept Flared Jogger (schwarz)",
+  "preis": "49.99 EUR",
+  "kategorie": "Hosen & Jeans",
+  "seite": 13,
+  "xref": 108,
+  "datei": "katalog_bilder/dept_flared_jogger_schwarz.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Dept Flared Jogger (lila)",
+  "preis": "49.99 EUR",
+  "kategorie": "Hosen & Jeans",
+  "seite": 13,
+  "xref": 110,
+  "datei": "katalog_bilder/dept_flared_jogger_lila.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Downtown Flared Denim (schwarz)",
+  "preis": "49.99 EUR",
+  "kategorie": "Hosen & Jeans",
+  "seite": 13,
+  "xref": 115,
+  "datei": "katalog_bilder/downtown_flared_denim_schwarz.jpeg",
+  "px": [
+   793,
+   800
+  ]
+ },
+ {
+  "name": "Dept Flared Jogger (rot)",
+  "preis": "49.99 EUR",
+  "kategorie": "Hosen & Jeans",
+  "seite": 13,
+  "xref": 111,
+  "datei": "katalog_bilder/dept_flared_jogger_rot.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Downtown Flared Denim (blau)",
+  "preis": "49.99 EUR",
+  "kategorie": "Hosen & Jeans",
+  "seite": 13,
+  "xref": 114,
+  "datei": "katalog_bilder/downtown_flared_denim_blau.jpeg",
+  "px": [
+   782,
+   800
+  ]
+ },
+ {
+  "name": "Dept Flared Jogger (orange)",
+  "preis": "49.99 EUR",
+  "kategorie": "Hosen & Jeans",
+  "seite": 13,
+  "xref": 112,
+  "datei": "katalog_bilder/dept_flared_jogger_orange.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Malo Flared Denim",
+  "preis": "49.99 EUR",
+  "kategorie": "Hosen & Jeans",
+  "seite": 13,
+  "xref": 116,
+  "datei": "katalog_bilder/malo_flared_denim.jpeg",
+  "px": [
+   770,
+   800
+  ]
+ },
+ {
+  "name": "Maestro Flared Carpenter (schwarz)",
+  "preis": "53.99 EUR",
+  "kategorie": "Hosen & Jeans",
+  "seite": 14,
+  "xref": 119,
+  "datei": "katalog_bilder/maestro_flared_carpenter_schwarz.jpeg",
+  "px": [
+   514,
+   800
+  ]
+ },
+ {
+  "name": "Purple Jeans V2",
+  "preis": "59.99 EUR",
+  "kategorie": "Hosen & Jeans",
+  "seite": 14,
+  "xref": 122,
+  "datei": "katalog_bilder/purple_jeans_v2.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Wavy Flared Denim",
+  "preis": "53.99 EUR",
+  "kategorie": "Hosen & Jeans",
+  "seite": 14,
+  "xref": 118,
+  "datei": "katalog_bilder/wavy_flared_denim.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Purple Jeans V1",
+  "preis": "59.99 EUR",
+  "kategorie": "Hosen & Jeans",
+  "seite": 14,
+  "xref": 123,
+  "datei": "katalog_bilder/purple_jeans_v1.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Painted Flared Denim",
+  "preis": "44.99 EUR",
+  "kategorie": "Hosen & Jeans",
+  "seite": 14,
+  "xref": 121,
+  "datei": "katalog_bilder/painted_flared_denim.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Maestro Flared Carpenter (blau)",
+  "preis": "53.99 EUR",
+  "kategorie": "Hosen & Jeans",
+  "seite": 14,
+  "xref": 120,
+  "datei": "katalog_bilder/maestro_flared_carpenter_blau.jpeg",
+  "px": [
+   800,
+   788
+  ]
+ },
+ {
+  "name": "RL Knit (schwarz)",
+  "preis": "49.99 EUR",
+  "kategorie": "Sweater & Strick",
+  "seite": 15,
+  "xref": 131,
+  "datei": "katalog_bilder/rl_knit_schwarz.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "RL Knit (weiss)",
+  "preis": "49.99 EUR",
+  "kategorie": "Sweater & Strick",
+  "seite": 15,
+  "xref": 132,
+  "datei": "katalog_bilder/rl_knit_weiss.jpeg",
+  "px": [
+   554,
+   800
+  ]
+ },
+ {
+  "name": "RL Sweater (schwarz-weiss)",
+  "preis": "49.99 EUR",
+  "kategorie": "Sweater & Strick",
+  "seite": 15,
+  "xref": 125,
+  "datei": "katalog_bilder/rl_sweater_schwarz_weiss.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "RL Sweater (schwarz-rot)",
+  "preis": "49.99 EUR",
+  "kategorie": "Sweater & Strick",
+  "seite": 15,
+  "xref": 126,
+  "datei": "katalog_bilder/rl_sweater_schwarz_rot.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "RL Sweater (blau-rot)",
+  "preis": "49.99 EUR",
+  "kategorie": "Sweater & Strick",
+  "seite": 15,
+  "xref": 128,
+  "datei": "katalog_bilder/rl_sweater_blau_rot.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "RL Sweater (weiss)",
+  "preis": "49.99 EUR",
+  "kategorie": "Sweater & Strick",
+  "seite": 15,
+  "xref": 130,
+  "datei": "katalog_bilder/rl_sweater_weiss.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "RL Knit (beige)",
+  "preis": "49.99 EUR",
+  "kategorie": "Sweater & Strick",
+  "seite": 15,
+  "xref": 133,
+  "datei": "katalog_bilder/rl_knit_beige.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "RL Sweater (grau)",
+  "preis": "49.99 EUR",
+  "kategorie": "Sweater & Strick",
+  "seite": 15,
+  "xref": 129,
+  "datei": "katalog_bilder/rl_sweater_grau.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "RL Sweater (blau-weiss)",
+  "preis": "49.99 EUR",
+  "kategorie": "Sweater & Strick",
+  "seite": 15,
+  "xref": 127,
+  "datei": "katalog_bilder/rl_sweater_blau_weiss.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "49.99 EUR\nCB Sweater (blau)",
+  "preis": "49.99 EUR",
+  "kategorie": "Sweater & Strick",
+  "seite": 16,
+  "xref": 143,
+  "datei": "katalog_bilder/49_99_eur_cb_sweater_blau.jpeg",
+  "px": [
+   800,
+   704
+  ]
+ },
+ {
+  "name": "49.99 EUR\nCB Sweater (beige)",
+  "preis": "49.99 EUR\nCB Sweater (blau)",
+  "kategorie": "Sweater & Strick",
+  "seite": 16,
+  "xref": 142,
+  "datei": "katalog_bilder/49_99_eur_cb_sweater_beige.jpeg",
+  "px": [
+   800,
+   663
+  ]
+ },
+ {
+  "name": "Heart - Sweater Black",
+  "preis": "49.99 EUR",
+  "kategorie": "Sweater & Strick",
+  "seite": 16,
+  "xref": 140,
+  "datei": "katalog_bilder/heart_sweater_black.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "CB Sweater (schwarz)",
+  "preis": "49.99 EUR\nCB Sweater (beige)",
+  "kategorie": "Sweater & Strick",
+  "seite": 16,
+  "xref": 141,
+  "datei": "katalog_bilder/cb_sweater_schwarz.jpeg",
+  "px": [
+   800,
+   622
+  ]
+ },
+ {
+  "name": "RL Knit (babyblau)",
+  "preis": "49.99 EUR",
+  "kategorie": "Sweater & Strick",
+  "seite": 16,
+  "xref": 136,
+  "datei": "katalog_bilder/rl_knit_babyblau.jpeg",
+  "px": [
+   554,
+   800
+  ]
+ },
+ {
+  "name": "RL Knit (blau)",
+  "preis": "49.99 EUR",
+  "kategorie": "Sweater & Strick",
+  "seite": 16,
+  "xref": 135,
+  "datei": "katalog_bilder/rl_knit_blau.jpeg",
+  "px": [
+   554,
+   800
+  ]
+ },
+ {
+  "name": "RL Knit (rosa)",
+  "preis": "49.99 EUR",
+  "kategorie": "Sweater & Strick",
+  "seite": 16,
+  "xref": 138,
+  "datei": "katalog_bilder/rl_knit_rosa.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "RL Knit (dunkelblau)",
+  "preis": "49.99 EUR",
+  "kategorie": "Sweater & Strick",
+  "seite": 16,
+  "xref": 137,
+  "datei": "katalog_bilder/rl_knit_dunkelblau.jpeg",
+  "px": [
+   554,
+   800
+  ]
+ },
+ {
+  "name": "RL Knit (grau)",
+  "preis": "49.99 EUR",
+  "kategorie": "Sweater & Strick",
+  "seite": 16,
+  "xref": 139,
+  "datei": "katalog_bilder/rl_knit_grau.jpeg",
+  "px": [
+   554,
+   800
+  ]
+ },
+ {
+  "name": "Heart - Sweater Rose",
+  "preis": "49.99 EUR",
+  "kategorie": "Sweater & Strick",
+  "seite": 17,
+  "xref": 146,
+  "datei": "katalog_bilder/heart_sweater_rose.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "GG Sweater (blau)",
+  "preis": "59.99 EUR",
+  "kategorie": "Sweater & Strick",
+  "seite": 17,
+  "xref": 147,
+  "datei": "katalog_bilder/gg_sweater_blau.jpeg",
+  "px": [
+   474,
+   600
+  ]
+ },
+ {
+  "name": "GG Sweater (schwarz)",
+  "preis": "59.99 EUR",
+  "kategorie": "Sweater & Strick",
+  "seite": 17,
+  "xref": 148,
+  "datei": "katalog_bilder/gg_sweater_schwarz.jpeg",
+  "px": [
+   443,
+   423
+  ]
+ },
+ {
+  "name": "CB Sweater (grau)",
+  "preis": "49.99 EUR",
+  "kategorie": "Sweater & Strick",
+  "seite": 17,
+  "xref": 145,
+  "datei": "katalog_bilder/cb_sweater_grau.jpeg",
+  "px": [
+   800,
+   615
+  ]
+ },
+ {
+  "name": "LV Sweater (schwarz)",
+  "preis": "59.99 EUR",
+  "kategorie": "Sweater & Strick",
+  "seite": 17,
+  "xref": 151,
+  "datei": "katalog_bilder/lv_sweater_schwarz.jpeg",
+  "px": [
+   360,
+   360
+  ]
+ },
+ {
+  "name": "Heart - Sweater (schwarz)",
+  "preis": "49.99 EUR",
+  "kategorie": "Sweater & Strick",
+  "seite": 17,
+  "xref": 153,
+  "datei": "katalog_bilder/heart_sweater_schwarz.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Heart - Sweater (weiss)",
+  "preis": "49.99 EUR",
+  "kategorie": "Sweater & Strick",
+  "seite": 17,
+  "xref": 152,
+  "datei": "katalog_bilder/heart_sweater_weiss.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "LV Sweater (grau)",
+  "preis": "59.99 EUR",
+  "kategorie": "Sweater & Strick",
+  "seite": 17,
+  "xref": 150,
+  "datei": "katalog_bilder/lv_sweater_grau.jpeg",
+  "px": [
+   360,
+   360
+  ]
+ },
+ {
+  "name": "CP Cardigan",
+  "preis": "139.99 EUR",
+  "kategorie": "Sweater & Strick",
+  "seite": 17,
+  "xref": 149,
+  "datei": "katalog_bilder/cp_cardigan.jpeg",
+  "px": [
+   640,
+   800
+  ]
+ },
+ {
+  "name": "Heart - Sweater (beige)",
+  "preis": "49.99 EUR",
+  "kategorie": "Sweater & Strick",
+  "seite": 18,
+  "xref": 158,
+  "datei": "katalog_bilder/heart_sweater_beige.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Heart - Sweater (babyblau)",
+  "preis": "49.99 EUR",
+  "kategorie": "Sweater & Strick",
+  "seite": 18,
+  "xref": 155,
+  "datei": "katalog_bilder/heart_sweater_babyblau.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Heart - Sweater (rosa)",
+  "preis": "49.99 EUR",
+  "kategorie": "Sweater & Strick",
+  "seite": 18,
+  "xref": 156,
+  "datei": "katalog_bilder/heart_sweater_rosa.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Heart - Sweater (gruen)",
+  "preis": "49.99 EUR",
+  "kategorie": "Sweater & Strick",
+  "seite": 18,
+  "xref": 157,
+  "datei": "katalog_bilder/heart_sweater_gruen.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Island Zipper (sand)",
+  "preis": "59.99 EUR",
+  "kategorie": "Hoodies, Zipper & Jacken",
+  "seite": 19,
+  "xref": 164,
+  "datei": "katalog_bilder/island_zipper_sand.jpeg",
+  "px": [
+   600,
+   800
+  ]
+ },
+ {
+  "name": "Island Zipper (braun)",
+  "preis": "59.99 EUR",
+  "kategorie": "Hoodies, Zipper & Jacken",
+  "seite": 19,
+  "xref": 166,
+  "datei": "katalog_bilder/island_zipper_braun.jpeg",
+  "px": [
+   600,
+   800
+  ]
+ },
+ {
+  "name": "Island Zipper (rosa-1)",
+  "preis": "59.99 EUR",
+  "kategorie": "Hoodies, Zipper & Jacken",
+  "seite": 19,
+  "xref": 167,
+  "datei": "katalog_bilder/island_zipper_rosa_1.jpeg",
+  "px": [
+   600,
+   800
+  ]
+ },
+ {
+  "name": "Island Zipper (grau)",
+  "preis": "59.99 EUR",
+  "kategorie": "Hoodies, Zipper & Jacken",
+  "seite": 19,
+  "xref": 162,
+  "datei": "katalog_bilder/island_zipper_grau.jpeg",
+  "px": [
+   600,
+   800
+  ]
+ },
+ {
+  "name": "Island Zipper (khaki)",
+  "preis": "59.99 EUR",
+  "kategorie": "Hoodies, Zipper & Jacken",
+  "seite": 19,
+  "xref": 165,
+  "datei": "katalog_bilder/island_zipper_khaki.jpeg",
+  "px": [
+   600,
+   800
+  ]
+ },
+ {
+  "name": "Island Zipper (schwarz)",
+  "preis": "59.99 EUR",
+  "kategorie": "Hoodies, Zipper & Jacken",
+  "seite": 19,
+  "xref": 160,
+  "datei": "katalog_bilder/island_zipper_schwarz.jpeg",
+  "px": [
+   600,
+   800
+  ]
+ },
+ {
+  "name": "Island Zipper (militargrun)",
+  "preis": "59.99 EUR",
+  "kategorie": "Hoodies, Zipper & Jacken",
+  "seite": 19,
+  "xref": 163,
+  "datei": "katalog_bilder/island_zipper_militargrun.jpeg",
+  "px": [
+   600,
+   800
+  ]
+ },
+ {
+  "name": "Island Zipper (blau)",
+  "preis": "59.99 EUR",
+  "kategorie": "Hoodies, Zipper & Jacken",
+  "seite": 19,
+  "xref": 168,
+  "datei": "katalog_bilder/island_zipper_blau.jpeg",
+  "px": [
+   600,
+   800
+  ]
+ },
+ {
+  "name": "Island Zipper (dunkelblau)",
+  "preis": "59.99 EUR",
+  "kategorie": "Hoodies, Zipper & Jacken",
+  "seite": 19,
+  "xref": 161,
+  "datei": "katalog_bilder/island_zipper_dunkelblau.jpeg",
+  "px": [
+   600,
+   800
+  ]
+ },
+ {
+  "name": "RL Zipper (lightblue)",
+  "preis": "49.99 EUR",
+  "kategorie": "Hoodies, Zipper & Jacken",
+  "seite": 20,
+  "xref": 175,
+  "datei": "katalog_bilder/rl_zipper_lightblue.jpeg",
+  "px": [
+   554,
+   800
+  ]
+ },
+ {
+  "name": "RL Zipper (blau)",
+  "preis": "49.99 EUR",
+  "kategorie": "Hoodies, Zipper & Jacken",
+  "seite": 20,
+  "xref": 177,
+  "datei": "katalog_bilder/rl_zipper_blau.jpeg",
+  "px": [
+   554,
+   800
+  ]
+ },
+ {
+  "name": "Berry - Zipper (schwarz)",
+  "preis": "59.99 EUR",
+  "kategorie": "Hoodies, Zipper & Jacken",
+  "seite": 20,
+  "xref": 178,
+  "datei": "katalog_bilder/berry_zipper_schwarz.jpeg",
+  "px": [
+   432,
+   432
+  ]
+ },
+ {
+  "name": "RL Zipper (weiss)",
+  "preis": "49.99 EUR",
+  "kategorie": "Hoodies, Zipper & Jacken",
+  "seite": 20,
+  "xref": 174,
+  "datei": "katalog_bilder/rl_zipper_weiss.jpeg",
+  "px": [
+   554,
+   800
+  ]
+ },
+ {
+  "name": "RL Zipper (grau)",
+  "preis": "49.99 EUR",
+  "kategorie": "Hoodies, Zipper & Jacken",
+  "seite": 20,
+  "xref": 173,
+  "datei": "katalog_bilder/rl_zipper_grau.jpeg",
+  "px": [
+   554,
+   800
+  ]
+ },
+ {
+  "name": "Island Zipper (weiss)",
+  "preis": "59.99 EUR",
+  "kategorie": "Hoodies, Zipper & Jacken",
+  "seite": 20,
+  "xref": 170,
+  "datei": "katalog_bilder/island_zipper_weiss.jpeg",
+  "px": [
+   600,
+   800
+  ]
+ },
+ {
+  "name": "Chrome Zip Hoodie",
+  "preis": "59.99 EUR",
+  "kategorie": "Hoodies, Zipper & Jacken",
+  "seite": 20,
+  "xref": 171,
+  "datei": "katalog_bilder/chrome_zip_hoodie.jpeg",
+  "px": [
+   533,
+   800
+  ]
+ },
+ {
+  "name": "RL Zipper (babyblau)",
+  "preis": "49.99 EUR",
+  "kategorie": "Hoodies, Zipper & Jacken",
+  "seite": 20,
+  "xref": 176,
+  "datei": "katalog_bilder/rl_zipper_babyblau.jpeg",
+  "px": [
+   554,
+   800
+  ]
+ },
+ {
+  "name": "RL Zipper (schwarz)",
+  "preis": "49.99 EUR",
+  "kategorie": "Hoodies, Zipper & Jacken",
+  "seite": 20,
+  "xref": 172,
+  "datei": "katalog_bilder/rl_zipper_schwarz.jpeg",
+  "px": [
+   554,
+   800
+  ]
+ },
+ {
+  "name": "CG Weste (schwarz)",
+  "preis": "74.99 EUR",
+  "kategorie": "Hoodies, Zipper & Jacken",
+  "seite": 21,
+  "xref": 184,
+  "datei": "katalog_bilder/cg_weste_schwarz.jpeg",
+  "px": [
+   583,
+   800
+  ]
+ },
+ {
+  "name": "CASA Zipper",
+  "preis": "119.99 EUR",
+  "kategorie": "Hoodies, Zipper & Jacken",
+  "seite": 21,
+  "xref": 187,
+  "datei": "katalog_bilder/casa_zipper.jpeg",
+  "px": [
+   640,
+   800
+  ]
+ },
+ {
+  "name": "CG Weste (weiß)",
+  "preis": "74.99 EUR",
+  "kategorie": "Hoodies, Zipper & Jacken",
+  "seite": 21,
+  "xref": 185,
+  "datei": "katalog_bilder/cg_weste_weiss.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "PRDA Weste",
+  "preis": "74.99 EUR",
+  "kategorie": "Hoodies, Zipper & Jacken",
+  "seite": 21,
+  "xref": 183,
+  "datei": "katalog_bilder/prda_weste.jpeg",
+  "px": [
+   599,
+   800
+  ]
+ },
+ {
+  "name": "CG Weste (grau)",
+  "preis": "74.99 EUR",
+  "kategorie": "Hoodies, Zipper & Jacken",
+  "seite": 21,
+  "xref": 186,
+  "datei": "katalog_bilder/cg_weste_grau.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "GG Zipjacke",
+  "preis": "99.99 EUR",
+  "kategorie": "Hoodies, Zipper & Jacken",
+  "seite": 21,
+  "xref": 180,
+  "datei": "katalog_bilder/gg_zipjacke.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "PRDA Elegant Jacket (Weiß)",
+  "preis": "109.99 EUR",
+  "kategorie": "Hoodies, Zipper & Jacken",
+  "seite": 21,
+  "xref": 182,
+  "datei": "katalog_bilder/prda_elegant_jacket_weiss.jpeg",
+  "px": [
+   756,
+   800
+  ]
+ },
+ {
+  "name": "PRDA Elegant Jacket (Schwarz)",
+  "preis": "109.99 EUR",
+  "kategorie": "Hoodies, Zipper & Jacken",
+  "seite": 21,
+  "xref": 181,
+  "datei": "katalog_bilder/prda_elegant_jacket_schwarz.jpeg",
+  "px": [
+   639,
+   800
+  ]
+ },
+ {
+  "name": "LV College Jacke",
+  "preis": "79.99 EUR",
+  "kategorie": "Hoodies, Zipper & Jacken",
+  "seite": 21,
+  "xref": 188,
+  "datei": "katalog_bilder/lv_college_jacke.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Berry Reversible Jacket",
+  "preis": "109.99 EUR",
+  "kategorie": "Hoodies, Zipper & Jacken",
+  "seite": 22,
+  "xref": 195,
+  "datei": "katalog_bilder/berry_reversible_jacket.jpeg",
+  "px": [
+   540,
+   508
+  ]
+ },
+ {
+  "name": "CP Zipper (Grün)",
+  "preis": "49.99 EUR",
+  "kategorie": "Hoodies, Zipper & Jacken",
+  "seite": 22,
+  "xref": 192,
+  "datei": "katalog_bilder/cp_zipper_gruen.jpeg",
+  "px": [
+   640,
+   800
+  ]
+ },
+ {
+  "name": "CP Zipper (Braun)",
+  "preis": "49.99 EUR",
+  "kategorie": "Hoodies, Zipper & Jacken",
+  "seite": 22,
+  "xref": 194,
+  "datei": "katalog_bilder/cp_zipper_braun.jpeg",
+  "px": [
+   640,
+   800
+  ]
+ },
+ {
+  "name": "CP Zipper (Schwarz)",
+  "preis": "49.99 EUR",
+  "kategorie": "Hoodies, Zipper & Jacken",
+  "seite": 22,
+  "xref": 191,
+  "datei": "katalog_bilder/cp_zipper_schwarz.jpeg",
+  "px": [
+   640,
+   800
+  ]
+ },
+ {
+  "name": "CP Zipper (Weiß)",
+  "preis": "49.99 EUR",
+  "kategorie": "Hoodies, Zipper & Jacken",
+  "seite": 22,
+  "xref": 193,
+  "datei": "katalog_bilder/cp_zipper_weiss.jpeg",
+  "px": [
+   640,
+   800
+  ]
+ },
+ {
+  "name": "CP Zipper (Grau)",
+  "preis": "49.99 EUR",
+  "kategorie": "Hoodies, Zipper & Jacken",
+  "seite": 22,
+  "xref": 190,
+  "datei": "katalog_bilder/cp_zipper_grau.jpeg",
+  "px": [
+   600,
+   800
+  ]
+ },
+ {
+  "name": "Ape Check Tee (weiss)",
+  "preis": "32.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 23,
+  "xref": 200,
+  "datei": "katalog_bilder/ape_check_tee_weiss.jpeg",
+  "px": [
+   533,
+   800
+  ]
+ },
+ {
+  "name": "Chrome Longsleeve (schwarz)",
+  "preis": "39.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 23,
+  "xref": 203,
+  "datei": "katalog_bilder/chrome_longsleeve_schwarz.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Chrome Longsleeve (blau)",
+  "preis": "39.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 23,
+  "xref": 204,
+  "datei": "katalog_bilder/chrome_longsleeve_blau.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "GG Balenci Fusion Tee",
+  "preis": "39.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 23,
+  "xref": 202,
+  "datei": "katalog_bilder/gg_balenci_fusion_tee.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Ape Check Tee (schwarz)",
+  "preis": "32.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 23,
+  "xref": 199,
+  "datei": "katalog_bilder/ape_check_tee_schwarz.jpeg",
+  "px": [
+   533,
+   800
+  ]
+ },
+ {
+  "name": "Island Sweatshirt (schwarz)",
+  "preis": "49.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 23,
+  "xref": 205,
+  "datei": "katalog_bilder/island_sweatshirt_schwarz.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Chrome x Ape Tee (weiss)",
+  "preis": "32.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 23,
+  "xref": 198,
+  "datei": "katalog_bilder/chrome_x_ape_tee_weiss.jpeg",
+  "px": [
+   533,
+   799
+  ]
+ },
+ {
+  "name": "Chrome x Ape Tee (schwarz)",
+  "preis": "32.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 23,
+  "xref": 197,
+  "datei": "katalog_bilder/chrome_x_ape_tee_schwarz.jpeg",
+  "px": [
+   533,
+   800
+  ]
+ },
+ {
+  "name": "Chrome Tee",
+  "preis": "32.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 23,
+  "xref": 201,
+  "datei": "katalog_bilder/chrome_tee.jpeg",
+  "px": [
+   533,
+   800
+  ]
+ },
+ {
+  "name": "Island Sweatshirt (grun-braun)",
+  "preis": "49.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 24,
+  "xref": 215,
+  "datei": "katalog_bilder/island_sweatshirt_grun_braun.jpeg",
+  "px": [
+   600,
+   750
+  ]
+ },
+ {
+  "name": "Island Sweatshirt (sand)",
+  "preis": "49.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 24,
+  "xref": 213,
+  "datei": "katalog_bilder/island_sweatshirt_sand.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Island Sweatshirt (weiss)",
+  "preis": "49.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 24,
+  "xref": 207,
+  "datei": "katalog_bilder/island_sweatshirt_weiss.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Island Sweatshirt (braun)",
+  "preis": "49.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 24,
+  "xref": 212,
+  "datei": "katalog_bilder/island_sweatshirt_braun.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Island Sweatshirt (grau)",
+  "preis": "49.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 24,
+  "xref": 208,
+  "datei": "katalog_bilder/island_sweatshirt_grau.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Island Sweatshirt (dunkelturkis)",
+  "preis": "49.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 24,
+  "xref": 211,
+  "datei": "katalog_bilder/island_sweatshirt_dunkelturkis.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Island Sweatshirt (dunkelblau)",
+  "preis": "49.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 24,
+  "xref": 210,
+  "datei": "katalog_bilder/island_sweatshirt_dunkelblau.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Island Sweatshirt (rosa-1)",
+  "preis": "49.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 24,
+  "xref": 214,
+  "datei": "katalog_bilder/island_sweatshirt_rosa_1.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Island Sweatshirt (beige)",
+  "preis": "49.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 24,
+  "xref": 209,
+  "datei": "katalog_bilder/island_sweatshirt_beige.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "T-Star Tee",
+  "preis": "29.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 25,
+  "xref": 217,
+  "datei": "katalog_bilder/t_star_tee.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Staggered Logo Amir Tee",
+  "preis": "29.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 25,
+  "xref": 218,
+  "datei": "katalog_bilder/staggered_logo_amir_tee.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Casa Shirts (viele)",
+  "preis": "29.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 25,
+  "xref": 220,
+  "datei": "katalog_bilder/casa_shirts_viele.jpeg",
+  "px": [
+   797,
+   800
+  ]
+ },
+ {
+  "name": "Casa Shirts (viele)",
+  "preis": "29.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 25,
+  "xref": 225,
+  "datei": "katalog_bilder/casa_shirts_viele_2.jpeg",
+  "px": [
+   800,
+   793
+  ]
+ },
+ {
+  "name": "Casa Shirts (viele)",
+  "preis": "29.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 25,
+  "xref": 223,
+  "datei": "katalog_bilder/casa_shirts_viele_3.jpeg",
+  "px": [
+   800,
+   792
+  ]
+ },
+ {
+  "name": "Casa Shirts (viele)",
+  "preis": "29.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 25,
+  "xref": 221,
+  "datei": "katalog_bilder/casa_shirts_viele_4.jpeg",
+  "px": [
+   800,
+   791
+  ]
+ },
+ {
+  "name": "Casa Shirts (viele)",
+  "preis": "29.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 25,
+  "xref": 224,
+  "datei": "katalog_bilder/casa_shirts_viele_5.jpeg",
+  "px": [
+   797,
+   800
+  ]
+ },
+ {
+  "name": "Casa Shirts (viele)",
+  "preis": "29.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 25,
+  "xref": 222,
+  "datei": "katalog_bilder/casa_shirts_viele_6.jpeg",
+  "px": [
+   800,
+   796
+  ]
+ },
+ {
+  "name": "Casa Shirts (viele)",
+  "preis": "29.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 25,
+  "xref": 219,
+  "datei": "katalog_bilder/casa_shirts_viele_7.jpeg",
+  "px": [
+   800,
+   797
+  ]
+ },
+ {
+  "name": "Heart -Shirts (viele) (schwarz-weiss)",
+  "preis": "32.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 26,
+  "xref": 228,
+  "datei": "katalog_bilder/heart_shirts_viele_schwarz_weiss.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Heart -Shirts (viele) (grau)",
+  "preis": "32.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 26,
+  "xref": 232,
+  "datei": "katalog_bilder/heart_shirts_viele_grau.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Heart -Shirts (viele) (weiss-rot)",
+  "preis": "32.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 26,
+  "xref": 234,
+  "datei": "katalog_bilder/heart_shirts_viele_weiss_rot.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Heart -Shirts (viele) (blau)",
+  "preis": "32.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 26,
+  "xref": 231,
+  "datei": "katalog_bilder/heart_shirts_viele_blau.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Casa Shirts (viele)",
+  "preis": "29.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 26,
+  "xref": 227,
+  "datei": "katalog_bilder/casa_shirts_viele_8.jpeg",
+  "px": [
+   800,
+   795
+  ]
+ },
+ {
+  "name": "Heart -Shirts (viele) (light-blue)",
+  "preis": "32.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 26,
+  "xref": 230,
+  "datei": "katalog_bilder/heart_shirts_viele_light_blue.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Heart -Shirts (viele) (schwarz-rot)",
+  "preis": "32.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 26,
+  "xref": 233,
+  "datei": "katalog_bilder/heart_shirts_viele_schwarz_rot.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Heart -Shirts (viele) (weiss-schwarz)",
+  "preis": "32.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 26,
+  "xref": 229,
+  "datei": "katalog_bilder/heart_shirts_viele_weiss_schwarz.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Heart -Shirts (viele) (mintgrun)",
+  "preis": "32.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 26,
+  "xref": 235,
+  "datei": "katalog_bilder/heart_shirts_viele_mintgrun.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "GG Summer Shirt",
+  "preis": "69.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 27,
+  "xref": 241,
+  "datei": "katalog_bilder/gg_summer_shirt.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Heart -Shirts (viele) (rosa)",
+  "preis": "32.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 27,
+  "xref": 238,
+  "datei": "katalog_bilder/heart_shirts_viele_rosa.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Dept Tee Pink",
+  "preis": "29.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 27,
+  "xref": 242,
+  "datei": "katalog_bilder/dept_tee_pink.jpeg",
+  "px": [
+   534,
+   800
+  ]
+ },
+ {
+  "name": "Heart -Shirts (viele) (gruen)",
+  "preis": "32.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 27,
+  "xref": 237,
+  "datei": "katalog_bilder/heart_shirts_viele_gruen.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Countdown Tee",
+  "preis": "29.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 27,
+  "xref": 244,
+  "datei": "katalog_bilder/countdown_tee.jpeg",
+  "px": [
+   533,
+   800
+  ]
+ },
+ {
+  "name": "GG T-Shirt (schwarz)",
+  "preis": "39.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 27,
+  "xref": 239,
+  "datei": "katalog_bilder/gg_t_shirt_schwarz.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "GG T-Shirt (beige)",
+  "preis": "39.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 27,
+  "xref": 240,
+  "datei": "katalog_bilder/gg_t_shirt_beige.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Dept Tee Black",
+  "preis": "29.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 27,
+  "xref": 243,
+  "datei": "katalog_bilder/dept_tee_black.jpeg",
+  "px": [
+   533,
+   800
+  ]
+ },
+ {
+  "name": "Favela Tee (schwarz)",
+  "preis": "29.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 27,
+  "xref": 245,
+  "datei": "katalog_bilder/favela_tee_schwarz.jpeg",
+  "px": [
+   533,
+   800
+  ]
+ },
+ {
+  "name": "Favela Tee (weiss)",
+  "preis": "29.99 EUR",
+  "kategorie": "T-Shirts & Shirts",
+  "seite": 28,
+  "xref": 247,
+  "datei": "katalog_bilder/favela_tee_weiss.jpeg",
+  "px": [
+   533,
+   799
+  ]
+ },
+ {
+  "name": "Gel Runner Sneaker (schwarz-silber)",
+  "preis": "79.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 29,
+  "xref": 255,
+  "datei": "katalog_bilder/gel_runner_sneaker_schwarz_silber.jpeg",
+  "px": [
+   500,
+   500
+  ]
+ },
+ {
+  "name": "Gel Runner Sneaker (grau-beige)",
+  "preis": "79.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 29,
+  "xref": 250,
+  "datei": "katalog_bilder/gel_runner_sneaker_grau_beige.jpeg",
+  "px": [
+   683,
+   512
+  ]
+ },
+ {
+  "name": "Gel Runner Sneaker (orange)",
+  "preis": "79.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 29,
+  "xref": 254,
+  "datei": "katalog_bilder/gel_runner_sneaker_orange.jpeg",
+  "px": [
+   683,
+   512
+  ]
+ },
+ {
+  "name": "Gel Runner Sneaker (silber)",
+  "preis": "79.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 29,
+  "xref": 256,
+  "datei": "katalog_bilder/gel_runner_sneaker_silber.jpeg",
+  "px": [
+   683,
+   512
+  ]
+ },
+ {
+  "name": "79.99 EUR\nGel Runner Sneaker (fjord-grey)",
+  "preis": "79.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 29,
+  "xref": 253,
+  "datei": "katalog_bilder/79_99_eur_gel_runner_sneaker_fjord_grey.jpeg",
+  "px": [
+   683,
+   512
+  ]
+ },
+ {
+  "name": "Gel Runner Sneaker (pink)",
+  "preis": "79.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 29,
+  "xref": 251,
+  "datei": "katalog_bilder/gel_runner_sneaker_pink.jpeg",
+  "px": [
+   600,
+   284
+  ]
+ },
+ {
+  "name": "Gel Runner Sneaker (blue-silver)",
+  "preis": "79.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 29,
+  "xref": 257,
+  "datei": "katalog_bilder/gel_runner_sneaker_blue_silver.jpeg",
+  "px": [
+   683,
+   512
+  ]
+ },
+ {
+  "name": "Gel Runner Sneaker (all-black)",
+  "preis": "",
+  "kategorie": "Sneaker",
+  "seite": 29,
+  "xref": 252,
+  "datei": "katalog_bilder/gel_runner_sneaker_all_black.jpeg",
+  "px": [
+   800,
+   571
+  ]
+ },
+ {
+  "name": "Track Sneaker Grey",
+  "preis": "119.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 29,
+  "xref": 249,
+  "datei": "katalog_bilder/track_sneaker_grey.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Socks Sneaker (beige)",
+  "preis": "99.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 30,
+  "xref": 262,
+  "datei": "katalog_bilder/socks_sneaker_beige.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Gel Runner Sneaker (silber-grun)",
+  "preis": "79.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 30,
+  "xref": 259,
+  "datei": "katalog_bilder/gel_runner_sneaker_silber_grun.jpeg",
+  "px": [
+   683,
+   512
+  ]
+ },
+ {
+  "name": "DRK-AF1 Sneaker (weiß)",
+  "preis": "85.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 30,
+  "xref": 266,
+  "datei": "katalog_bilder/drk_af1_sneaker_weiss.jpeg",
+  "px": [
+   800,
+   533
+  ]
+ },
+ {
+  "name": "CPFM-AIR Sneaker (weiss)",
+  "preis": "99.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 30,
+  "xref": 265,
+  "datei": "katalog_bilder/cpfm_air_sneaker_weiss.jpeg",
+  "px": [
+   800,
+   533
+  ]
+ },
+ {
+  "name": "Socks Sneaker (weiss)",
+  "preis": "99.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 30,
+  "xref": 261,
+  "datei": "katalog_bilder/socks_sneaker_weiss.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "CPFM-AIR Sneaker (schwarz)",
+  "preis": "99.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 30,
+  "xref": 264,
+  "datei": "katalog_bilder/cpfm_air_sneaker_schwarz.jpeg",
+  "px": [
+   800,
+   600
+  ]
+ },
+ {
+  "name": "Socks Sneaker (schwarz)",
+  "preis": "99.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 30,
+  "xref": 260,
+  "datei": "katalog_bilder/socks_sneaker_schwarz.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "DRK-AF1 Sneaker (rosa)",
+  "preis": "85.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 30,
+  "xref": 267,
+  "datei": "katalog_bilder/drk_af1_sneaker_rosa.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Socks Sneaker (schwarz-weiss)",
+  "preis": "99.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 30,
+  "xref": 263,
+  "datei": "katalog_bilder/socks_sneaker_schwarz_weiss.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "DRK-AF1 Sneaker (neongelb)",
+  "preis": "85.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 31,
+  "xref": 269,
+  "datei": "katalog_bilder/drk_af1_sneaker_neongelb.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Curb Sneaker (all-black)",
+  "preis": "109.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 31,
+  "xref": 277,
+  "datei": "katalog_bilder/curb_sneaker_all_black.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Curb Sneaker (weiss-bunte-laces)",
+  "preis": "109.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 31,
+  "xref": 276,
+  "datei": "katalog_bilder/curb_sneaker_weiss_bunte_laces.jpeg",
+  "px": [
+   630,
+   800
+  ]
+ },
+ {
+  "name": "Leder Cups Sneaker (gruen)",
+  "preis": "109.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 31,
+  "xref": 273,
+  "datei": "katalog_bilder/leder_cups_sneaker_gruen.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Leder Cups Sneaker (rot)",
+  "preis": "109.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 31,
+  "xref": 272,
+  "datei": "katalog_bilder/leder_cups_sneaker_rot.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Leder Cups Sneaker (marineblau)",
+  "preis": "109.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 31,
+  "xref": 274,
+  "datei": "katalog_bilder/leder_cups_sneaker_marineblau.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Leder Cups Sneaker (schwarz)",
+  "preis": "109.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 31,
+  "xref": 271,
+  "datei": "katalog_bilder/leder_cups_sneaker_schwarz.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Leder Cups Sneaker (grau)",
+  "preis": "109.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 31,
+  "xref": 270,
+  "datei": "katalog_bilder/leder_cups_sneaker_grau.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "LV All Black Trainer",
+  "preis": "99.95 EUR",
+  "kategorie": "Sneaker",
+  "seite": 31,
+  "xref": 275,
+  "datei": "katalog_bilder/lv_all_black_trainer.jpeg",
+  "px": [
+   600,
+   600
+  ]
+ },
+ {
+  "name": "Curb Sneaker (weiss-schwarz-weiss)",
+  "preis": "109.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 32,
+  "xref": 281,
+  "datei": "katalog_bilder/curb_sneaker_weiss_schwarz_weiss.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Curb Sneaker (hellblau)",
+  "preis": "109.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 32,
+  "xref": 283,
+  "datei": "katalog_bilder/curb_sneaker_hellblau.jpeg",
+  "px": [
+   630,
+   800
+  ]
+ },
+ {
+  "name": "Curb Sneaker (rosa)",
+  "preis": "109.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 32,
+  "xref": 282,
+  "datei": "katalog_bilder/curb_sneaker_rosa.jpeg",
+  "px": [
+   630,
+   800
+  ]
+ },
+ {
+  "name": "Curb Sneaker (weiss-blaue-laces)",
+  "preis": "109.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 32,
+  "xref": 284,
+  "datei": "katalog_bilder/curb_sneaker_weiss_blaue_laces.jpeg",
+  "px": [
+   485,
+   351
+  ]
+ },
+ {
+  "name": "CC Runner V2 (schwarz)",
+  "preis": "119.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 32,
+  "xref": 285,
+  "datei": "katalog_bilder/cc_runner_v2_schwarz.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Curb Sneaker (all-white)",
+  "preis": "109.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 32,
+  "xref": 279,
+  "datei": "katalog_bilder/curb_sneaker_all_white.jpeg",
+  "px": [
+   800,
+   533
+  ]
+ },
+ {
+  "name": "Curb Sneaker (schwarz-grau)",
+  "preis": "109.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 32,
+  "xref": 280,
+  "datei": "katalog_bilder/curb_sneaker_schwarz_grau.jpeg",
+  "px": [
+   800,
+   533
+  ]
+ },
+ {
+  "name": "CRTZ-95 Sneaker (honey-black)",
+  "preis": "79.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 32,
+  "xref": 287,
+  "datei": "katalog_bilder/crtz_95_sneaker_honey_black.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "CC Runner V2 (weiss)",
+  "preis": "119.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 32,
+  "xref": 286,
+  "datei": "katalog_bilder/cc_runner_v2_weiss.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "79.99 EUR",
+  "preis": "79.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 33,
+  "xref": 299,
+  "datei": "katalog_bilder/79_99_eur.jpeg",
+  "px": [
+   800,
+   562
+  ]
+ },
+ {
+  "name": "B22 Sneaker (schwarz)",
+  "preis": "79.99 EUR\nB22 Sneaker (weiss-grau)",
+  "kategorie": "Sneaker",
+  "seite": 33,
+  "xref": 298,
+  "datei": "katalog_bilder/b22_sneaker_schwarz.jpeg",
+  "px": [
+   800,
+   473
+  ]
+ },
+ {
+  "name": "CC Runner Sneaker (silber)",
+  "preis": "119.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 33,
+  "xref": 295,
+  "datei": "katalog_bilder/cc_runner_sneaker_silber.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "CRTZ-95 Sneaker (aegean-storm)",
+  "preis": "79.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 33,
+  "xref": 290,
+  "datei": "katalog_bilder/crtz_95_sneaker_aegean_storm.jpeg",
+  "px": [
+   700,
+   700
+  ]
+ },
+ {
+  "name": "B22 Sneaker (weiss)",
+  "preis": "79.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 33,
+  "xref": 300,
+  "datei": "katalog_bilder/b22_sneaker_weiss.jpeg",
+  "px": [
+   800,
+   554
+  ]
+ },
+ {
+  "name": "CRTZ-95 Sneaker (weiss)",
+  "preis": "79.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 33,
+  "xref": 292,
+  "datei": "katalog_bilder/crtz_95_sneaker_weiss.jpeg",
+  "px": [
+   700,
+   467
+  ]
+ },
+ {
+  "name": "Star Sneaker Blue",
+  "preis": "84.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 33,
+  "xref": 293,
+  "datei": "katalog_bilder/star_sneaker_blue.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "CC Runner Sneaker (schwarz)",
+  "preis": "119.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 33,
+  "xref": 297,
+  "datei": "katalog_bilder/cc_runner_sneaker_schwarz.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "CC Runner Sneaker (weiss)",
+  "preis": "119.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 33,
+  "xref": 296,
+  "datei": "katalog_bilder/cc_runner_sneaker_weiss.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "CRTZ-95 Sneaker (pink-beam)",
+  "preis": "79.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 33,
+  "xref": 291,
+  "datei": "katalog_bilder/crtz_95_sneaker_pink_beam.jpeg",
+  "px": [
+   700,
+   700
+  ]
+ },
+ {
+  "name": "CRTZ-95 Sneaker (gruen)",
+  "preis": "79.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 33,
+  "xref": 289,
+  "datei": "katalog_bilder/crtz_95_sneaker_gruen.jpeg",
+  "px": [
+   700,
+   700
+  ]
+ },
+ {
+  "name": "CC Runner Sneaker (gold)",
+  "preis": "119.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 33,
+  "xref": 294,
+  "datei": "katalog_bilder/cc_runner_sneaker_gold.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "B22 Sneaker (rosa)",
+  "preis": "79.99 EUR\nB22 Sneaker (schwarz-weiss)",
+  "kategorie": "Sneaker",
+  "seite": 34,
+  "xref": 302,
+  "datei": "katalog_bilder/b22_sneaker_rosa.jpeg",
+  "px": [
+   800,
+   541
+  ]
+ },
+ {
+  "name": "Off Sneaker Black/White",
+  "preis": "84.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 34,
+  "xref": 305,
+  "datei": "katalog_bilder/off_sneaker_black_white.jpeg",
+  "px": [
+   599,
+   800
+  ]
+ },
+ {
+  "name": "B22 Sneaker (triple-grey)",
+  "preis": "79.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 34,
+  "xref": 304,
+  "datei": "katalog_bilder/b22_sneaker_triple_grey.jpeg",
+  "px": [
+   800,
+   550
+  ]
+ },
+ {
+  "name": "79.99 EUR\nB22 Sneaker (schwarz-weiss)",
+  "preis": "79.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 34,
+  "xref": 303,
+  "datei": "katalog_bilder/79_99_eur_b22_sneaker_schwarz_weiss.jpeg",
+  "px": [
+   800,
+   609
+  ]
+ },
+ {
+  "name": "Off Sneaker Babyblue/White",
+  "preis": "84.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 34,
+  "xref": 306,
+  "datei": "katalog_bilder/off_sneaker_babyblue_white.jpeg",
+  "px": [
+   599,
+   800
+  ]
+ },
+ {
+  "name": "Skate LV Sneaker 2.0 (schwarz)",
+  "preis": "119.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 34,
+  "xref": 308,
+  "datei": "katalog_bilder/skate_lv_sneaker_2_0_schwarz.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Track Sneaker Cream",
+  "preis": "119.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 34,
+  "xref": 307,
+  "datei": "katalog_bilder/track_sneaker_cream.jpeg",
+  "px": [
+   533,
+   800
+  ]
+ },
+ {
+  "name": "Skate LV Sneaker 2.0 (blau)",
+  "preis": "119.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 34,
+  "xref": 310,
+  "datei": "katalog_bilder/skate_lv_sneaker_2_0_blau.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Skate LV Sneaker 2.0 (grau)",
+  "preis": "119.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 34,
+  "xref": 309,
+  "datei": "katalog_bilder/skate_lv_sneaker_2_0_grau.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "B25 Sneaker (schwarz)",
+  "preis": "",
+  "kategorie": "Sneaker",
+  "seite": 35,
+  "xref": 316,
+  "datei": "katalog_bilder/b25_sneaker_schwarz.jpeg",
+  "px": [
+   612,
+   563
+  ]
+ },
+ {
+  "name": "99.99 EUR\nGG Trainer (blau-beige)",
+  "preis": "99.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 35,
+  "xref": 317,
+  "datei": "katalog_bilder/99_99_eur_gg_trainer_blau_beige.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "B25 Sneaker (weiss)",
+  "preis": "99.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 35,
+  "xref": 315,
+  "datei": "katalog_bilder/b25_sneaker_weiss.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "B25 Sneaker (schwarz-weiss)",
+  "preis": "99.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 35,
+  "xref": 314,
+  "datei": "katalog_bilder/b25_sneaker_schwarz_weiss.jpeg",
+  "px": [
+   740,
+   800
+  ]
+ },
+ {
+  "name": "Skate LV Sneaker 2.0 (lila)",
+  "preis": "119.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 35,
+  "xref": 312,
+  "datei": "katalog_bilder/skate_lv_sneaker_2_0_lila.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Track Sneaker",
+  "preis": "89.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 35,
+  "xref": 313,
+  "datei": "katalog_bilder/track_sneaker.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "GG Trainer (pink)",
+  "preis": "99.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 35,
+  "xref": 318,
+  "datei": "katalog_bilder/gg_trainer_pink.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "B27 Low Sneaker (grau)",
+  "preis": "99.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 35,
+  "xref": 319,
+  "datei": "katalog_bilder/b27_low_sneaker_grau.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "B27 Low Sneaker (schwarz)",
+  "preis": "99.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 35,
+  "xref": 320,
+  "datei": "katalog_bilder/b27_low_sneaker_schwarz.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Aeson Low Top Sneaker (schwarz)",
+  "preis": "109.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 36,
+  "xref": 322,
+  "datei": "katalog_bilder/aeson_low_top_sneaker_schwarz.jpeg",
+  "px": [
+   666,
+   800
+  ]
+ },
+ {
+  "name": "LV Skate Sneaker (grau)",
+  "preis": "119.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 36,
+  "xref": 328,
+  "datei": "katalog_bilder/lv_skate_sneaker_grau.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "CD Sneaker (grau)",
+  "preis": "99.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 36,
+  "xref": 325,
+  "datei": "katalog_bilder/cd_sneaker_grau.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "CD Sneaker (gelb)",
+  "preis": "99.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 36,
+  "xref": 327,
+  "datei": "katalog_bilder/cd_sneaker_gelb.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Aeson Low Top Sneaker (weiss)",
+  "preis": "109.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 36,
+  "xref": 323,
+  "datei": "katalog_bilder/aeson_low_top_sneaker_weiss.jpeg",
+  "px": [
+   666,
+   800
+  ]
+ },
+ {
+  "name": "CD Sneaker (schwarz)",
+  "preis": "99.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 36,
+  "xref": 324,
+  "datei": "katalog_bilder/cd_sneaker_schwarz.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "LV Skate Sneaker (blau)",
+  "preis": "119.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 36,
+  "xref": 329,
+  "datei": "katalog_bilder/lv_skate_sneaker_blau.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "LV Skate Sneaker (beige)",
+  "preis": "119.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 36,
+  "xref": 330,
+  "datei": "katalog_bilder/lv_skate_sneaker_beige.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "CD Sneaker (blau)",
+  "preis": "99.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 36,
+  "xref": 326,
+  "datei": "katalog_bilder/cd_sneaker_blau.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Cups Sneaker (weiss)",
+  "preis": "109.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 37,
+  "xref": 339,
+  "datei": "katalog_bilder/cups_sneaker_weiss.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "LV Skate Sneaker (schwarz)",
+  "preis": "119.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 37,
+  "xref": 334,
+  "datei": "katalog_bilder/lv_skate_sneaker_schwarz.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "LV Skate Sneaker (schwarzweiss)",
+  "preis": "119.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 37,
+  "xref": 335,
+  "datei": "katalog_bilder/lv_skate_sneaker_schwarzweiss.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "LV Skate Sneaker (gruen)",
+  "preis": "119.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 37,
+  "xref": 332,
+  "datei": "katalog_bilder/lv_skate_sneaker_gruen.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Cups Sneaker (marineblau)",
+  "preis": "109.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 37,
+  "xref": 340,
+  "datei": "katalog_bilder/cups_sneaker_marineblau.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Cups Sneaker (schwarz)",
+  "preis": "109.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 37,
+  "xref": 338,
+  "datei": "katalog_bilder/cups_sneaker_schwarz.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "LV Skate Sneaker (mint)",
+  "preis": "119.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 37,
+  "xref": 337,
+  "datei": "katalog_bilder/lv_skate_sneaker_mint.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "LV Skate Sneaker (rot)",
+  "preis": "119.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 37,
+  "xref": 333,
+  "datei": "katalog_bilder/lv_skate_sneaker_rot.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "LV Skate Sneaker (anthrazit)",
+  "preis": "119.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 37,
+  "xref": 336,
+  "datei": "katalog_bilder/lv_skate_sneaker_anthrazit.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Cups Sneaker (silber)",
+  "preis": "109.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 38,
+  "xref": 344,
+  "datei": "katalog_bilder/cups_sneaker_silber.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Herm Sneaker (beige)",
+  "preis": "109.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 38,
+  "xref": 349,
+  "datei": "katalog_bilder/herm_sneaker_beige.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Cups Sneaker (Grau)",
+  "preis": "109.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 38,
+  "xref": 345,
+  "datei": "katalog_bilder/cups_sneaker_grau.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Cups Sneaker (rot-)",
+  "preis": "109.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 38,
+  "xref": 346,
+  "datei": "katalog_bilder/cups_sneaker_rot.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Herm Sneaker (schwarz)",
+  "preis": "109.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 38,
+  "xref": 348,
+  "datei": "katalog_bilder/herm_sneaker_schwarz.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Cups Sneaker (gruen)",
+  "preis": "109.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 38,
+  "xref": 347,
+  "datei": "katalog_bilder/cups_sneaker_gruen.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Cups Sneaker (blau)",
+  "preis": "109.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 38,
+  "xref": 342,
+  "datei": "katalog_bilder/cups_sneaker_blau.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Herm Sneaker (turkis)",
+  "preis": "109.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 38,
+  "xref": 350,
+  "datei": "katalog_bilder/herm_sneaker_turkis.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Cups Sneaker (babyblau)",
+  "preis": "109.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 38,
+  "xref": 343,
+  "datei": "katalog_bilder/cups_sneaker_babyblau.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Herm Sneaker (grau)",
+  "preis": "109.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 39,
+  "xref": 352,
+  "datei": "katalog_bilder/herm_sneaker_grau.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Herm Sneaker (weiss)",
+  "preis": "109.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 39,
+  "xref": 355,
+  "datei": "katalog_bilder/herm_sneaker_weiss.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Loubs Spike Sneaker (schwarz)",
+  "preis": "119.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 39,
+  "xref": 358,
+  "datei": "katalog_bilder/loubs_spike_sneaker_schwarz.jpeg",
+  "px": [
+   730,
+   730
+  ]
+ },
+ {
+  "name": "Herm Sneaker (braun)",
+  "preis": "109.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 39,
+  "xref": 353,
+  "datei": "katalog_bilder/herm_sneaker_braun.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Loubs Spike Sneaker (grau)",
+  "preis": "119.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 39,
+  "xref": 360,
+  "datei": "katalog_bilder/loubs_spike_sneaker_grau.jpeg",
+  "px": [
+   800,
+   600
+  ]
+ },
+ {
+  "name": "B23 Sneaker",
+  "preis": "119.0 EUR",
+  "kategorie": "Sneaker",
+  "seite": 39,
+  "xref": 357,
+  "datei": "katalog_bilder/b23_sneaker.jpeg",
+  "px": [
+   739,
+   800
+  ]
+ },
+ {
+  "name": "Loubs Spike Sneaker (marineblau)",
+  "preis": "119.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 39,
+  "xref": 359,
+  "datei": "katalog_bilder/loubs_spike_sneaker_marineblau.jpeg",
+  "px": [
+   800,
+   600
+  ]
+ },
+ {
+  "name": "Herm Sneaker (schwarz-orange)",
+  "preis": "109.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 39,
+  "xref": 354,
+  "datei": "katalog_bilder/herm_sneaker_schwarz_orange.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "GG Sneaker Damen",
+  "preis": "94.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 39,
+  "xref": 356,
+  "datei": "katalog_bilder/gg_sneaker_damen.jpeg",
+  "px": [
+   707,
+   800
+  ]
+ },
+ {
+  "name": "Triple S Sneaker",
+  "preis": "99.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 40,
+  "xref": 362,
+  "datei": "katalog_bilder/triple_s_sneaker.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Hot Step Sneaker (schwarz-grau)",
+  "preis": "99.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 40,
+  "xref": 373,
+  "datei": "katalog_bilder/hot_step_sneaker_schwarz_grau.jpeg",
+  "px": [
+   736,
+   800
+  ]
+ },
+ {
+  "name": "Shox Sneaker (schwarz)",
+  "preis": "109.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 40,
+  "xref": 363,
+  "datei": "katalog_bilder/shox_sneaker_schwarz.jpeg",
+  "px": [
+   640,
+   800
+  ]
+ },
+ {
+  "name": "Hot Step Sneaker (weiss)",
+  "preis": "99.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 40,
+  "xref": 367,
+  "datei": "katalog_bilder/hot_step_sneaker_weiss.jpeg",
+  "px": [
+   600,
+   314
+  ]
+ },
+ {
+  "name": "Hot Step Sneaker (schwarz)",
+  "preis": "",
+  "kategorie": "Sneaker",
+  "seite": 40,
+  "xref": 368,
+  "datei": "katalog_bilder/hot_step_sneaker_schwarz.jpeg",
+  "px": [
+   600,
+   306
+  ]
+ },
+ {
+  "name": "Hot Step Sneaker (grau)",
+  "preis": "99.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 40,
+  "xref": 372,
+  "datei": "katalog_bilder/hot_step_sneaker_grau.jpeg",
+  "px": [
+   738,
+   800
+  ]
+ },
+ {
+  "name": "99.99 EUR\nHot Step Sneaker (lila)",
+  "preis": "99.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 40,
+  "xref": 369,
+  "datei": "katalog_bilder/99_99_eur_hot_step_sneaker_lila.jpeg",
+  "px": [
+   600,
+   314
+  ]
+ },
+ {
+  "name": "Shox Sneaker (grau)",
+  "preis": "109.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 40,
+  "xref": 365,
+  "datei": "katalog_bilder/shox_sneaker_grau.jpeg",
+  "px": [
+   640,
+   800
+  ]
+ },
+ {
+  "name": "Shox Sneaker (braun)",
+  "preis": "109.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 40,
+  "xref": 366,
+  "datei": "katalog_bilder/shox_sneaker_braun.jpeg",
+  "px": [
+   640,
+   800
+  ]
+ },
+ {
+  "name": "Hot Step Sneaker (orange)",
+  "preis": "99.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 40,
+  "xref": 371,
+  "datei": "katalog_bilder/hot_step_sneaker_orange.jpeg",
+  "px": [
+   600,
+   307
+  ]
+ },
+ {
+  "name": "Hot Step Sneaker (mintgrun)",
+  "preis": "99.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 40,
+  "xref": 370,
+  "datei": "katalog_bilder/hot_step_sneaker_mintgrun.jpeg",
+  "px": [
+   600,
+   302
+  ]
+ },
+ {
+  "name": "Shox Sneaker (weiss)",
+  "preis": "109.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 40,
+  "xref": 364,
+  "datei": "katalog_bilder/shox_sneaker_weiss.jpeg",
+  "px": [
+   640,
+   800
+  ]
+ },
+ {
+  "name": "B30 Sneaker (schwarz)",
+  "preis": "99.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 41,
+  "xref": 376,
+  "datei": "katalog_bilder/b30_sneaker_schwarz.jpeg",
+  "px": [
+   799,
+   800
+  ]
+ },
+ {
+  "name": "Lou V Trainer Sneaker (schwarz)",
+  "preis": "99.95 EUR",
+  "kategorie": "Sneaker",
+  "seite": 41,
+  "xref": 380,
+  "datei": "katalog_bilder/lou_v_trainer_sneaker_schwarz.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Lou V Trainer Sneaker (weiss)",
+  "preis": "99.95 EUR",
+  "kategorie": "Sneaker",
+  "seite": 41,
+  "xref": 381,
+  "datei": "katalog_bilder/lou_v_trainer_sneaker_weiss.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "B30 Sneaker (beige)",
+  "preis": "99.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 41,
+  "xref": 379,
+  "datei": "katalog_bilder/b30_sneaker_beige.jpeg",
+  "px": [
+   745,
+   800
+  ]
+ },
+ {
+  "name": "Lou V Trainer Sneaker (rosa)",
+  "preis": "99.95 EUR",
+  "kategorie": "Sneaker",
+  "seite": 41,
+  "xref": 383,
+  "datei": "katalog_bilder/lou_v_trainer_sneaker_rosa.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "B30 Sneaker (weiss)",
+  "preis": "99.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 41,
+  "xref": 377,
+  "datei": "katalog_bilder/b30_sneaker_weiss.jpeg",
+  "px": [
+   742,
+   800
+  ]
+ },
+ {
+  "name": "B30 Sneaker (blau)",
+  "preis": "99.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 41,
+  "xref": 378,
+  "datei": "katalog_bilder/b30_sneaker_blau.jpeg",
+  "px": [
+   747,
+   800
+  ]
+ },
+ {
+  "name": "Hot Step Sneaker (grau-weiss)",
+  "preis": "99.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 41,
+  "xref": 375,
+  "datei": "katalog_bilder/hot_step_sneaker_grau_weiss.jpeg",
+  "px": [
+   745,
+   800
+  ]
+ },
+ {
+  "name": "Lou V Trainer Sneaker (blau)",
+  "preis": "99.95 EUR",
+  "kategorie": "Sneaker",
+  "seite": 41,
+  "xref": 382,
+  "datei": "katalog_bilder/lou_v_trainer_sneaker_blau.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Gel - Runner Sneaker V2 (rosa)",
+  "preis": "89.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 42,
+  "xref": 385,
+  "datei": "katalog_bilder/gel_runner_sneaker_v2_rosa.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Gel - Runner Sneaker V2 (beige)",
+  "preis": "89.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 42,
+  "xref": 387,
+  "datei": "katalog_bilder/gel_runner_sneaker_v2_beige.jpeg",
+  "px": [
+   564,
+   800
+  ]
+ },
+ {
+  "name": "Gel - Runner Sneaker V2 (weiss)",
+  "preis": "89.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 42,
+  "xref": 386,
+  "datei": "katalog_bilder/gel_runner_sneaker_v2_weiss.jpeg",
+  "px": [
+   800,
+   600
+  ]
+ },
+ {
+  "name": "Gel - Runner Sneaker V2 (babyblau)",
+  "preis": "89.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 42,
+  "xref": 390,
+  "datei": "katalog_bilder/gel_runner_sneaker_v2_babyblau.jpeg",
+  "px": [
+   564,
+   800
+  ]
+ },
+ {
+  "name": "Gel - Runner Sneaker V2 (grau blau)",
+  "preis": "89.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 42,
+  "xref": 389,
+  "datei": "katalog_bilder/gel_runner_sneaker_v2_grau_blau.jpeg",
+  "px": [
+   604,
+   607
+  ]
+ },
+ {
+  "name": "Gel - Runner Sneaker V2 (schwarz weiß",
+  "preis": "89.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 42,
+  "xref": 391,
+  "datei": "katalog_bilder/gel_runner_sneaker_v2_schwarz_weiss.jpeg",
+  "px": [
+   564,
+   800
+  ]
+ },
+ {
+  "name": "Gel - Runner Sneaker V2 (beige braun)",
+  "preis": "89.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 42,
+  "xref": 393,
+  "datei": "katalog_bilder/gel_runner_sneaker_v2_beige_braun.jpeg",
+  "px": [
+   564,
+   800
+  ]
+ },
+ {
+  "name": "Gel - Runner Sneaker V2 (schwarz)",
+  "preis": "89.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 42,
+  "xref": 388,
+  "datei": "katalog_bilder/gel_runner_sneaker_v2_schwarz.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Gel - Runner Sneaker V2 (pink)",
+  "preis": "89.99 EUR",
+  "kategorie": "Sneaker",
+  "seite": 42,
+  "xref": 392,
+  "datei": "katalog_bilder/gel_runner_sneaker_v2_pink.jpeg",
+  "px": [
+   564,
+   800
+  ]
+ },
+ {
+  "name": "HRMS Sandalen (schwarz)",
+  "preis": "69.99 EUR",
+  "kategorie": "Sandalen, Heels & Slides",
+  "seite": 43,
+  "xref": 396,
+  "datei": "katalog_bilder/hrms_sandalen_schwarz.jpeg",
+  "px": [
+   720,
+   720
+  ]
+ },
+ {
+  "name": "HRMS Sandalen (braun)",
+  "preis": "",
+  "kategorie": "Sandalen, Heels & Slides",
+  "seite": 43,
+  "xref": 398,
+  "datei": "katalog_bilder/hrms_sandalen_braun.jpeg",
+  "px": [
+   800,
+   700
+  ]
+ },
+ {
+  "name": "69.99 EUR\nHRMS Sandalen (gruen)",
+  "preis": "69.99 EUR",
+  "kategorie": "Sandalen, Heels & Slides",
+  "seite": 43,
+  "xref": 403,
+  "datei": "katalog_bilder/69_99_eur_hrms_sandalen_gruen.jpeg",
+  "px": [
+   800,
+   706
+  ]
+ },
+ {
+  "name": "69.99 EUR\nHRMS Sandalen (rosa)",
+  "preis": "69.99 EUR",
+  "kategorie": "Sandalen, Heels & Slides",
+  "seite": 43,
+  "xref": 399,
+  "datei": "katalog_bilder/69_99_eur_hrms_sandalen_rosa.jpeg",
+  "px": [
+   720,
+   644
+  ]
+ },
+ {
+  "name": "HRMS Sandalen (weiss)",
+  "preis": "69.99 EUR",
+  "kategorie": "Sandalen, Heels & Slides",
+  "seite": 43,
+  "xref": 397,
+  "datei": "katalog_bilder/hrms_sandalen_weiss.jpeg",
+  "px": [
+   720,
+   657
+  ]
+ },
+ {
+  "name": "HRMS Sandalen (rot)",
+  "preis": "69.99 EUR",
+  "kategorie": "Sandalen, Heels & Slides",
+  "seite": 43,
+  "xref": 400,
+  "datei": "katalog_bilder/hrms_sandalen_rot.jpeg",
+  "px": [
+   720,
+   627
+  ]
+ },
+ {
+  "name": "HRMS Sandalen (babyblau)",
+  "preis": "",
+  "kategorie": "Sandalen, Heels & Slides",
+  "seite": 43,
+  "xref": 402,
+  "datei": "katalog_bilder/hrms_sandalen_babyblau.jpeg",
+  "px": [
+   800,
+   695
+  ]
+ },
+ {
+  "name": "Opium SL Heels",
+  "preis": "69.99 EUR",
+  "kategorie": "Sandalen, Heels & Slides",
+  "seite": 43,
+  "xref": 395,
+  "datei": "katalog_bilder/opium_sl_heels.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "HRMS Sandalen (lila)",
+  "preis": "69.99 EUR",
+  "kategorie": "Sandalen, Heels & Slides",
+  "seite": 43,
+  "xref": 401,
+  "datei": "katalog_bilder/hrms_sandalen_lila.jpeg",
+  "px": [
+   800,
+   695
+  ]
+ },
+ {
+  "name": "CC Mules (schwarz)",
+  "preis": "119.99 EUR",
+  "kategorie": "Sandalen, Heels & Slides",
+  "seite": 44,
+  "xref": 408,
+  "datei": "katalog_bilder/cc_mules_schwarz.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "69.99 EUR\nHRMS Sandalen (blau)",
+  "preis": "69.99 EUR",
+  "kategorie": "Sandalen, Heels & Slides",
+  "seite": 44,
+  "xref": 406,
+  "datei": "katalog_bilder/69_99_eur_hrms_sandalen_blau.jpeg",
+  "px": [
+   640,
+   800
+  ]
+ },
+ {
+  "name": "GG Slides",
+  "preis": "64.99 EUR",
+  "kategorie": "Sandalen, Heels & Slides",
+  "seite": 44,
+  "xref": 412,
+  "datei": "katalog_bilder/gg_slides.jpeg",
+  "px": [
+   764,
+   800
+  ]
+ },
+ {
+  "name": "CC Ballerinas (Schwarz)",
+  "preis": "89.99 EUR",
+  "kategorie": "Sandalen, Heels & Slides",
+  "seite": 44,
+  "xref": 413,
+  "datei": "katalog_bilder/cc_ballerinas_schwarz.jpeg",
+  "px": [
+   599,
+   800
+  ]
+ },
+ {
+  "name": "PILLOW MULES BLACK",
+  "preis": "64.99 EUR",
+  "kategorie": "Sandalen, Heels & Slides",
+  "seite": 44,
+  "xref": 409,
+  "datei": "katalog_bilder/pillow_mules_black.jpeg",
+  "px": [
+   507,
+   800
+  ]
+ },
+ {
+  "name": "HRMS Sandalen (beige)",
+  "preis": "69.99 EUR\nHRMS Sandalen (blau)",
+  "kategorie": "Sandalen, Heels & Slides",
+  "seite": 44,
+  "xref": 405,
+  "datei": "katalog_bilder/hrms_sandalen_beige.jpeg",
+  "px": [
+   800,
+   702
+  ]
+ },
+ {
+  "name": "Berry Slides",
+  "preis": "39.99 EUR",
+  "kategorie": "Sandalen, Heels & Slides",
+  "seite": 44,
+  "xref": 411,
+  "datei": "katalog_bilder/berry_slides.jpeg",
+  "px": [
+   456,
+   684
+  ]
+ },
+ {
+  "name": "CC Mules (weiss)",
+  "preis": "119.99 EUR",
+  "kategorie": "Sandalen, Heels & Slides",
+  "seite": 44,
+  "xref": 407,
+  "datei": "katalog_bilder/cc_mules_weiss.jpeg",
+  "px": [
+   685,
+   800
+  ]
+ },
+ {
+  "name": "LV Sandalen",
+  "preis": "59.99 EUR",
+  "kategorie": "Sandalen, Heels & Slides",
+  "seite": 44,
+  "xref": 410,
+  "datei": "katalog_bilder/lv_sandalen.jpeg",
+  "px": [
+   515,
+   800
+  ]
+ },
+ {
+  "name": "CC Ballerinas (Schwarz-Beige)",
+  "preis": "89.99 EUR",
+  "kategorie": "Sandalen, Heels & Slides",
+  "seite": 45,
+  "xref": 415,
+  "datei": "katalog_bilder/cc_ballerinas_schwarz_beige.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "CD Pumps",
+  "preis": "84.95 EUR",
+  "kategorie": "Sandalen, Heels & Slides",
+  "seite": 45,
+  "xref": 416,
+  "datei": "katalog_bilder/cd_pumps.jpeg",
+  "px": [
+   739,
+   800
+  ]
+ },
+ {
+  "name": "Loub Heels",
+  "preis": "84.99 EUR",
+  "kategorie": "Sandalen, Heels & Slides",
+  "seite": 45,
+  "xref": 417,
+  "datei": "katalog_bilder/loub_heels.jpeg",
+  "px": [
+   707,
+   800
+  ]
+ },
+ {
+  "name": "GG Schlappen",
+  "preis": "69.99 EUR",
+  "kategorie": "Sandalen, Heels & Slides",
+  "seite": 45,
+  "xref": 418,
+  "datei": "katalog_bilder/gg_schlappen.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "GG Cardholder",
+  "preis": "24.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 46,
+  "xref": 425,
+  "datei": "katalog_bilder/gg_cardholder.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Cassandra SL Bag (rot)",
+  "preis": "79.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 46,
+  "xref": 423,
+  "datei": "katalog_bilder/cassandra_sl_bag_rot.jpeg",
+  "px": [
+   640,
+   800
+  ]
+ },
+ {
+  "name": "GYD Travel Bag (blau)",
+  "preis": "79.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 46,
+  "xref": 428,
+  "datei": "katalog_bilder/gyd_travel_bag_blau.jpeg",
+  "px": [
+   600,
+   800
+  ]
+ },
+ {
+  "name": "109.99 EUR\nCassandra SL Bag (schwarz)",
+  "preis": "79.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 46,
+  "xref": 422,
+  "datei": "katalog_bilder/109_99_eur_cassandra_sl_bag_schwarz.jpeg",
+  "px": [
+   640,
+   800
+  ]
+ },
+ {
+  "name": "Ophelia GG Bag",
+  "preis": "79.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 46,
+  "xref": 420,
+  "datei": "katalog_bilder/ophelia_gg_bag.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "GYD Travel Bag (grau)",
+  "preis": "79.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 46,
+  "xref": 427,
+  "datei": "katalog_bilder/gyd_travel_bag_grau.jpeg",
+  "px": [
+   600,
+   800
+  ]
+ },
+ {
+  "name": "Marmont GG Bag",
+  "preis": "79.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 46,
+  "xref": 424,
+  "datei": "katalog_bilder/marmont_gg_bag.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "GYD Travel Bag (schwarz)",
+  "preis": "79.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 46,
+  "xref": 426,
+  "datei": "katalog_bilder/gyd_travel_bag_schwarz.jpeg",
+  "px": [
+   600,
+   800
+  ]
+ },
+ {
+  "name": "Loop LV Bag",
+  "preis": "109.99 EUR\nCassandra SL Bag (schwarz)",
+  "kategorie": "Taschen & Wallets",
+  "seite": 46,
+  "xref": 421,
+  "datei": "katalog_bilder/loop_lv_bag.jpeg",
+  "px": [
+   800,
+   666
+  ]
+ },
+ {
+  "name": "PRDA Cardholder (schwarz)",
+  "preis": "24.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 47,
+  "xref": 432,
+  "datei": "katalog_bilder/prda_cardholder_schwarz.jpeg",
+  "px": [
+   599,
+   800
+  ]
+ },
+ {
+  "name": "GYD Cardholder (blau)",
+  "preis": "19.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 47,
+  "xref": 435,
+  "datei": "katalog_bilder/gyd_cardholder_blau.jpeg",
+  "px": [
+   360,
+   360
+  ]
+ },
+ {
+  "name": "PRDA Cardholder (weiss)",
+  "preis": "24.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 47,
+  "xref": 433,
+  "datei": "katalog_bilder/prda_cardholder_weiss.jpeg",
+  "px": [
+   640,
+   800
+  ]
+ },
+ {
+  "name": "GYD Cardholder (weiss)",
+  "preis": "19.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 47,
+  "xref": 434,
+  "datei": "katalog_bilder/gyd_cardholder_weiss.jpeg",
+  "px": [
+   360,
+   360
+  ]
+ },
+ {
+  "name": "GYD Cardholder (schwarz)",
+  "preis": "19.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 47,
+  "xref": 438,
+  "datei": "katalog_bilder/gyd_cardholder_schwarz.jpeg",
+  "px": [
+   360,
+   360
+  ]
+ },
+ {
+  "name": "GYD Travel Bag (gruen)",
+  "preis": "79.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 47,
+  "xref": 430,
+  "datei": "katalog_bilder/gyd_travel_bag_gruen.jpeg",
+  "px": [
+   600,
+   800
+  ]
+ },
+ {
+  "name": "GYD Cardholder (grau)",
+  "preis": "19.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 47,
+  "xref": 437,
+  "datei": "katalog_bilder/gyd_cardholder_grau.jpeg",
+  "px": [
+   360,
+   360
+  ]
+ },
+ {
+  "name": "GYD Cardholder (gruen)",
+  "preis": "19.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 47,
+  "xref": 436,
+  "datei": "katalog_bilder/gyd_cardholder_gruen.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "GYD Travel Bag (schwarz-braun)",
+  "preis": "79.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 47,
+  "xref": 431,
+  "datei": "katalog_bilder/gyd_travel_bag_schwarz_braun.jpeg",
+  "px": [
+   600,
+   800
+  ]
+ },
+ {
+  "name": "GYD Bag (weiss)",
+  "preis": "49.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 48,
+  "xref": 446,
+  "datei": "katalog_bilder/gyd_bag_weiss.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "GYD Bag (grau)",
+  "preis": "49.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 48,
+  "xref": 448,
+  "datei": "katalog_bilder/gyd_bag_grau.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "LV Wallet",
+  "preis": "24.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 48,
+  "xref": 445,
+  "datei": "katalog_bilder/lv_wallet.jpeg",
+  "px": [
+   600,
+   600
+  ]
+ },
+ {
+  "name": "GYD Cardholder (dunkelblau)",
+  "preis": "19.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 48,
+  "xref": 440,
+  "datei": "katalog_bilder/gyd_cardholder_dunkelblau.jpeg",
+  "px": [
+   360,
+   360
+  ]
+ },
+ {
+  "name": "GG Gürtel und Portmonee",
+  "preis": "34.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 48,
+  "xref": 443,
+  "datei": "katalog_bilder/gg_guertel_und_portmonee.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "GG Gürtel und Portmonee",
+  "preis": "34.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 48,
+  "xref": 442,
+  "datei": "katalog_bilder/gg_guertel_und_portmonee_2.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "GYD Bag (schwarz)",
+  "preis": "49.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 48,
+  "xref": 447,
+  "datei": "katalog_bilder/gyd_bag_schwarz.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "GG Gürtel und Portmonee (gold-silber)",
+  "preis": "34.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 48,
+  "xref": 441,
+  "datei": "katalog_bilder/gg_guertel_und_portmonee_gold_silber.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "GG Gürtel und Portmonee",
+  "preis": "34.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 48,
+  "xref": 444,
+  "datei": "katalog_bilder/gg_guertel_und_portmonee_3.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "GYD Bag (blau)",
+  "preis": "49.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 49,
+  "xref": 452,
+  "datei": "katalog_bilder/gyd_bag_blau.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "GYD Bag (gruen)",
+  "preis": "49.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 49,
+  "xref": 451,
+  "datei": "katalog_bilder/gyd_bag_gruen.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Nano Speedy Handtasche (himmelblau)",
+  "preis": "69.95 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 49,
+  "xref": 459,
+  "datei": "katalog_bilder/nano_speedy_handtasche_himmelblau.jpeg",
+  "px": [
+   800,
+   667
+  ]
+ },
+ {
+  "name": "79.99 EUR\nLV Tasche (schwarz)",
+  "preis": "79.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 49,
+  "xref": 455,
+  "datei": "katalog_bilder/79_99_eur_lv_tasche_schwarz.jpeg",
+  "px": [
+   800,
+   490
+  ]
+ },
+ {
+  "name": "LV Tasche (grau)",
+  "preis": "79.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 49,
+  "xref": 456,
+  "datei": "katalog_bilder/lv_tasche_grau.jpeg",
+  "px": [
+   800,
+   508
+  ]
+ },
+ {
+  "name": "Nano Speedy Handtasche (schwarz)",
+  "preis": "69.95 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 49,
+  "xref": 460,
+  "datei": "katalog_bilder/nano_speedy_handtasche_schwarz.jpeg",
+  "px": [
+   800,
+   667
+  ]
+ },
+ {
+  "name": "GYD Bag (rot)",
+  "preis": "49.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 49,
+  "xref": 450,
+  "datei": "katalog_bilder/gyd_bag_rot.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Nano Speedy Handtasche (braun)",
+  "preis": "69.95 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 49,
+  "xref": 458,
+  "datei": "katalog_bilder/nano_speedy_handtasche_braun.jpeg",
+  "px": [
+   800,
+   667
+  ]
+ },
+ {
+  "name": "LV Tasche (blau)",
+  "preis": "79.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 49,
+  "xref": 457,
+  "datei": "katalog_bilder/lv_tasche_blau.jpeg",
+  "px": [
+   800,
+   493
+  ]
+ },
+ {
+  "name": "GYD Bag (gelb)",
+  "preis": "49.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 49,
+  "xref": 453,
+  "datei": "katalog_bilder/gyd_bag_gelb.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Nano Speedy Handtasche (pink)",
+  "preis": "69.95 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 49,
+  "xref": 461,
+  "datei": "katalog_bilder/nano_speedy_handtasche_pink.jpeg",
+  "px": [
+   800,
+   667
+  ]
+ },
+ {
+  "name": "LV Tasche (weiss)",
+  "preis": "",
+  "kategorie": "Taschen & Wallets",
+  "seite": 49,
+  "xref": 454,
+  "datei": "katalog_bilder/lv_tasche_weiss.jpeg",
+  "px": [
+   800,
+   480
+  ]
+ },
+ {
+  "name": "SL Beach Bag",
+  "preis": "124.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 50,
+  "xref": 464,
+  "datei": "katalog_bilder/sl_beach_bag.jpeg",
+  "px": [
+   640,
+   800
+  ]
+ },
+ {
+  "name": "GG Shopper Bag (rosa)",
+  "preis": "99.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 50,
+  "xref": 467,
+  "datei": "katalog_bilder/gg_shopper_bag_rosa.jpeg",
+  "px": [
+   490,
+   490
+  ]
+ },
+ {
+  "name": "GG Shopper Bag (beige)",
+  "preis": "99.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 50,
+  "xref": 466,
+  "datei": "katalog_bilder/gg_shopper_bag_beige.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "CC Timeless Tasche (Schwarz-Gold)",
+  "preis": "79.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 50,
+  "xref": 471,
+  "datei": "katalog_bilder/cc_timeless_tasche_schwarz_gold.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "CC Tote Bag",
+  "preis": "114.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 50,
+  "xref": 463,
+  "datei": "katalog_bilder/cc_tote_bag.jpeg",
+  "px": [
+   685,
+   800
+  ]
+ },
+ {
+  "name": "CC Vanity Bag (schwarz)",
+  "preis": "79.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 50,
+  "xref": 468,
+  "datei": "katalog_bilder/cc_vanity_bag_schwarz.jpeg",
+  "px": [
+   684,
+   800
+  ]
+ },
+ {
+  "name": "GG Shopper Bag (braun)",
+  "preis": "99.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 50,
+  "xref": 465,
+  "datei": "katalog_bilder/gg_shopper_bag_braun.jpeg",
+  "px": [
+   720,
+   763
+  ]
+ },
+ {
+  "name": "CC Vanity Bag (weiss)",
+  "preis": "",
+  "kategorie": "Taschen & Wallets",
+  "seite": 50,
+  "xref": 469,
+  "datei": "katalog_bilder/cc_vanity_bag_weiss.jpeg",
+  "px": [
+   800,
+   725
+  ]
+ },
+ {
+  "name": "79.99 EUR\nMM Shopper",
+  "preis": "119.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 50,
+  "xref": 470,
+  "datei": "katalog_bilder/79_99_eur_mm_shopper.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Felicie Bag (Weiß)",
+  "preis": "69.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 51,
+  "xref": 475,
+  "datei": "katalog_bilder/felicie_bag_weiss.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Felicie Bag (Fuchsia/Pink)",
+  "preis": "69.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 51,
+  "xref": 474,
+  "datei": "katalog_bilder/felicie_bag_fuchsia_pink.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Felicie V2 Bag (Tourtelle)",
+  "preis": "69.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 51,
+  "xref": 479,
+  "datei": "katalog_bilder/felicie_v2_bag_tourtelle.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Felicie Bag (Cerise/Rot)",
+  "preis": "69.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 51,
+  "xref": 476,
+  "datei": "katalog_bilder/felicie_bag_cerise_rot.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "CC Timeless Tasche (Schwarz-Silber)",
+  "preis": "79.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 51,
+  "xref": 473,
+  "datei": "katalog_bilder/cc_timeless_tasche_schwarz_silber.jpeg",
+  "px": [
+   768,
+   768
+  ]
+ },
+ {
+  "name": "Felicie V2 Bag (Rose poudre)",
+  "preis": "69.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 51,
+  "xref": 478,
+  "datei": "katalog_bilder/felicie_v2_bag_rose_poudre.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Felicie V2 Bag (Navy)",
+  "preis": "69.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 51,
+  "xref": 481,
+  "datei": "katalog_bilder/felicie_v2_bag_navy.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Felicie V2 Bag (Schwarz)",
+  "preis": "69.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 51,
+  "xref": 477,
+  "datei": "katalog_bilder/felicie_v2_bag_schwarz.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Felicie V2 Bag (Creme)",
+  "preis": "69.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 51,
+  "xref": 480,
+  "datei": "katalog_bilder/felicie_v2_bag_creme.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "CC Small Size Bag (Schwarz)",
+  "preis": "89.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 52,
+  "xref": 484,
+  "datei": "katalog_bilder/cc_small_size_bag_schwarz.jpeg",
+  "px": [
+   640,
+   800
+  ]
+ },
+ {
+  "name": "LV Tasche (Monogram Canvas)",
+  "preis": "89.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 52,
+  "xref": 488,
+  "datei": "katalog_bilder/lv_tasche_monogram_canvas.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "LV Alma Bag (Monogram Canvas)",
+  "preis": "89.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 52,
+  "xref": 489,
+  "datei": "katalog_bilder/lv_alma_bag_monogram_canvas.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "CC Small Size Bag (Pink)",
+  "preis": "89.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 52,
+  "xref": 487,
+  "datei": "katalog_bilder/cc_small_size_bag_pink.jpeg",
+  "px": [
+   640,
+   800
+  ]
+ },
+ {
+  "name": "LV Alma Bag (Damier Ebene Canvas)",
+  "preis": "89.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 52,
+  "xref": 490,
+  "datei": "katalog_bilder/lv_alma_bag_damier_ebene_canvas.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Felicie V2 Bag (Shimmery Ink)",
+  "preis": "69.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 52,
+  "xref": 483,
+  "datei": "katalog_bilder/felicie_v2_bag_shimmery_ink.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "CC Small Size Bag (Grau (Wildleder))",
+  "preis": "89.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 52,
+  "xref": 486,
+  "datei": "katalog_bilder/cc_small_size_bag_grau_wildleder.jpeg",
+  "px": [
+   640,
+   800
+  ]
+ },
+ {
+  "name": "CC Small Size Bag (Braun (Wildleder))",
+  "preis": "89.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 52,
+  "xref": 485,
+  "datei": "katalog_bilder/cc_small_size_bag_braun_wildleder.jpeg",
+  "px": [
+   685,
+   800
+  ]
+ },
+ {
+  "name": "CD Saddle Bag (Rosa)",
+  "preis": "99.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 52,
+  "xref": 491,
+  "datei": "katalog_bilder/cd_saddle_bag_rosa.jpeg",
+  "px": [
+   740,
+   800
+  ]
+ },
+ {
+  "name": "CD Saddle Bag (Weiß)",
+  "preis": "99.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 53,
+  "xref": 493,
+  "datei": "katalog_bilder/cd_saddle_bag_weiss.jpeg",
+  "px": [
+   740,
+   800
+  ]
+ },
+ {
+  "name": "CD Saddle Bag (Schwarz)",
+  "preis": "99.99 EUR",
+  "kategorie": "Taschen & Wallets",
+  "seite": 53,
+  "xref": 494,
+  "datei": "katalog_bilder/cd_saddle_bag_schwarz.jpeg",
+  "px": [
+   740,
+   800
+  ]
+ },
+ {
+  "name": "LV Gürtel V1",
+  "preis": "29.99 EUR",
+  "kategorie": "Gürtel",
+  "seite": 54,
+  "xref": 499,
+  "datei": "katalog_bilder/lv_guertel_v1.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Amir Gürtel (schwarz-gold)",
+  "preis": "29.99 EUR",
+  "kategorie": "Gürtel",
+  "seite": 54,
+  "xref": 497,
+  "datei": "katalog_bilder/amir_guertel_schwarz_gold.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Amir Gürtel (schwarz-silber)",
+  "preis": "29.99 EUR",
+  "kategorie": "Gürtel",
+  "seite": 54,
+  "xref": 496,
+  "datei": "katalog_bilder/amir_guertel_schwarz_silber.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Ferra Gürtel",
+  "preis": "29.99 EUR",
+  "kategorie": "Gürtel",
+  "seite": 54,
+  "xref": 498,
+  "datei": "katalog_bilder/ferra_guertel.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "C-ier Sonnenbrille (pink)",
+  "preis": "24.99 EUR",
+  "kategorie": "Sonnenbrillen",
+  "seite": 55,
+  "xref": 507,
+  "datei": "katalog_bilder/c_ier_sonnenbrille_pink.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Vanguard Sonnenbrille (weiss)",
+  "preis": "19.99 EUR",
+  "kategorie": "Sonnenbrillen",
+  "seite": 55,
+  "xref": 502,
+  "datei": "katalog_bilder/vanguard_sonnenbrille_weiss.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Vanguard Sonnenbrille (schwarz)",
+  "preis": "19.99 EUR",
+  "kategorie": "Sonnenbrillen",
+  "seite": 55,
+  "xref": 501,
+  "datei": "katalog_bilder/vanguard_sonnenbrille_schwarz.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "C-ier Sonnenbrille (braun)",
+  "preis": "24.99 EUR",
+  "kategorie": "Sonnenbrillen",
+  "seite": 55,
+  "xref": 505,
+  "datei": "katalog_bilder/c_ier_sonnenbrille_braun.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "C-ier Sonnenbrille (blau)",
+  "preis": "24.99 EUR",
+  "kategorie": "Sonnenbrillen",
+  "seite": 55,
+  "xref": 504,
+  "datei": "katalog_bilder/c_ier_sonnenbrille_blau.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "C-ier Sonnenbrille (weiss)",
+  "preis": "24.99 EUR",
+  "kategorie": "Sonnenbrillen",
+  "seite": 55,
+  "xref": 509,
+  "datei": "katalog_bilder/c_ier_sonnenbrille_weiss.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "C-ier Sonnenbrille (lila-)",
+  "preis": "24.99 EUR",
+  "kategorie": "Sonnenbrillen",
+  "seite": 55,
+  "xref": 508,
+  "datei": "katalog_bilder/c_ier_sonnenbrille_lila.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "C-ier Sonnenbrille (schwarz)",
+  "preis": "24.99 EUR",
+  "kategorie": "Sonnenbrillen",
+  "seite": 55,
+  "xref": 503,
+  "datei": "katalog_bilder/c_ier_sonnenbrille_schwarz.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "C-ier Sonnenbrille (gruen)",
+  "preis": "24.99 EUR",
+  "kategorie": "Sonnenbrillen",
+  "seite": 55,
+  "xref": 506,
+  "datei": "katalog_bilder/c_ier_sonnenbrille_gruen.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Vespera Sonnenbrille (rose)",
+  "preis": "24.99 EUR",
+  "kategorie": "Sonnenbrillen",
+  "seite": 56,
+  "xref": 517,
+  "datei": "katalog_bilder/vespera_sonnenbrille_rose.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Vespera Sonnenbrille (feuer-gold)",
+  "preis": "24.99 EUR",
+  "kategorie": "Sonnenbrillen",
+  "seite": 56,
+  "xref": 515,
+  "datei": "katalog_bilder/vespera_sonnenbrille_feuer_gold.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Vespera Sonnenbrille (weiss-schwarz)",
+  "preis": "24.99 EUR",
+  "kategorie": "Sonnenbrillen",
+  "seite": 56,
+  "xref": 514,
+  "datei": "katalog_bilder/vespera_sonnenbrille_weiss_schwarz.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Vespera Sonnenbrille",
+  "preis": "24.99 EUR",
+  "kategorie": "Sonnenbrillen",
+  "seite": 56,
+  "xref": 513,
+  "datei": "katalog_bilder/vespera_sonnenbrille.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Vespera Sonnenbrille (schwarz-gold)",
+  "preis": "24.99 EUR",
+  "kategorie": "Sonnenbrillen",
+  "seite": 56,
+  "xref": 511,
+  "datei": "katalog_bilder/vespera_sonnenbrille_schwarz_gold.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Vespera Sonnenbrille (sand-schwarz)",
+  "preis": "24.99 EUR",
+  "kategorie": "Sonnenbrillen",
+  "seite": 56,
+  "xref": 518,
+  "datei": "katalog_bilder/vespera_sonnenbrille_sand_schwarz.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Vespera Sonnenbrille (schwarz-silber)",
+  "preis": "24.99 EUR",
+  "kategorie": "Sonnenbrillen",
+  "seite": 56,
+  "xref": 512,
+  "datei": "katalog_bilder/vespera_sonnenbrille_schwarz_silber.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Vespera Sonnenbrille (lila-weiss)",
+  "preis": "24.99 EUR",
+  "kategorie": "Sonnenbrillen",
+  "seite": 56,
+  "xref": 516,
+  "datei": "katalog_bilder/vespera_sonnenbrille_lila_weiss.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Alcatraz Cap (schwarz-schwarz)",
+  "preis": "24.99 EUR",
+  "kategorie": "Caps",
+  "seite": 57,
+  "xref": 523,
+  "datei": "katalog_bilder/alcatraz_cap_schwarz_schwarz.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Alcatraz Cap (rot)",
+  "preis": "24.99 EUR",
+  "kategorie": "Caps",
+  "seite": 57,
+  "xref": 528,
+  "datei": "katalog_bilder/alcatraz_cap_rot.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Alcatraz Cap (gruen)",
+  "preis": "24.99 EUR",
+  "kategorie": "Caps",
+  "seite": 57,
+  "xref": 526,
+  "datei": "katalog_bilder/alcatraz_cap_gruen.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Alcatraz Cap (blau)",
+  "preis": "24.99 EUR",
+  "kategorie": "Caps",
+  "seite": 57,
+  "xref": 520,
+  "datei": "katalog_bilder/alcatraz_cap_blau.jpeg",
+  "px": [
+   400,
+   600
+  ]
+ },
+ {
+  "name": "Alcatraz Cap (camouflage-schwarz)",
+  "preis": "24.99 EUR",
+  "kategorie": "Caps",
+  "seite": 57,
+  "xref": 524,
+  "datei": "katalog_bilder/alcatraz_cap_camouflage_schwarz.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Alcatraz Cap (weiss-schwarz)",
+  "preis": "24.99 EUR",
+  "kategorie": "Caps",
+  "seite": 57,
+  "xref": 522,
+  "datei": "katalog_bilder/alcatraz_cap_weiss_schwarz.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Alcatraz Cap (schwarz-weiss)",
+  "preis": "24.99 EUR",
+  "kategorie": "Caps",
+  "seite": 57,
+  "xref": 521,
+  "datei": "katalog_bilder/alcatraz_cap_schwarz_weiss.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Alcatraz Cap (rosa)",
+  "preis": "24.99 EUR",
+  "kategorie": "Caps",
+  "seite": 57,
+  "xref": 527,
+  "datei": "katalog_bilder/alcatraz_cap_rosa.jpeg",
+  "px": [
+   800,
+   796
+  ]
+ },
+ {
+  "name": "Alcatraz Cap (camouflage-grau)",
+  "preis": "24.99 EUR",
+  "kategorie": "Caps",
+  "seite": 57,
+  "xref": 525,
+  "datei": "katalog_bilder/alcatraz_cap_camouflage_grau.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "GG Cap (braun v2)",
+  "preis": "29.95 EUR",
+  "kategorie": "Caps",
+  "seite": 58,
+  "xref": 534,
+  "datei": "katalog_bilder/gg_cap_braun_v2.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "Berry Cap",
+  "preis": "29.99 EUR",
+  "kategorie": "Caps",
+  "seite": 58,
+  "xref": 530,
+  "datei": "katalog_bilder/berry_cap.jpeg",
+  "px": [
+   800,
+   751
+  ]
+ },
+ {
+  "name": "GG Cap (rosa)",
+  "preis": "29.95 EUR",
+  "kategorie": "Caps",
+  "seite": 58,
+  "xref": 531,
+  "datei": "katalog_bilder/gg_cap_rosa.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "GG Cap (braun)",
+  "preis": "29.95 EUR",
+  "kategorie": "Caps",
+  "seite": 58,
+  "xref": 533,
+  "datei": "katalog_bilder/gg_cap_braun.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "GG Cap (blau)",
+  "preis": "29.95 EUR",
+  "kategorie": "Caps",
+  "seite": 58,
+  "xref": 532,
+  "datei": "katalog_bilder/gg_cap_blau.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "GG Cap (schwarz)",
+  "preis": "29.95 EUR",
+  "kategorie": "Caps",
+  "seite": 58,
+  "xref": 535,
+  "datei": "katalog_bilder/gg_cap_schwarz.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "J4 Shadow Panther",
+  "preis": "89.99 EUR",
+  "kategorie": "Sonstiges",
+  "seite": 59,
+  "xref": 537,
+  "datei": "katalog_bilder/j4_shadow_panther.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ },
+ {
+  "name": "CC Strap Sandals",
+  "preis": "89.99 EUR",
+  "kategorie": "Sonstiges",
+  "seite": 59,
+  "xref": 539,
+  "datei": "katalog_bilder/cc_strap_sandals.jpeg",
+  "px": [
+   600,
+   800
+  ]
+ },
+ {
+  "name": "J4 Storm",
+  "preis": "89.99 EUR",
+  "kategorie": "Sonstiges",
+  "seite": 59,
+  "xref": 538,
+  "datei": "katalog_bilder/j4_storm.jpeg",
+  "px": [
+   800,
+   800
+  ]
+ }
+]

@@ -13,20 +13,19 @@ atrelle__katalog.pdf      Original-Katalog (voll rasterisiert, KEIN Textlayer)
 CLAUDE_CODE_AUFTRAG.md    Aufgabenliste zum Ausbau der Pipeline
 ```
 
-## Wichtig zum Katalog-PDF
+## Katalog-Bilder (AKTUELL – ab 27.09.2026)
 
-Die PDF ist vollständig rasterisiert. `page.get_images()` liefert **null Ergebnisse** —
-jede Seite ist ein einziges großes Rasterbild.
+`atrelle_katalog_v2.pdf` ist der aktuelle Katalog (mit Textlayer + 478 eingebetteten Produktbildern).
+Alle Produktbilder sind bereits als ECHTE eingebettete Bildobjekte extrahiert
+(`page.get_images()` + `doc.extract_image(xref)`, Original-Bytes, kein Rendering, kein Crop):
 
-Korrekter Weg zum Extrahieren:
-1. Seite als Pixmap rendern: `page.get_pixmap(dpi=150)` → 1444×2057 px
-2. Mit PIL/NumPy croppen
+- `katalog_bilder/`   478 JPEGs, eine Datei = ein vollständiges Produkt, ohne Name/Preis
+- `katalog_index.json` name, preis, kategorie, seite, xref, datei
+- `extract_katalog.py` Script zum Neu-Extrahieren, wenn ein neuer Katalog kommt
 
-Grid-Layout:
-- 3 Spalten, x-Grenzen: `(30,480)`, `(481,960)`, `(961,1414)`
-- Zeilentrenner: dünne graue Linien, erkennbar über niedrige Std-Abweichung pro Zeile
-- Header-Seiten (Kategorie-Titel oben): erste Zeile beginnt ca. 185 px tiefer
-- Produktname und Preis stehen UNTER dem Bild und müssen weggecroppt werden
+Für Fits NUR noch `katalog_bilder/` + `katalog_index.json` verwenden.
+`products/`, `atrelle_products.json` und `atrelle__katalog.pdf` (alt, rasterisiert, Grid-Crops)
+sind veraltet und verstoßen gegen die Referenz-Regel (gerenderte Seite gecroppt) → nicht mehr nutzen.
 
 ## Harte Regeln
 
